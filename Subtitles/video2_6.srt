@@ -1,0 +1,807 @@
+﻿1
+00:00:00,800 --> 00:00:02,740
+- Manage by exception.
+
+2
+00:00:02,740 --> 00:00:04,900
+The manage by exception principle asks
+
+3
+00:00:04,900 --> 00:00:06,900
+one fundamental question:
+
+4
+00:00:06,900 --> 00:00:10,360
+how can we manage this
+project more efficiently?
+
+5
+00:00:10,360 --> 00:00:12,220
+Well, one of the ways that we do that is
+
+6
+00:00:12,220 --> 00:00:14,230
+by using manage by exception,
+
+7
+00:00:14,230 --> 00:00:17,330
+and that is going to allow
+only significant deviations
+
+8
+00:00:17,330 --> 00:00:19,320
+from a budget or an approved plan
+
+9
+00:00:19,320 --> 00:00:21,580
+to be brought to the
+attention of management.
+
+10
+00:00:21,580 --> 00:00:24,640
+That's right, senior
+management doesn't want to know
+
+11
+00:00:24,640 --> 00:00:27,060
+the day-to-day progress of the project.
+
+12
+00:00:27,060 --> 00:00:30,310
+Instead, they leave that
+to the project manager
+
+13
+00:00:30,310 --> 00:00:33,770
+and the way they do this is
+through using tolerances.
+
+14
+00:00:33,770 --> 00:00:36,350
+So because projects are so fluid,
+
+15
+00:00:36,350 --> 00:00:39,090
+they know that change is going to happen.
+
+16
+00:00:39,090 --> 00:00:42,300
+I'm going to budget $10,000 for this stage
+
+17
+00:00:42,300 --> 00:00:45,990
+but it may cost 9,000; it may cost 11,000
+
+18
+00:00:45,990 --> 00:00:47,910
+because changes happen.
+
+19
+00:00:47,910 --> 00:00:49,710
+How are we going to deal with that change?
+
+20
+00:00:49,710 --> 00:00:51,340
+Do I need to go back to the project board
+
+21
+00:00:51,340 --> 00:00:53,260
+every time there's going to be an issue?
+
+22
+00:00:53,260 --> 00:00:57,140
+Well no, instead by
+using manage by exception
+
+23
+00:00:57,140 --> 00:01:00,550
+each project is going to
+have tolerances built into it
+
+24
+00:01:00,550 --> 00:01:02,570
+for each project objective,
+
+25
+00:01:02,570 --> 00:01:05,370
+and delegated authorities
+down to the project manager
+
+26
+00:01:05,370 --> 00:01:06,870
+for them to deal with it.
+
+27
+00:01:06,870 --> 00:01:09,570
+So in the case of this stage, say a cost
+
+28
+00:01:09,570 --> 00:01:11,620
+which is one of those project objectives,
+
+29
+00:01:11,620 --> 00:01:13,857
+if we have cost and we
+say the cost is up to
+
+30
+00:01:13,857 --> 00:01:17,890
+$10,000 for this stage, and
+you have a 10% tolerance,
+
+31
+00:01:17,890 --> 00:01:21,790
+that means you can spend
+between 10 and $11,000.
+
+32
+00:01:21,790 --> 00:01:25,880
+If I forecast that this project
+is going to cost $12,000
+
+33
+00:01:25,880 --> 00:01:28,560
+well now I need to go
+talk to the project board
+
+34
+00:01:28,560 --> 00:01:31,320
+because I'm outside the
+tolerance they gave me.
+
+35
+00:01:31,320 --> 00:01:34,540
+This allows project managers
+to handle more of the issues
+
+36
+00:01:34,540 --> 00:01:36,850
+without having to involve senior managers
+
+37
+00:01:36,850 --> 00:01:40,610
+or the project board, and it
+eliminates a ton of meetings
+
+38
+00:01:40,610 --> 00:01:42,980
+which makes us more efficient.
+
+39
+00:01:42,980 --> 00:01:44,740
+So, how do we do that?
+
+40
+00:01:44,740 --> 00:01:47,140
+Well as a project manager
+I am going to submit
+
+41
+00:01:47,140 --> 00:01:50,030
+a highlight report, and the
+highlight report is used
+
+42
+00:01:50,030 --> 00:01:52,270
+to keep the project board informed about
+
+43
+00:01:52,270 --> 00:01:54,640
+the progress of the project.
+
+44
+00:01:54,640 --> 00:01:58,100
+If a tolerance for the stage
+is forecast to be exceeded
+
+45
+00:01:58,100 --> 00:02:00,680
+then I have to create an exception report
+
+46
+00:02:00,680 --> 00:02:02,700
+and send that to the project board.
+
+47
+00:02:02,700 --> 00:02:05,560
+So in the example of this stage and cost,
+
+48
+00:02:05,560 --> 00:02:09,170
+we said this stage is
+allowed to cost $10,000
+
+49
+00:02:09,170 --> 00:02:11,050
+plus 10% tolerance.
+
+50
+00:02:11,050 --> 00:02:14,300
+So if I now forecast that
+it's going to cost me 15,000
+
+51
+00:02:14,300 --> 00:02:17,560
+that's a 50% higher than I was allotted.
+
+52
+00:02:17,560 --> 00:02:19,610
+I need to put that into
+an exception report,
+
+53
+00:02:19,610 --> 00:02:22,780
+tell the project board, and
+ask either for more money
+
+54
+00:02:22,780 --> 00:02:24,490
+or some sort of a change.
+
+55
+00:02:24,490 --> 00:02:27,260
+That change may be to
+relax some requirements
+
+56
+00:02:27,260 --> 00:02:28,860
+so that I can spend less money.
+
+57
+00:02:28,860 --> 00:02:30,870
+Or it may be to give me more money
+
+58
+00:02:30,870 --> 00:02:33,350
+so I can meet the requirements they want.
+
+59
+00:02:33,350 --> 00:02:35,020
+Everything is going to be a balancing act
+
+60
+00:02:35,020 --> 00:02:37,560
+between time and quality and cost,
+
+61
+00:02:37,560 --> 00:02:39,760
+and we'll talk more about
+that as we go forward.
+
+62
+00:02:39,760 --> 00:02:41,370
+But for right now, I just
+want you to understand
+
+63
+00:02:41,370 --> 00:02:43,780
+the concept of these tolerances.
+
+64
+00:02:43,780 --> 00:02:47,280
+For each of the objectives
+we have a tolerance set,
+
+65
+00:02:47,280 --> 00:02:49,720
+and that may be something
+that's don't go above
+
+66
+00:02:49,720 --> 00:02:52,030
+this amount of money, or don't go below
+
+67
+00:02:52,030 --> 00:02:53,950
+this amount of performance, right?
+
+68
+00:02:53,950 --> 00:02:56,460
+And we'll talk about
+that as we go through.
+
+69
+00:02:56,460 --> 00:02:58,900
+The project objectives
+we're talking about here
+
+70
+00:02:58,900 --> 00:03:03,000
+is time, and cost, and quality, and scope,
+
+71
+00:03:03,000 --> 00:03:04,970
+and benefits, and risk.
+
+72
+00:03:04,970 --> 00:03:07,220
+Each of these have to be balanced
+
+73
+00:03:07,220 --> 00:03:10,390
+and they're all set in the
+initial initiation stage
+
+74
+00:03:10,390 --> 00:03:13,550
+for that program initiation documentation.
+
+75
+00:03:13,550 --> 00:03:15,530
+When I look at that PID it's going to say
+
+76
+00:03:15,530 --> 00:03:18,770
+this project must be completed in X time,
+
+77
+00:03:18,770 --> 00:03:20,330
+let's say six months.
+
+78
+00:03:20,330 --> 00:03:22,760
+If I think that I'm not
+going to meet the six months,
+
+79
+00:03:22,760 --> 00:03:24,910
+I'm going to raise that as an exception.
+
+80
+00:03:24,910 --> 00:03:26,150
+Now with a highlight report,
+
+81
+00:03:26,150 --> 00:03:28,190
+I also can tell them good things.
+
+82
+00:03:28,190 --> 00:03:31,280
+I thought it was going to
+cost me $10,000 for this stage
+
+83
+00:03:31,280 --> 00:03:33,280
+but I was able to do it for 5,000
+
+84
+00:03:33,280 --> 00:03:35,090
+and I saved you some money.
+
+85
+00:03:35,090 --> 00:03:39,230
+Quality, we need to have a
+99% uptime on this network.
+
+86
+00:03:39,230 --> 00:03:41,540
+Well, am I meeting that or am I not?
+
+87
+00:03:41,540 --> 00:03:42,870
+What's my tolerance?
+
+88
+00:03:42,870 --> 00:03:45,770
+Same thing with scope, benefits, and risk.
+
+89
+00:03:45,770 --> 00:03:48,390
+All of these are things
+that are those levers
+
+90
+00:03:48,390 --> 00:03:53,140
+that the project board uses
+to control the project for us.
+
+91
+00:03:53,140 --> 00:03:56,510
+Now tolerances can be
+set three different ways
+
+92
+00:03:56,510 --> 00:03:59,940
+and they get started by the
+program or corporate management
+
+93
+00:03:59,940 --> 00:04:01,910
+when they approve the project plan.
+
+94
+00:04:01,910 --> 00:04:05,340
+They say for the project
+level, the overall,
+
+95
+00:04:05,340 --> 00:04:07,890
+there's a certain amount of tolerance.
+
+96
+00:04:07,890 --> 00:04:10,110
+Let's say that they say
+the project level tolerance
+
+97
+00:04:10,110 --> 00:04:12,080
+is 10% of cost.
+
+98
+00:04:12,080 --> 00:04:13,930
+This is going to be a
+million dollar project
+
+99
+00:04:13,930 --> 00:04:16,570
+and I will allow a 10% variation.
+
+100
+00:04:16,570 --> 00:04:18,880
+Now the stage is going to be recommended
+
+101
+00:04:18,880 --> 00:04:22,860
+by the project manager and
+approved by the project board.
+
+102
+00:04:22,860 --> 00:04:24,790
+Now if I was on the project board
+
+103
+00:04:24,790 --> 00:04:27,060
+and I knew I had a 10% tolerance,
+
+104
+00:04:27,060 --> 00:04:28,980
+that means I'm probably going
+to give the project manager
+
+105
+00:04:28,980 --> 00:04:31,640
+something like a five or a 6% tolerance
+
+106
+00:04:31,640 --> 00:04:34,820
+so I have room to control if
+he starts going out of bounds.
+
+107
+00:04:34,820 --> 00:04:37,550
+Then the project manager
+can actually set tolerances
+
+108
+00:04:37,550 --> 00:04:40,740
+for his teams below him
+in the work packages.
+
+109
+00:04:40,740 --> 00:04:42,540
+These are approved by the project manager
+
+110
+00:04:42,540 --> 00:04:45,640
+and usually if he has
+a five or 6% tolerance
+
+111
+00:04:45,640 --> 00:04:49,330
+he might only give his
+teams a one or 2% tolerance
+
+112
+00:04:49,330 --> 00:04:52,130
+because again, every time
+a tolerance is exceeded
+
+113
+00:04:52,130 --> 00:04:55,370
+the next layer up is going to
+have to deal with that change.
+
+114
+00:04:55,370 --> 00:04:57,180
+So if the team exceeds a tolerance
+
+115
+00:04:57,180 --> 00:04:59,550
+on the work package
+level, the project manager
+
+116
+00:04:59,550 --> 00:05:02,760
+can still fix it before it flashes up
+
+117
+00:05:02,760 --> 00:05:05,370
+and goes all the way
+up to the project level
+
+118
+00:05:05,370 --> 00:05:06,890
+which then has to go all the way up to
+
+119
+00:05:06,890 --> 00:05:08,820
+corporate and program management.
+
+120
+00:05:08,820 --> 00:05:10,497
+So you can see how
+these things nestle down
+
+121
+00:05:10,497 --> 00:05:13,550
+and we try to keep them down
+at the lowest level possible
+
+122
+00:05:13,550 --> 00:05:16,160
+so we can keep progress moving forward.
+
+123
+00:05:16,160 --> 00:05:19,650
+So what are some benefits
+of management by exception?
+
+124
+00:05:19,650 --> 00:05:22,930
+Well, it allows senior
+management to focus on strategy
+
+125
+00:05:22,930 --> 00:05:25,510
+without getting overburdened
+by daily decisions
+
+126
+00:05:25,510 --> 00:05:26,910
+of the project.
+
+127
+00:05:26,910 --> 00:05:29,390
+So for example here, you see a Navy ship,
+
+128
+00:05:29,390 --> 00:05:32,120
+it's out and about doing its mission.
+
+129
+00:05:32,120 --> 00:05:33,950
+The Chief of Naval
+Operations who's sitting
+
+130
+00:05:33,950 --> 00:05:37,030
+in Washington D.C. is
+not telling that ship
+
+131
+00:05:37,030 --> 00:05:39,070
+to turn left or to turn right.
+
+132
+00:05:39,070 --> 00:05:41,457
+Instead, he gives them a plan and he says,
+
+133
+00:05:41,457 --> 00:05:46,200
+"I want you to go from
+California to Australia."
+
+134
+00:05:46,200 --> 00:05:47,940
+Then it's up to the ship to figure out
+
+135
+00:05:47,940 --> 00:05:50,220
+how they're going to get
+from one place to the other
+
+136
+00:05:50,220 --> 00:05:52,610
+because they've delegated that down.
+
+137
+00:05:52,610 --> 00:05:54,630
+So that's up to them to figure that out.
+
+138
+00:05:54,630 --> 00:05:57,190
+Now on the ship there's a
+captain who is in charge
+
+139
+00:05:57,190 --> 00:05:59,160
+and he doesn't want to
+be up 24 hours a day
+
+140
+00:05:59,160 --> 00:06:01,170
+seven days a week, so he delegates down
+
+141
+00:06:01,170 --> 00:06:02,290
+some of that as well.
+
+142
+00:06:02,290 --> 00:06:04,077
+So he might say, "Okay, for the next day
+
+143
+00:06:04,077 --> 00:06:06,437
+"I want to get from point A to point B.
+
+144
+00:06:06,437 --> 00:06:08,760
+"Navigator, figure that out."
+
+145
+00:06:08,760 --> 00:06:10,490
+Then the navigator can figure that out
+
+146
+00:06:10,490 --> 00:06:11,980
+and he'll give it to the watch teams
+
+147
+00:06:11,980 --> 00:06:15,107
+and he'll say, "Okay, you
+go from point A to here
+
+148
+00:06:15,107 --> 00:06:16,727
+"and then the next team
+will take it from there
+
+149
+00:06:16,727 --> 00:06:17,880
+"to the next point,"
+
+150
+00:06:17,880 --> 00:06:19,290
+and you get the idea, right?
+
+151
+00:06:19,290 --> 00:06:22,290
+They keep breaking it down
+into smaller and smaller chunks
+
+152
+00:06:22,290 --> 00:06:24,280
+and as long as they stay
+within the tolerances
+
+153
+00:06:24,280 --> 00:06:27,290
+nobody has to report back to
+the guy in Washington D.C.
+
+154
+00:06:27,290 --> 00:06:29,410
+to say we got there or we didn't.
+
+155
+00:06:29,410 --> 00:06:31,690
+That's all they have to report,
+we did it, or we didn't,
+
+156
+00:06:31,690 --> 00:06:34,050
+or we went too far out of bounds.
+
+157
+00:06:34,050 --> 00:06:35,220
+That's the idea here.
+
+158
+00:06:35,220 --> 00:06:38,620
+It becomes an efficient use
+of senior management's time.
+
+159
+00:06:38,620 --> 00:06:40,420
+There are no regular progress meetings
+
+160
+00:06:40,420 --> 00:06:42,020
+because we have these highlight reports
+
+161
+00:06:42,020 --> 00:06:43,770
+and these exception reports,
+
+162
+00:06:43,770 --> 00:06:45,950
+and there's no in-between
+meetings that are happening
+
+163
+00:06:45,950 --> 00:06:48,960
+between the project manager
+and the project board.
+
+164
+00:06:48,960 --> 00:06:51,580
+Now that is according to PRINCE2
+
+165
+00:06:51,580 --> 00:06:54,100
+but your organization may be different.
+
+166
+00:06:54,100 --> 00:06:55,770
+I've worked in a lot of organizations
+
+167
+00:06:55,770 --> 00:06:58,430
+where they love their
+weekly progress meetings.
+
+168
+00:06:58,430 --> 00:07:00,850
+So everybody sits around
+a table for an hour
+
+169
+00:07:00,850 --> 00:07:02,397
+on a Monday morning and says,
+
+170
+00:07:02,397 --> 00:07:03,910
+"Here's what we're doing this week,"
+
+171
+00:07:03,910 --> 00:07:05,447
+and then on Friday they
+all come back and say,
+
+172
+00:07:05,447 --> 00:07:07,270
+"Here's what we finished this week,"
+
+173
+00:07:07,270 --> 00:07:08,960
+and it's really a waste of time.
+
+174
+00:07:08,960 --> 00:07:11,490
+But if they use that
+management by exception,
+
+175
+00:07:11,490 --> 00:07:13,780
+those meetings can be eliminated
+
+176
+00:07:13,780 --> 00:07:15,760
+so it really is crucial.
+
+177
+00:07:15,760 --> 00:07:19,080
+So how do you really do
+management by exception well?
+
+178
+00:07:19,080 --> 00:07:21,320
+Provide good tolerances for your people
+
+179
+00:07:21,320 --> 00:07:23,390
+and empower them to make decisions
+
+180
+00:07:23,390 --> 00:07:25,340
+to stay within those tolerances.
+
+181
+00:07:25,340 --> 00:07:29,076
+If you can do that, you will
+have a very successful project.
+
+182
+00:07:29,076 --> 00:07:31,118
+(quick electronic music)
+

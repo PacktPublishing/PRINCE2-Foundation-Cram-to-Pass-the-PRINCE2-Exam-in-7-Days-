@@ -1,0 +1,93 @@
+1
+00:00:00,500 --> 00:00:02,310
+- The seven themes.
+
+2
+00:00:02,310 --> 00:00:04,610
+So what are themes?
+
+3
+00:00:04,610 --> 00:00:08,030
+Well themes are these areas of
+project management that must
+
+4
+00:00:08,030 --> 00:00:11,340
+be addressed continuously
+throughout the project.
+
+5
+00:00:11,340 --> 00:00:13,190
+Whether we're initiating the project,
+
+6
+00:00:14,200 --> 00:00:16,150
+performing the project,
+or closing out the project
+
+7
+00:00:16,150 --> 00:00:18,840
+we still need to address
+these seven themes.
+
+8
+00:00:18,840 --> 00:00:22,880
+Now these themes are based
+upon the seven principles.
+
+9
+00:00:22,880 --> 00:00:24,680
+So you can see on the screen
+where I have the seven
+
+10
+00:00:24,680 --> 00:00:27,560
+principles below and then
+on top of that we stack
+
+11
+00:00:27,560 --> 00:00:29,160
+these seven themes.
+
+12
+00:00:29,160 --> 00:00:32,630
+These themes are then going
+to be applied inside of our
+
+13
+00:00:32,630 --> 00:00:35,550
+processes that we're going
+to get to in the next section
+
+14
+00:00:35,550 --> 00:00:36,920
+of PRINCE2.
+
+15
+00:00:36,920 --> 00:00:39,630
+But before we go there we've
+got to cover the themes.
+
+16
+00:00:39,630 --> 00:00:42,060
+And in this section we're
+going to cover each of the
+
+17
+00:00:42,060 --> 00:00:43,440
+seven themes.
+
+18
+00:00:43,440 --> 00:00:46,320
+Those seven themes are the business case,
+
+19
+00:00:46,320 --> 00:00:51,320
+organization, quality, plans,
+risk, change, and progress.
+
+20
+00:00:53,380 --> 00:00:55,913
+So let's go ahead and
+dive into the themes.
+

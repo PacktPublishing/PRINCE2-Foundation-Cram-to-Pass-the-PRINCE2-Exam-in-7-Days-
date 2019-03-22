@@ -1,0 +1,531 @@
+1
+00:00:00,610 --> 00:00:02,770
+- Exam Fundamentals.
+
+2
+00:00:02,770 --> 00:00:05,520
+So what are you really
+here in this class for?
+
+3
+00:00:05,520 --> 00:00:07,610
+Well, you're probably here
+because you're going to take
+
+4
+00:00:07,610 --> 00:00:09,320
+the PRINCE2 foundation exam.
+
+5
+00:00:09,320 --> 00:00:11,450
+And so you want to
+learn all about PRINCE2,
+
+6
+00:00:11,450 --> 00:00:13,200
+so you can pass that exam.
+
+7
+00:00:13,200 --> 00:00:16,060
+But before we do that, let's
+talk about the exam itself,
+
+8
+00:00:16,060 --> 00:00:18,060
+just for a couple of minutes.
+
+9
+00:00:18,060 --> 00:00:21,940
+The exam is the first level
+of certification in PRINCE2.
+
+10
+00:00:21,940 --> 00:00:24,730
+There's actually two other
+levels that you could go for.
+
+11
+00:00:24,730 --> 00:00:26,690
+And the PRINCE2 foundation is going to
+
+12
+00:00:26,690 --> 00:00:29,290
+introduce the method of PRINCE2.
+
+13
+00:00:29,290 --> 00:00:31,910
+It really tests, do you understand PRINCE2
+
+14
+00:00:31,910 --> 00:00:34,080
+and can you work in a project team
+
+15
+00:00:34,080 --> 00:00:36,470
+that uses the PRINCE2 environment.
+
+16
+00:00:36,470 --> 00:00:38,960
+You have to pass this
+foundation level exam
+
+17
+00:00:38,960 --> 00:00:41,080
+before you can take one of the other two,
+
+18
+00:00:41,080 --> 00:00:42,620
+if you desire to continue.
+
+19
+00:00:42,620 --> 00:00:44,340
+And those are the practitioner and
+
+20
+00:00:44,340 --> 00:00:47,070
+the agile practitioner certifications.
+
+21
+00:00:47,070 --> 00:00:50,540
+The PRINCE2 foundation
+exam is a 60 question exam
+
+22
+00:00:50,540 --> 00:00:53,250
+that you have to take in under 60 minutes.
+
+23
+00:00:53,250 --> 00:00:56,190
+The good news is, it's
+a multiple choice exam.
+
+24
+00:00:56,190 --> 00:00:58,810
+So you just have to be able
+to recognize the right answer.
+
+25
+00:00:58,810 --> 00:01:00,920
+You don't have to
+regurgitate it in an essay
+
+26
+00:01:00,920 --> 00:01:03,050
+or a short answer format.
+
+27
+00:01:03,050 --> 00:01:05,440
+Now the exam itself only requires
+
+28
+00:01:05,440 --> 00:01:07,740
+55 percent correct to pass.
+
+29
+00:01:07,740 --> 00:01:11,800
+That's 33 correct answers
+out of 60 possible questions.
+
+30
+00:01:11,800 --> 00:01:14,650
+The exam is closed book,
+so you can't take any notes
+
+31
+00:01:14,650 --> 00:01:16,090
+into your testing environment,
+
+32
+00:01:16,090 --> 00:01:17,880
+and you can't use any study guides.
+
+33
+00:01:17,880 --> 00:01:21,000
+It all has to be
+recognized from your brain.
+
+34
+00:01:21,000 --> 00:01:24,050
+And finally, an important
+thing, is that this exam
+
+35
+00:01:24,050 --> 00:01:28,690
+and this course is based off
+of the January 2018 update,
+
+36
+00:01:28,690 --> 00:01:31,630
+which is that PRINCE 2017 objectives
+
+37
+00:01:31,630 --> 00:01:34,330
+we talked about in the last lesson.
+
+38
+00:01:34,330 --> 00:01:37,110
+So are you ready to go sit for the exam?
+
+39
+00:01:37,110 --> 00:01:38,590
+Well probably not yet, 'cause you're
+
+40
+00:01:38,590 --> 00:01:40,000
+just starting this course.
+
+41
+00:01:40,000 --> 00:01:42,020
+But how do you know when you are ready?
+
+42
+00:01:42,020 --> 00:01:44,250
+Well you should take practice exams.
+
+43
+00:01:44,250 --> 00:01:46,380
+And at the end of this
+course I've provided you with
+
+44
+00:01:46,380 --> 00:01:49,260
+two full length practice exams to try.
+
+45
+00:01:49,260 --> 00:01:51,270
+If you're scoring at
+least 70 percent or higher
+
+46
+00:01:51,270 --> 00:01:53,430
+on those practice exams,
+you're ready to take
+
+47
+00:01:53,430 --> 00:01:54,980
+the real certification.
+
+48
+00:01:54,980 --> 00:01:58,240
+Now, why do I say 70
+percent if the passing score
+
+49
+00:01:58,240 --> 00:02:00,870
+is only 55 percent on test day?
+
+50
+00:02:00,870 --> 00:02:03,880
+Well, because a lot of things
+are factors on test day.
+
+51
+00:02:03,880 --> 00:02:05,130
+You may be nervous.
+
+52
+00:02:05,130 --> 00:02:07,170
+You may not have gotten
+a good night sleep.
+
+53
+00:02:07,170 --> 00:02:09,410
+All these different things
+can affect your test score.
+
+54
+00:02:09,410 --> 00:02:11,460
+And I've seen students who have a variable
+
+55
+00:02:11,460 --> 00:02:13,520
+of about 10 percent in their test score.
+
+56
+00:02:13,520 --> 00:02:15,940
+So if you're scoring 70% on my exam,
+
+57
+00:02:15,940 --> 00:02:18,040
+you may score 80 percent on test day,
+
+58
+00:02:18,040 --> 00:02:20,210
+or you may score 60 percent.
+
+59
+00:02:20,210 --> 00:02:21,710
+Either way though, you'd pass.
+
+60
+00:02:21,710 --> 00:02:24,220
+And that's why we set
+the bar at 70 percent.
+
+61
+00:02:24,220 --> 00:02:26,160
+Because I want to make
+sure you only have to take
+
+62
+00:02:26,160 --> 00:02:29,560
+the PRINCE2 exam once, because
+it does cost a lot of money
+
+63
+00:02:29,560 --> 00:02:30,890
+to sit for that exam.
+
+64
+00:02:30,890 --> 00:02:33,020
+So what do you do if you're not scoring
+
+65
+00:02:33,020 --> 00:02:34,510
+70 percent or higher?
+
+66
+00:02:34,510 --> 00:02:36,720
+Well you want to go back and
+study the areas that you're
+
+67
+00:02:36,720 --> 00:02:39,050
+missing, but you want
+to continue to take new
+
+68
+00:02:39,050 --> 00:02:40,910
+and varied practice exams.
+
+69
+00:02:40,910 --> 00:02:43,080
+So if you need more
+practice, take additional
+
+70
+00:02:43,080 --> 00:02:44,240
+practice exams.
+
+71
+00:02:44,240 --> 00:02:47,690
+You can find them on my website,
+you can find them on Udemy,
+
+72
+00:02:47,690 --> 00:02:49,490
+you can find them
+elsewhere on the internet,
+
+73
+00:02:49,490 --> 00:02:51,370
+but take a couple of practice exams
+
+74
+00:02:51,370 --> 00:02:54,100
+until you're scoring at least 70 percent.
+
+75
+00:02:54,100 --> 00:02:56,080
+Because you really only want
+to attempt the certification
+
+76
+00:02:56,080 --> 00:02:59,280
+exam once, and you want to
+pass it on your first attempt.
+
+77
+00:02:59,280 --> 00:03:01,770
+This course is going to
+teach you everything you need
+
+78
+00:03:01,770 --> 00:03:03,960
+to be able to pass it
+on your first attempt.
+
+79
+00:03:03,960 --> 00:03:05,540
+But you've got to get
+comfortable with taking those
+
+80
+00:03:05,540 --> 00:03:07,860
+practice exams because that's
+what you're going to be doing
+
+81
+00:03:07,860 --> 00:03:09,180
+on test day.
+
+82
+00:03:09,180 --> 00:03:12,740
+Now, when you pass the exam,
+and notice I said when,
+
+83
+00:03:12,740 --> 00:03:16,160
+not if, when you pass it
+I want to hear about it.
+
+84
+00:03:16,160 --> 00:03:19,330
+So post in the Q and A section,
+post in our Facebook group
+
+85
+00:03:19,330 --> 00:03:23,530
+and let me know when you are
+PRINCE2 foundation certified.
+
+86
+00:03:23,530 --> 00:03:26,600
+Now once you are certified,
+where do you go from there?
+
+87
+00:03:26,600 --> 00:03:29,490
+Well for many, this is going
+to be the only certification
+
+88
+00:03:29,490 --> 00:03:31,370
+project management you want to get.
+
+89
+00:03:31,370 --> 00:03:34,300
+But for others, you may
+want to move up the chain,
+
+90
+00:03:34,300 --> 00:03:37,020
+and from the PRINCE2
+foundation there are two places
+
+91
+00:03:37,020 --> 00:03:41,160
+you can go, the practitioner
+and the agile practitioner.
+
+92
+00:03:41,160 --> 00:03:43,350
+The PRINCE2 practitioner
+is designed for people
+
+93
+00:03:43,350 --> 00:03:45,420
+who are going to manage the projects.
+
+94
+00:03:45,420 --> 00:03:46,950
+Remember, we said the foundation level
+
+95
+00:03:46,950 --> 00:03:49,130
+was for people who are
+working inside the projects
+
+96
+00:03:49,130 --> 00:03:50,310
+as part of the team.
+
+97
+00:03:50,310 --> 00:03:51,780
+But practitioner is the guy who's
+
+98
+00:03:51,780 --> 00:03:53,440
+going to be leading the team.
+
+99
+00:03:53,440 --> 00:03:56,260
+It focuses on the day-to-day
+workings of PRINCE2
+
+100
+00:03:56,260 --> 00:03:58,850
+and how to apply and tailor the method
+
+101
+00:03:58,850 --> 00:04:01,820
+to different project
+environments you may come across.
+
+102
+00:04:01,820 --> 00:04:03,900
+Like I said, PRINCE2 is very flexible.
+
+103
+00:04:03,900 --> 00:04:05,530
+But if you're dealing with a large project
+
+104
+00:04:05,530 --> 00:04:08,560
+that's like building a house,
+or a small project like
+
+105
+00:04:08,560 --> 00:04:12,340
+making a catering event, either
+way PRINCE2 can fit for it
+
+106
+00:04:12,340 --> 00:04:14,060
+but you have to understand
+how to apply it.
+
+107
+00:04:14,060 --> 00:04:17,040
+And that's what the practitioner
+exam really focuses on.
+
+108
+00:04:17,040 --> 00:04:18,770
+Now on the bottom of the
+screen here you can see
+
+109
+00:04:18,770 --> 00:04:20,370
+the agile practitioner.
+
+110
+00:04:20,370 --> 00:04:22,560
+This is that second
+exam, and this focus is
+
+111
+00:04:22,560 --> 00:04:25,330
+for people who are
+using PRINCE2 in a Scrum
+
+112
+00:04:25,330 --> 00:04:27,500
+or Kanban agile environment.
+
+113
+00:04:27,500 --> 00:04:29,790
+And this is going to be focused
+on working with projects,
+
+114
+00:04:29,790 --> 00:04:32,150
+products, and program delivery in a very
+
+115
+00:04:32,150 --> 00:04:33,930
+time compressed format.
+
+116
+00:04:33,930 --> 00:04:36,180
+So whichever one your organization uses,
+
+117
+00:04:36,180 --> 00:04:38,020
+that's the one you should be going for,
+
+118
+00:04:38,020 --> 00:04:41,163
+whether its the practitioner
+or the agile practitioner.
+

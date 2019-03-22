@@ -1,0 +1,864 @@
+1
+00:00:00,710 --> 00:00:02,710
+- Manage By Stage.
+
+2
+00:00:02,710 --> 00:00:06,910
+The next principle we have
+is called Manage By Stage.
+
+3
+00:00:06,910 --> 00:00:08,810
+What this asks the question of,
+
+4
+00:00:08,810 --> 00:00:12,100
+is how far out can I realistically plan?
+
+5
+00:00:12,100 --> 00:00:14,030
+What do I mean by that?
+
+6
+00:00:14,030 --> 00:00:17,470
+When I look at a really
+big, large project,
+
+7
+00:00:17,470 --> 00:00:19,470
+I'm going to have some high-level plan
+
+8
+00:00:19,470 --> 00:00:22,000
+that covers the whole project.
+
+9
+00:00:22,000 --> 00:00:25,150
+On the screen you'll see a
+map from Baltimore, Maryland
+
+10
+00:00:25,150 --> 00:00:28,590
+all the way down to
+Disneyland in California.
+
+11
+00:00:28,590 --> 00:00:31,450
+This is a pretty big road trip
+if you wanted to drive it.
+
+12
+00:00:31,450 --> 00:00:34,890
+It's three or four thousand
+miles, essentially.
+
+13
+00:00:34,890 --> 00:00:37,760
+That's going to take us
+five, six, or seven days
+
+14
+00:00:37,760 --> 00:00:39,910
+and I'm not going to be able to
+know what the traffic is like
+
+15
+00:00:39,910 --> 00:00:43,080
+if I look today along that entire route
+
+16
+00:00:43,080 --> 00:00:46,090
+because it's going to
+change on a daily basis.
+
+17
+00:00:46,090 --> 00:00:48,680
+Instead, I should have a detailed plan
+
+18
+00:00:48,680 --> 00:00:51,630
+that is added stage by stage.
+
+19
+00:00:51,630 --> 00:00:55,750
+In my road trip example, maybe
+I go and plan a day at a time
+
+20
+00:00:55,750 --> 00:00:57,710
+and I can look at Google
+Maps in the morning
+
+21
+00:00:57,710 --> 00:01:00,100
+and see what the traffic
+patterns are like that day.
+
+22
+00:01:00,100 --> 00:01:03,260
+When I get to day two,
+I might start driving
+
+23
+00:01:03,260 --> 00:01:05,540
+and be leaving Columbus, Ohio.
+
+24
+00:01:05,540 --> 00:01:07,820
+I can zoom in and see
+what the traffic's like
+
+25
+00:01:07,820 --> 00:01:11,160
+between Columbus, Ohio
+and Springfield, Illinois,
+
+26
+00:01:11,160 --> 00:01:12,670
+just for an example.
+
+27
+00:01:12,670 --> 00:01:14,750
+That's a detailed stage plan and
+
+28
+00:01:14,750 --> 00:01:15,900
+I might be able to figure out, okay,
+
+29
+00:01:15,900 --> 00:01:18,870
+I'm going to stop for gas here,
+I'm going to get lunch here,
+
+30
+00:01:18,870 --> 00:01:21,220
+and make it much, much more detailed
+
+31
+00:01:21,220 --> 00:01:25,130
+than if I tried to plan
+the entire 3500 mile trip
+
+32
+00:01:25,130 --> 00:01:28,190
+all at once before I even got in the car.
+
+33
+00:01:28,190 --> 00:01:31,150
+The same thing holds true
+inside of our projects.
+
+34
+00:01:31,150 --> 00:01:32,910
+We want to manage by stages
+
+35
+00:01:32,910 --> 00:01:35,680
+because it's more
+accurate to plan that way.
+
+36
+00:01:35,680 --> 00:01:37,740
+We can agree on the detail
+
+37
+00:01:37,740 --> 00:01:40,653
+for each stage at each stage break.
+
+38
+00:01:41,570 --> 00:01:44,110
+How much is it going to
+cost for the next stage?
+
+39
+00:01:44,110 --> 00:01:46,910
+How long is it going to
+take for the next stage?
+
+40
+00:01:46,910 --> 00:01:50,280
+Maybe I'm going to say, you
+know what, the next two days,
+
+41
+00:01:50,280 --> 00:01:53,160
+we're going to be driving through
+some really expensive places
+
+42
+00:01:53,160 --> 00:01:55,890
+and it's going to cost
+me $300 a day for food.
+
+43
+00:01:55,890 --> 00:01:57,870
+But then I'm going to go
+to some inexpensive places,
+
+44
+00:01:57,870 --> 00:02:00,170
+it only costs me $100 a day for food.
+
+45
+00:02:00,170 --> 00:02:03,430
+And so we can plan that, stage by stage,
+
+46
+00:02:03,430 --> 00:02:05,463
+just like we can inside of our projects.
+
+47
+00:02:06,320 --> 00:02:08,500
+When we look at this,
+you have to ask yourself,
+
+48
+00:02:08,500 --> 00:02:11,010
+how many stages do you need?
+
+49
+00:02:11,010 --> 00:02:14,520
+In PRINCE2, you need to have
+a minimum of two stages.
+
+50
+00:02:14,520 --> 00:02:16,870
+You must have an initiation stage,
+
+51
+00:02:16,870 --> 00:02:19,550
+which is used to plan the overall project,
+
+52
+00:02:19,550 --> 00:02:22,310
+that large, not detailed map.
+
+53
+00:02:22,310 --> 00:02:24,740
+And then you need to
+have a delivery stage,
+
+54
+00:02:24,740 --> 00:02:26,690
+or multiple delivery stages,
+
+55
+00:02:26,690 --> 00:02:29,530
+that are used to deliver
+the specialized projects
+
+56
+00:02:29,530 --> 00:02:32,360
+and those are those detailed stage plans.
+
+57
+00:02:32,360 --> 00:02:34,710
+In my example of the road trip,
+
+58
+00:02:34,710 --> 00:02:36,840
+I would have the
+initiation stage that plans
+
+59
+00:02:36,840 --> 00:02:40,610
+the overall route, from
+Baltimore to California.
+
+60
+00:02:40,610 --> 00:02:44,200
+And then I would have delivery
+stages of one day each,
+
+61
+00:02:44,200 --> 00:02:46,750
+so six stages, that
+would plan out the detail
+
+62
+00:02:46,750 --> 00:02:49,050
+of where we're stopping,
+what hotel we're staying at,
+
+63
+00:02:49,050 --> 00:02:51,640
+what food we're going to
+get, et cetera, et cetera.
+
+64
+00:02:51,640 --> 00:02:52,690
+You get the idea.
+
+65
+00:02:52,690 --> 00:02:55,090
+And before we can leave that stage,
+
+66
+00:02:55,090 --> 00:02:57,600
+ie, go to sleep up for the night
+and pick up the next stage,
+
+67
+00:02:57,600 --> 00:03:00,730
+we have to have the next
+stage planned and ready to go.
+
+68
+00:03:00,730 --> 00:03:03,920
+The same thing applies
+inside of our projects.
+
+69
+00:03:03,920 --> 00:03:05,740
+This all comes down to the concept
+
+70
+00:03:05,740 --> 00:03:08,320
+of what's called a planning horizon.
+
+71
+00:03:08,320 --> 00:03:10,950
+Your plan can only be made to a manageable
+
+72
+00:03:10,950 --> 00:03:13,890
+level of detail based on the timeline.
+
+73
+00:03:13,890 --> 00:03:15,260
+If I'm planning out something
+
+74
+00:03:15,260 --> 00:03:17,210
+that's going to take a week to build,
+
+75
+00:03:17,210 --> 00:03:19,330
+I can probably do that in two stages,
+
+76
+00:03:19,330 --> 00:03:22,930
+an initiation stage and a
+building or delivery stage.
+
+77
+00:03:22,930 --> 00:03:25,610
+But if I want to do something
+that's going to take nine months,
+
+78
+00:03:25,610 --> 00:03:28,930
+that may need to have two
+or three or four stages.
+
+79
+00:03:28,930 --> 00:03:31,530
+For example, I built my
+house that I'm sitting in.
+
+80
+00:03:31,530 --> 00:03:33,930
+Well, I didn't build it,
+the contractors built.
+
+81
+00:03:33,930 --> 00:03:35,460
+But when they built out the plan,
+
+82
+00:03:35,460 --> 00:03:37,710
+we came up with a nine month plan
+
+83
+00:03:37,710 --> 00:03:40,650
+of what would happen for
+us to build this house.
+
+84
+00:03:40,650 --> 00:03:42,590
+And then, there were
+breakpoints along the way
+
+85
+00:03:42,590 --> 00:03:44,000
+where they stopped and said,
+
+86
+00:03:44,000 --> 00:03:46,200
+have we met everything
+in this particular stage?
+
+87
+00:03:46,200 --> 00:03:47,560
+Okay, we're going to close that stage
+
+88
+00:03:47,560 --> 00:03:49,590
+and move to the next stage.
+
+89
+00:03:49,590 --> 00:03:52,840
+PRINCE2 recommends three levels of plans.
+
+90
+00:03:52,840 --> 00:03:55,490
+They have a project plan, a stage plan,
+
+91
+00:03:55,490 --> 00:03:57,870
+and an optional team plan.
+
+92
+00:03:57,870 --> 00:04:00,120
+Project plans are not very detailed.
+
+93
+00:04:00,120 --> 00:04:02,280
+They're very big and very broad.
+
+94
+00:04:02,280 --> 00:04:05,330
+They're going to give things
+like time and overall cost
+
+95
+00:04:05,330 --> 00:04:08,000
+and that's going to be
+developed by the project board.
+
+96
+00:04:08,000 --> 00:04:10,920
+The stage plan is built
+by the project manager
+
+97
+00:04:10,920 --> 00:04:12,600
+and they're going to be more detailed.
+
+98
+00:04:12,600 --> 00:04:15,830
+And then the team plan is going
+to be very, very detailed.
+
+99
+00:04:15,830 --> 00:04:17,930
+If I look at the example of my house,
+
+100
+00:04:17,930 --> 00:04:19,900
+one of the teams was the plumbers.
+
+101
+00:04:19,900 --> 00:04:21,970
+They only had a plan that covered
+
+102
+00:04:21,970 --> 00:04:24,020
+putting in the plumbing in the house.
+
+103
+00:04:24,020 --> 00:04:26,140
+But the project manager had a stage plan
+
+104
+00:04:26,140 --> 00:04:27,960
+that included putting in the plumbing,
+
+105
+00:04:27,960 --> 00:04:29,540
+the heating and cooling,
+
+106
+00:04:29,540 --> 00:04:32,600
+putting in the wiring for the
+electrical, and the drywall.
+
+107
+00:04:32,600 --> 00:04:34,670
+All of that was in one stage.
+
+108
+00:04:34,670 --> 00:04:38,380
+And then the project plan
+itself was the overarching plan
+
+109
+00:04:38,380 --> 00:04:42,100
+that the project board, the
+executive, I, had, which was,
+
+110
+00:04:42,100 --> 00:04:44,860
+I want a finished house
+to go from the ground
+
+111
+00:04:44,860 --> 00:04:47,530
+all the way through to a
+house that I could live in.
+
+112
+00:04:47,530 --> 00:04:48,690
+You can see how this breaks down
+
+113
+00:04:48,690 --> 00:04:52,030
+from the bigger to the
+smaller to the very small.
+
+114
+00:04:52,030 --> 00:04:54,803
+Each one has more detail than the last.
+
+115
+00:04:56,140 --> 00:04:58,300
+The initiation stage is going to ensure
+
+116
+00:04:58,300 --> 00:05:01,120
+all your costs and your
+timescales are considered
+
+117
+00:05:01,120 --> 00:05:03,410
+before you even start the project.
+
+118
+00:05:03,410 --> 00:05:04,870
+These aren't going to be exact.
+
+119
+00:05:04,870 --> 00:05:08,547
+It's not going to say, that this
+is going to cost me $1,997.23.
+
+120
+00:05:11,320 --> 00:05:13,550
+It will say, this project will cost me
+
+121
+00:05:13,550 --> 00:05:15,700
+about two to three thousand dollars,
+
+122
+00:05:15,700 --> 00:05:17,780
+something generic like that.
+
+123
+00:05:17,780 --> 00:05:19,550
+You're going to create,
+in the initiation stage,
+
+124
+00:05:19,550 --> 00:05:23,770
+a thing called the Project
+Initiation Documentation, or PID.
+
+125
+00:05:23,770 --> 00:05:26,690
+This is produced inside
+the initiation stage.
+
+126
+00:05:26,690 --> 00:05:29,440
+The project board uses
+the PID to determine
+
+127
+00:05:29,440 --> 00:05:33,200
+the project's viability to
+continue to the next stage.
+
+128
+00:05:33,200 --> 00:05:36,530
+It gives them, what are the
+things we must accomplish
+
+129
+00:05:36,530 --> 00:05:38,610
+before we go to the next stage?
+
+130
+00:05:38,610 --> 00:05:41,010
+It's going to have that
+for all of the stages
+
+131
+00:05:41,010 --> 00:05:44,500
+for the entire project plan in this PID.
+
+132
+00:05:44,500 --> 00:05:47,303
+It's going to be that
+overview and that outline.
+
+133
+00:05:48,730 --> 00:05:50,550
+Moving from the initiation stage,
+
+134
+00:05:50,550 --> 00:05:52,770
+we go into those delivery stages.
+
+135
+00:05:52,770 --> 00:05:55,430
+Before we move from one stage to the next,
+
+136
+00:05:55,430 --> 00:05:58,420
+we always have a go/no go decision.
+
+137
+00:05:58,420 --> 00:05:59,440
+This is where we ask,
+
+138
+00:05:59,440 --> 00:06:01,860
+should we move forward with the project?
+
+139
+00:06:01,860 --> 00:06:03,550
+This is going to minimize our risk
+
+140
+00:06:03,550 --> 00:06:05,750
+by providing cancellation points.
+
+141
+00:06:05,750 --> 00:06:07,810
+Let's use the example of the road trip.
+
+142
+00:06:07,810 --> 00:06:10,490
+Let's say we got on the
+road and we planned six days
+
+143
+00:06:10,490 --> 00:06:13,293
+to drive from Baltimore,
+Maryland to California.
+
+144
+00:06:14,230 --> 00:06:16,750
+We go with the first day,
+and we get to the hotel,
+
+145
+00:06:16,750 --> 00:06:18,570
+and we thought it was going
+to take us eight hours,
+
+146
+00:06:18,570 --> 00:06:21,440
+but it really took us 10
+hours because of traffic.
+
+147
+00:06:21,440 --> 00:06:22,400
+Then we assess.
+
+148
+00:06:22,400 --> 00:06:25,270
+Will we still be able to make
+it to California on time?
+
+149
+00:06:25,270 --> 00:06:26,620
+Yes or no?
+
+150
+00:06:26,620 --> 00:06:28,460
+Do we even still want to go to California?
+
+151
+00:06:28,460 --> 00:06:29,300
+Yes or no?
+
+152
+00:06:29,300 --> 00:06:30,940
+And then we'll keep going.
+
+153
+00:06:30,940 --> 00:06:33,180
+We finish that stage, we
+go into the second stage.
+
+154
+00:06:33,180 --> 00:06:35,930
+We go to day two and we
+drive through day two
+
+155
+00:06:35,930 --> 00:06:39,470
+and it took us 18 hours cause
+there was really bad traffic.
+
+156
+00:06:39,470 --> 00:06:41,360
+Now we're in Columbus,
+Ohio, and we're looking out,
+
+157
+00:06:41,360 --> 00:06:43,790
+we're going, man, for
+us to get to California,
+
+158
+00:06:43,790 --> 00:06:45,570
+it may not be worth it any more.
+
+159
+00:06:45,570 --> 00:06:47,030
+Let's turn around and go home.
+
+160
+00:06:47,030 --> 00:06:48,260
+And that's our no go decision.
+
+161
+00:06:48,260 --> 00:06:49,380
+We don't want to go to the next stage.
+
+162
+00:06:49,380 --> 00:06:52,450
+We just decide to back
+out or cancel the project.
+
+163
+00:06:52,450 --> 00:06:54,330
+That's the same thing that
+happens with our projects.
+
+164
+00:06:54,330 --> 00:06:56,120
+Every time we hit the end of a stage,
+
+165
+00:06:56,120 --> 00:06:58,900
+the project manager is going
+to update the project plan
+
+166
+00:06:58,900 --> 00:07:03,220
+with what the forecast was
+and what the actual was.
+
+167
+00:07:03,220 --> 00:07:04,617
+Maybe we thought it was going to cost
+
+168
+00:07:04,617 --> 00:07:08,100
+$10,000 to do this project
+and we start looking
+
+169
+00:07:08,100 --> 00:07:12,680
+at the end of the stage and
+we already spent $12,000.
+
+170
+00:07:12,680 --> 00:07:14,700
+That would be a bad thing, right.
+
+171
+00:07:14,700 --> 00:07:16,630
+We already blew the entire budget.
+
+172
+00:07:16,630 --> 00:07:18,420
+The managers might say, you know what,
+
+173
+00:07:18,420 --> 00:07:20,670
+we're done, this project's over.
+
+174
+00:07:20,670 --> 00:07:21,850
+These are the kind of things you have to
+
+175
+00:07:21,850 --> 00:07:23,560
+look at at the end of the stage.
+
+176
+00:07:23,560 --> 00:07:25,290
+You look at what you
+think it was going to cost
+
+177
+00:07:25,290 --> 00:07:27,400
+and what it actually costs.
+
+178
+00:07:27,400 --> 00:07:28,660
+We're going to put some things in place
+
+179
+00:07:28,660 --> 00:07:30,830
+to make sure you don't
+go over budget either.
+
+180
+00:07:30,830 --> 00:07:33,130
+We'll talk about those in a future lesson.
+
+181
+00:07:33,130 --> 00:07:35,980
+The project board is going
+to control the project
+
+182
+00:07:35,980 --> 00:07:39,030
+using this project plan
+and those stage boundaries.
+
+183
+00:07:39,030 --> 00:07:40,420
+Every time we get to a boundary,
+
+184
+00:07:40,420 --> 00:07:42,090
+that's the chance for the project board
+
+185
+00:07:42,090 --> 00:07:43,800
+to get involved again and go,
+
+186
+00:07:43,800 --> 00:07:47,070
+nope, we're done, or yep, continue on.
+
+187
+00:07:47,070 --> 00:07:48,360
+The project manager's responsible
+
+188
+00:07:48,360 --> 00:07:50,550
+for updating that project plan and
+
+189
+00:07:50,550 --> 00:07:52,170
+they're also responsible for running
+
+190
+00:07:52,170 --> 00:07:55,460
+the day to day execution of the project.
+
+191
+00:07:55,460 --> 00:07:57,830
+That's all handled by the project manager
+
+192
+00:07:57,830 --> 00:08:00,610
+and using the manage
+by exception principle,
+
+193
+00:08:00,610 --> 00:08:02,821
+which we're going to talk about next.
+
+194
+00:08:02,821 --> 00:08:04,889
+(electronic jingle)
+

@@ -1,0 +1,523 @@
+﻿1
+00:00:00,960 --> 00:00:03,440
+- Managing product delivery.
+
+2
+00:00:03,440 --> 00:00:06,530
+This process is focused
+on controlling the link
+
+3
+00:00:06,530 --> 00:00:09,280
+between the project manager
+and the team manager
+
+4
+00:00:09,280 --> 00:00:10,870
+or team managers
+
+5
+00:00:10,870 --> 00:00:13,200
+by agreeing to the
+requirements for acceptance,
+
+6
+00:00:13,200 --> 00:00:16,330
+execution, and delivery
+of certain products.
+
+7
+00:00:16,330 --> 00:00:20,210
+The role of a team manager is
+to coordinate an area of work
+
+8
+00:00:20,210 --> 00:00:23,810
+that will deliver one or more
+of the project's products.
+
+9
+00:00:23,810 --> 00:00:26,140
+So if we go back to my house example,
+
+10
+00:00:26,140 --> 00:00:27,920
+I might have the plumbing.
+
+11
+00:00:27,920 --> 00:00:29,360
+That's one team manager.
+
+12
+00:00:29,360 --> 00:00:31,350
+I have electrical, that's another.
+
+13
+00:00:31,350 --> 00:00:33,670
+I have the air conditioning,
+that's another.
+
+14
+00:00:33,670 --> 00:00:36,210
+And each of these people are responsible
+
+15
+00:00:36,210 --> 00:00:37,990
+for certain products being delivered
+
+16
+00:00:37,990 --> 00:00:40,790
+in the final build of this home.
+
+17
+00:00:40,790 --> 00:00:43,220
+Now, when we look at this
+on the process timeline,
+
+18
+00:00:43,220 --> 00:00:45,820
+you will see it falls right underneath
+
+19
+00:00:45,820 --> 00:00:47,550
+the controlling a stage
+
+20
+00:00:47,550 --> 00:00:50,020
+and that's because a project
+manager is responsible
+
+21
+00:00:50,020 --> 00:00:51,460
+for controlling the stage,
+
+22
+00:00:51,460 --> 00:00:53,660
+breaking up the work into work packages,
+
+23
+00:00:53,660 --> 00:00:55,790
+and pushing that down to the team managers
+
+24
+00:00:55,790 --> 00:00:58,030
+at managing product delivery.
+
+25
+00:00:58,030 --> 00:00:59,180
+And so when we look at this,
+
+26
+00:00:59,180 --> 00:01:01,650
+we have a couple of key objectives.
+
+27
+00:01:01,650 --> 00:01:04,050
+We have to ensure work on products is
+
+28
+00:01:04,050 --> 00:01:05,880
+allocated to the teams.
+
+29
+00:01:05,880 --> 00:01:08,830
+Because if the project manager
+doesn't approve any work,
+
+30
+00:01:08,830 --> 00:01:10,260
+nothing's going to get done.
+
+31
+00:01:10,260 --> 00:01:12,040
+And the project manager is responsible
+
+32
+00:01:12,040 --> 00:01:13,570
+for authorizing that work
+
+33
+00:01:13,570 --> 00:01:17,030
+through the form of work
+packages or team plans.
+
+34
+00:01:17,030 --> 00:01:19,440
+They're also going to ensure
+the team managers and suppliers
+
+35
+00:01:19,440 --> 00:01:22,030
+are clear as to what is expected of them
+
+36
+00:01:22,030 --> 00:01:25,010
+in terms of the cost,
+the schedule, the time,
+
+37
+00:01:25,010 --> 00:01:27,250
+and the effort for a given product.
+
+38
+00:01:27,250 --> 00:01:28,990
+Going back to our house example,
+
+39
+00:01:28,990 --> 00:01:31,280
+how quickly do you need that plumbing run?
+
+40
+00:01:31,280 --> 00:01:34,330
+Well, I expect a three-bedroom,
+two-bath house to be run
+
+41
+00:01:34,330 --> 00:01:35,660
+in two days,
+
+42
+00:01:35,660 --> 00:01:37,400
+and it's going to cost a thousand dollars,
+
+43
+00:01:37,400 --> 00:01:40,690
+or whatever that time
+and scope is in cost,
+
+44
+00:01:40,690 --> 00:01:42,470
+you need to agree to that.
+
+45
+00:01:42,470 --> 00:01:44,520
+You also need to ensure that
+your products are delivered
+
+46
+00:01:44,520 --> 00:01:45,840
+within tolerance.
+
+47
+00:01:45,840 --> 00:01:48,490
+So if you have a tolerance of two days,
+
+48
+00:01:48,490 --> 00:01:51,310
+plus or minus one day, they
+can deliver it anywhere
+
+49
+00:01:51,310 --> 00:01:53,510
+between one day and three days, right?
+
+50
+00:01:53,510 --> 00:01:55,340
+Because that's within your tolerances.
+
+51
+00:01:55,340 --> 00:01:57,770
+Again, you're going to want
+to keep tighter tolerances
+
+52
+00:01:57,770 --> 00:02:00,480
+on your teams, than you,
+as a project manager,
+
+53
+00:02:00,480 --> 00:02:02,550
+have been given, so you have some room
+
+54
+00:02:02,550 --> 00:02:05,030
+to deal with the issues
+if they exceed them.
+
+55
+00:02:05,030 --> 00:02:07,960
+And then you want to ensure
+accurate progress information
+
+56
+00:02:07,960 --> 00:02:09,980
+is being provided to the project manager
+
+57
+00:02:09,980 --> 00:02:13,650
+at agreed upon frequencies
+from those team managers.
+
+58
+00:02:13,650 --> 00:02:15,100
+And we'll talk about how they do that
+
+59
+00:02:15,100 --> 00:02:17,400
+with the checkpoint reports.
+
+60
+00:02:17,400 --> 00:02:21,240
+Now, what do I do if my
+supplier doesn't use PRINCE2?
+
+61
+00:02:21,240 --> 00:02:25,750
+Because, in all honesty, most
+suppliers don't use PRINCE2.
+
+62
+00:02:25,750 --> 00:02:28,920
+PRINCE2 is used by project
+management professionals.
+
+63
+00:02:28,920 --> 00:02:32,530
+It's not used by suppliers
+most of the time.
+
+64
+00:02:32,530 --> 00:02:35,630
+Managing product delivery
+acts as this interface
+
+65
+00:02:35,630 --> 00:02:37,950
+between PRINCE2 and the supplier.
+
+66
+00:02:37,950 --> 00:02:40,730
+Because your supplier doesn't
+necessarily need to operate
+
+67
+00:02:40,730 --> 00:02:44,120
+inside of PRINCE2, instead,
+they need to be able to operate
+
+68
+00:02:44,120 --> 00:02:46,730
+within the bounds of the
+work package you give them,
+
+69
+00:02:46,730 --> 00:02:50,440
+and those work packages are
+going to serve as this interface.
+
+70
+00:02:50,440 --> 00:02:52,380
+To convert things from the project plan
+
+71
+00:02:52,380 --> 00:02:54,070
+down to the stage plan,
+
+72
+00:02:54,070 --> 00:02:57,060
+into this little piece
+called a work package
+
+73
+00:02:57,060 --> 00:02:59,200
+that is authorized by the project manager
+
+74
+00:02:59,200 --> 00:03:02,580
+and fits nicely into this
+PRINCE2 architecture.
+
+75
+00:03:02,580 --> 00:03:04,300
+Now, when we look at a work package,
+
+76
+00:03:04,300 --> 00:03:06,770
+this is going to provide your team manager
+
+77
+00:03:06,770 --> 00:03:08,360
+the tolerance they need
+
+78
+00:03:08,360 --> 00:03:11,140
+that is required for
+their product delivery.
+
+79
+00:03:11,140 --> 00:03:13,430
+This is set by your project manager
+
+80
+00:03:13,430 --> 00:03:15,160
+when you're dealing with the work package
+
+81
+00:03:15,160 --> 00:03:17,180
+or team plan level.
+
+82
+00:03:17,180 --> 00:03:20,240
+Team managers may be
+required to make a team plan,
+
+83
+00:03:20,240 --> 00:03:22,420
+which is authorized by the project manager
+
+84
+00:03:22,420 --> 00:03:24,210
+or the senior supplier.
+
+85
+00:03:24,210 --> 00:03:26,020
+Senior suppliers will handle this
+
+86
+00:03:26,020 --> 00:03:29,280
+for any outside vendors and contracts.
+
+87
+00:03:29,280 --> 00:03:31,550
+So if I was going to
+be buying a whole bunch
+
+88
+00:03:31,550 --> 00:03:33,390
+of computers to get installed,
+
+89
+00:03:33,390 --> 00:03:35,540
+that would be handled
+by the senior supplier.
+
+90
+00:03:35,540 --> 00:03:37,690
+If I was going to run a
+bunch of network cable
+
+91
+00:03:37,690 --> 00:03:38,890
+and we already owned it all,
+
+92
+00:03:38,890 --> 00:03:40,910
+I just had to do it with my IT staff,
+
+93
+00:03:40,910 --> 00:03:42,950
+that would be something that
+would be handled internally
+
+94
+00:03:42,950 --> 00:03:46,280
+by me as the team manager
+or by the project manager,
+
+95
+00:03:46,280 --> 00:03:49,210
+depending on how your
+organization is set up.
+
+96
+00:03:49,210 --> 00:03:51,580
+Now, when we deal with checkpoint reports,
+
+97
+00:03:51,580 --> 00:03:54,250
+this is the method that
+the team manager uses
+
+98
+00:03:54,250 --> 00:03:57,110
+to provide accurate updates
+and progress reports
+
+99
+00:03:57,110 --> 00:03:58,880
+up to the project manager.
+
+100
+00:03:58,880 --> 00:04:01,070
+They'll usually talk about their schedule
+
+101
+00:04:01,070 --> 00:04:02,750
+and their cost at this point.
+
+102
+00:04:02,750 --> 00:04:04,870
+This is similar to a highlight report,
+
+103
+00:04:04,870 --> 00:04:08,440
+but at this lower level
+that manages the team plan
+
+104
+00:04:08,440 --> 00:04:10,270
+or the work package.
+
+105
+00:04:10,270 --> 00:04:12,490
+Team managers should raise a project issue
+
+106
+00:04:12,490 --> 00:04:15,080
+to the project manager any time
+
+107
+00:04:15,080 --> 00:04:17,610
+that a work package or team plan tolerance
+
+108
+00:04:17,610 --> 00:04:20,200
+may be forecasted to be exceeded.
+
+109
+00:04:20,200 --> 00:04:22,080
+So if you think you're going
+to go outside the bounds
+
+110
+00:04:22,080 --> 00:04:24,300
+of what the project manager has given you,
+
+111
+00:04:24,300 --> 00:04:25,920
+you better tell them.
+
+112
+00:04:25,920 --> 00:04:28,340
+Now, a team manager does not have to write
+
+113
+00:04:28,340 --> 00:04:29,840
+an exception report.
+
+114
+00:04:29,840 --> 00:04:31,240
+That's not their role.
+
+115
+00:04:31,240 --> 00:04:32,850
+They're going to tell the project manager,
+
+116
+00:04:32,850 --> 00:04:33,880
+and the project manager,
+
+117
+00:04:33,880 --> 00:04:36,050
+if it's going to go outside
+their bounds, will write
+
+118
+00:04:36,050 --> 00:04:39,910
+the exception report up
+to the project board.
+
+119
+00:04:39,910 --> 00:04:41,987
+(electric blips)
+

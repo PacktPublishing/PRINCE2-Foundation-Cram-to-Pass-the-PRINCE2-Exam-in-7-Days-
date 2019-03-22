@@ -1,0 +1,318 @@
+﻿1
+00:00:00,610 --> 00:00:02,390
+- In this short video,
+I'm going to show you
+
+2
+00:00:02,390 --> 00:00:03,950
+how you can sign up and schedule
+
+3
+00:00:03,950 --> 00:00:06,180
+your PRINCE2 Foundation exam.
+
+4
+00:00:06,180 --> 00:00:09,200
+The first step is you're
+going to go to peoplecert.org.
+
+5
+00:00:09,200 --> 00:00:12,150
+This is the official testing
+center and it's done online
+
+6
+00:00:12,150 --> 00:00:13,920
+from the comfort of your own home.
+
+7
+00:00:13,920 --> 00:00:16,660
+To take the exam online,
+you have to have a computer,
+
+8
+00:00:16,660 --> 00:00:19,660
+an internet connection, a
+webcam, and a microphone,
+
+9
+00:00:19,660 --> 00:00:21,470
+so the online proctor can see you
+
+10
+00:00:21,470 --> 00:00:24,020
+and hear you during the exam.
+
+11
+00:00:24,020 --> 00:00:25,800
+Once you go to peoplecert.org,
+
+12
+00:00:25,800 --> 00:00:27,600
+you're going to scroll down
+and you're going to find
+
+13
+00:00:27,600 --> 00:00:28,823
+where it says PRINCE2.
+
+14
+00:00:29,970 --> 00:00:32,120
+Once the PRINCE2 Foundation page loads,
+
+15
+00:00:32,120 --> 00:00:34,630
+you're going to be able to
+see the price for the exam.
+
+16
+00:00:34,630 --> 00:00:37,530
+Now this price does go
+by regional pricing.
+
+17
+00:00:37,530 --> 00:00:39,450
+Depending on where you live in the world,
+
+18
+00:00:39,450 --> 00:00:41,270
+you're going to see a different price.
+
+19
+00:00:41,270 --> 00:00:45,900
+In the United States, that
+price at retail is $349.
+
+20
+00:00:45,900 --> 00:00:47,550
+Now, again, depending
+where you are in the world
+
+21
+00:00:47,550 --> 00:00:49,950
+that may be a little bit
+less, but it usually is
+
+22
+00:00:49,950 --> 00:00:54,690
+somewhere between about 315 to $350.
+
+23
+00:00:54,690 --> 00:00:57,330
+Now you can go ahead and
+schedule your exam right here,
+
+24
+00:00:57,330 --> 00:00:59,110
+or you can save a little bit of money
+
+25
+00:00:59,110 --> 00:01:01,310
+by taking one extra step.
+
+26
+00:01:01,310 --> 00:01:03,190
+You can go to diontraining.com
+
+27
+00:01:03,190 --> 00:01:06,180
+and on the front of our homepage
+you'll see the Exam button.
+
+28
+00:01:06,180 --> 00:01:07,860
+If you click on that Exam button,
+
+29
+00:01:07,860 --> 00:01:11,200
+what you're going to see is all
+of our exam vouchers for sale.
+
+30
+00:01:11,200 --> 00:01:14,650
+Any of the exams that we
+teach, such as ITIL 4, ITIL,
+
+31
+00:01:14,650 --> 00:01:17,140
+PRINCE2 or PRINCE2 Agile Foundations,
+
+32
+00:01:17,140 --> 00:01:19,340
+you can go and get your
+vouchers through us.
+
+33
+00:01:20,360 --> 00:01:21,600
+As you can see on the screen,
+
+34
+00:01:21,600 --> 00:01:25,010
+the current price for
+this voucher is $299,
+
+35
+00:01:25,010 --> 00:01:28,070
+a $50 savings off buying
+it through PeopleCert.
+
+36
+00:01:28,070 --> 00:01:29,950
+Now when you buy it from
+us, we're going to collect
+
+37
+00:01:29,950 --> 00:01:32,260
+your credit card information
+and instantly fulfill
+
+38
+00:01:32,260 --> 00:01:35,040
+that voucher, if it's in
+stock, back to your email,
+
+39
+00:01:35,040 --> 00:01:37,253
+where you'll receive a one time use code.
+
+40
+00:01:38,090 --> 00:01:40,890
+Once you have that one time
+use code in your email,
+
+41
+00:01:40,890 --> 00:01:42,880
+you're going to go and
+click and create an account
+
+42
+00:01:42,880 --> 00:01:45,190
+by going to the little icon and going down
+
+43
+00:01:45,190 --> 00:01:47,710
+to Create an account if
+you're new to PeopleCert.
+
+44
+00:01:47,710 --> 00:01:50,980
+If you've taken an ITIL exam
+or a PRINCE2 exam before,
+
+45
+00:01:50,980 --> 00:01:52,080
+you'll actually have an account
+
+46
+00:01:52,080 --> 00:01:54,160
+and you'll just sign into your account.
+
+47
+00:01:54,160 --> 00:01:55,930
+Once you go here, you're going to go ahead
+
+48
+00:01:55,930 --> 00:01:57,870
+and enter your information.
+
+49
+00:01:57,870 --> 00:01:59,670
+So I'm going to put in Jason Dion.
+
+50
+00:01:59,670 --> 00:02:04,670
+My email address will be
+youremail@youremail.com.
+
+51
+00:02:04,840 --> 00:02:06,780
+Again, you'll enter in
+your own information here.
+
+52
+00:02:06,780 --> 00:02:08,690
+And then you'll select
+your country of residence,
+
+53
+00:02:08,690 --> 00:02:10,460
+mine is the United States,
+
+54
+00:02:10,460 --> 00:02:12,400
+and then you'll give it a password.
+
+55
+00:02:12,400 --> 00:02:14,950
+And you're going to agree to
+those terms and conditions
+
+56
+00:02:14,950 --> 00:02:17,080
+for the privacy and if you'd
+like to receive marketing
+
+57
+00:02:17,080 --> 00:02:19,300
+from PeopleCert, you
+can check that as well.
+
+58
+00:02:19,300 --> 00:02:21,450
+Once you do that, click
+on Join PeopleCert.
+
+59
+00:02:22,840 --> 00:02:24,780
+Now that you're logged in
+to your PeopleCert account,
+
+60
+00:02:24,780 --> 00:02:26,520
+and you have your exam voucher,
+
+61
+00:02:26,520 --> 00:02:28,870
+you can go and enter
+that exam voucher up here
+
+62
+00:02:28,870 --> 00:02:30,510
+and then click on Confirm.
+
+63
+00:02:30,510 --> 00:02:33,510
+Once you do that, it will bring
+up a date and time calendar
+
+64
+00:02:33,510 --> 00:02:35,040
+for you to select the day and time
+
+65
+00:02:35,040 --> 00:02:36,900
+that works best for your schedule.
+
+66
+00:02:36,900 --> 00:02:40,150
+Once you select that, it'll
+show up here under My Exams
+
+67
+00:02:40,150 --> 00:02:42,190
+and you'll come back here about 30 minutes
+
+68
+00:02:42,190 --> 00:02:44,740
+before your scheduled time
+to be able to sign in,
+
+69
+00:02:44,740 --> 00:02:48,035
+download the software
+needed, and begin your exam.
+
+70
+00:02:48,035 --> 00:02:50,315
+(electronic music)
+

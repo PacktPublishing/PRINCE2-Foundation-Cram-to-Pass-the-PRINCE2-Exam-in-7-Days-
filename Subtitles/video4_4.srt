@@ -1,0 +1,535 @@
+﻿1
+00:00:00,770 --> 00:00:02,603
+- Initiating a project.
+
+2
+00:00:03,490 --> 00:00:06,190
+Now that we have looked
+at starting up a project,
+
+3
+00:00:06,190 --> 00:00:07,750
+and directing a project,
+
+4
+00:00:07,750 --> 00:00:10,370
+that brings us to initiating the project.
+
+5
+00:00:10,370 --> 00:00:11,810
+This is where we're going to establish
+
+6
+00:00:11,810 --> 00:00:14,450
+the sound foundations for this project
+
+7
+00:00:14,450 --> 00:00:16,710
+and enable the organization to understand
+
+8
+00:00:16,710 --> 00:00:18,730
+the work that's going to need to be done
+
+9
+00:00:18,730 --> 00:00:21,390
+to deliver an actual
+product at the end of it,
+
+10
+00:00:21,390 --> 00:00:23,880
+before we start agreeing to spend
+
+11
+00:00:23,880 --> 00:00:28,370
+a significant amount of
+time, money, and resources.
+
+12
+00:00:28,370 --> 00:00:30,700
+Let's look at this on
+the process timeline.
+
+13
+00:00:30,700 --> 00:00:31,620
+You can see here,
+
+14
+00:00:31,620 --> 00:00:33,730
+we started in the pre-project phase.
+
+15
+00:00:33,730 --> 00:00:37,640
+Somebody had a good idea and a
+project mandate was provided.
+
+16
+00:00:37,640 --> 00:00:39,390
+We then went through and started up
+
+17
+00:00:39,390 --> 00:00:41,740
+a project to support this great idea
+
+18
+00:00:41,740 --> 00:00:43,810
+that we think had a valid business case.
+
+19
+00:00:43,810 --> 00:00:47,240
+The project board is then
+working to direct the project.
+
+20
+00:00:47,240 --> 00:00:49,107
+You can see how it goes from
+starting up a project up,
+
+21
+00:00:49,107 --> 00:00:50,950
+back to that high level
+
+22
+00:00:50,950 --> 00:00:54,120
+and down into the directing a project.
+
+23
+00:00:54,120 --> 00:00:55,520
+Directing a project is going to tell
+
+24
+00:00:55,520 --> 00:00:57,271
+the initiation of a project
+
+25
+00:00:57,271 --> 00:00:59,500
+that they need to go forth
+
+26
+00:00:59,500 --> 00:01:02,730
+and create the process
+initiation document,
+
+27
+00:01:02,730 --> 00:01:05,640
+or the PID, which we've
+mentioned several times before.
+
+28
+00:01:05,640 --> 00:01:07,150
+But we're going to talk about it much more
+
+29
+00:01:07,150 --> 00:01:08,810
+in depth in this lesson.
+
+30
+00:01:08,810 --> 00:01:10,960
+Then, once we get that valid PID,
+
+31
+00:01:10,960 --> 00:01:12,470
+and we know what those benefits are,
+
+32
+00:01:12,470 --> 00:01:13,810
+and the time and the scope,
+
+33
+00:01:13,810 --> 00:01:16,100
+it's going to go back up
+to directing a project
+
+34
+00:01:16,100 --> 00:01:20,790
+for their approval and this
+project will become initiated.
+
+35
+00:01:20,790 --> 00:01:23,254
+Let's go ahead and look at
+what the objectives are.
+
+36
+00:01:23,254 --> 00:01:25,620
+Our objectives of initiating a project
+
+37
+00:01:25,620 --> 00:01:29,490
+are to identify the reasons,
+the time scale, the cost,
+
+38
+00:01:29,490 --> 00:01:32,810
+the scope, the major products,
+the expected benefits,
+
+39
+00:01:32,810 --> 00:01:36,980
+and any risk we can think of
+associated with this project.
+
+40
+00:01:36,980 --> 00:01:38,750
+This project, we also need to identify
+
+41
+00:01:38,750 --> 00:01:40,660
+the quality requirements and the standards
+
+42
+00:01:40,660 --> 00:01:41,750
+that are going to be used.
+
+43
+00:01:41,750 --> 00:01:44,390
+We need to identify what
+a baseline product will be
+
+44
+00:01:44,390 --> 00:01:47,700
+and how it's going to be controlled
+through change management.
+
+45
+00:01:47,700 --> 00:01:50,550
+And then we also need to
+identify our communications plan
+
+46
+00:01:50,550 --> 00:01:53,670
+and what are the communication
+needs of our stakeholders
+
+47
+00:01:53,670 --> 00:01:55,470
+and how we're going to meet those.
+
+48
+00:01:55,470 --> 00:01:57,100
+A lot of those things
+we've talked about already
+
+49
+00:01:57,100 --> 00:02:01,060
+are now coming together
+inside initiating a project.
+
+50
+00:02:01,060 --> 00:02:02,200
+Now, when we look at all of that,
+
+51
+00:02:02,200 --> 00:02:04,070
+the main product we're going to have
+
+52
+00:02:04,070 --> 00:02:07,970
+is what's called the project
+initiation document, the PID.
+
+53
+00:02:07,970 --> 00:02:10,436
+And it has to contain the project plan.
+
+54
+00:02:10,436 --> 00:02:14,410
+What stages will there be and
+how many stages will there be?
+
+55
+00:02:14,410 --> 00:02:16,280
+It needs to have a detailed business case.
+
+56
+00:02:16,280 --> 00:02:17,540
+We're going to take the outline
+
+57
+00:02:17,540 --> 00:02:20,120
+and make it fully formed at this point.
+
+58
+00:02:20,120 --> 00:02:22,580
+We're going to have a
+communication management approach.
+
+59
+00:02:22,580 --> 00:02:23,670
+Who are we going to talk to,
+
+60
+00:02:23,670 --> 00:02:26,450
+at what frequency and with what method?
+
+61
+00:02:26,450 --> 00:02:28,170
+We're going to have a
+risk management approach
+
+62
+00:02:28,170 --> 00:02:32,370
+so that we can codify that
+risk theme into this process.
+
+63
+00:02:32,370 --> 00:02:33,990
+We're going to have a
+quality management approach
+
+64
+00:02:33,990 --> 00:02:35,900
+so again, we're going to
+take the quality theme
+
+65
+00:02:35,900 --> 00:02:37,560
+and make it get some legs
+
+66
+00:02:37,560 --> 00:02:39,620
+and start putting it into this project.
+
+67
+00:02:39,620 --> 00:02:41,000
+We're going to look at change theme
+
+68
+00:02:41,000 --> 00:02:42,850
+and use the change control approach,
+
+69
+00:02:42,850 --> 00:02:44,724
+and start moving that through the process.
+
+70
+00:02:44,724 --> 00:02:47,250
+We're going to also have project controls,
+
+71
+00:02:47,250 --> 00:02:49,010
+so we know what are the time
+
+72
+00:02:49,010 --> 00:02:51,092
+and tolerance controls we're going to use.
+
+73
+00:02:51,092 --> 00:02:54,040
+We're going to have any
+PRINCE2 tailoring we do,
+
+74
+00:02:54,040 --> 00:02:56,800
+has to be identified
+here in our PID as well.
+
+75
+00:02:56,800 --> 00:02:59,750
+Like we talked about all
+the way back in principles.
+
+76
+00:02:59,750 --> 00:03:01,190
+So, you can see how those principles
+
+77
+00:03:01,190 --> 00:03:03,360
+and themes start coming together now,
+
+78
+00:03:03,360 --> 00:03:05,930
+inside this project initiation document,
+
+79
+00:03:05,930 --> 00:03:10,400
+which happens inside the
+initiating a project process.
+
+80
+00:03:10,400 --> 00:03:12,960
+Now, the outputs from initiating a project
+
+81
+00:03:12,960 --> 00:03:15,040
+are obviously going to be the PID,
+
+82
+00:03:15,040 --> 00:03:17,200
+the project initiation document.
+
+83
+00:03:17,200 --> 00:03:18,700
+But the other output we need
+
+84
+00:03:18,700 --> 00:03:20,919
+is a benefits management approach.
+
+85
+00:03:20,919 --> 00:03:22,550
+If you remember back,
+
+86
+00:03:22,550 --> 00:03:25,550
+who was in charge of the
+benefits management approach?
+
+87
+00:03:25,550 --> 00:03:26,900
+The benefits management approach
+
+88
+00:03:26,900 --> 00:03:30,070
+was the responsibility of the senior user.
+
+89
+00:03:30,070 --> 00:03:32,010
+They're going to describe how the benefits
+
+90
+00:03:32,010 --> 00:03:35,010
+are going to be measured,
+how often and by whom.
+
+91
+00:03:35,010 --> 00:03:36,810
+They're also going to update it at the end
+
+92
+00:03:36,810 --> 00:03:38,900
+of the project and turn this over,
+
+93
+00:03:38,900 --> 00:03:41,300
+because it becomes an active document
+
+94
+00:03:41,300 --> 00:03:42,500
+that's going to be used during
+
+95
+00:03:42,500 --> 00:03:44,930
+the products operational lifetime.
+
+96
+00:03:44,930 --> 00:03:47,480
+It's also going to be turned
+over to the corporate office,
+
+97
+00:03:47,480 --> 00:03:48,810
+the program management office,
+
+98
+00:03:48,810 --> 00:03:51,300
+or the customer at the project closure,
+
+99
+00:03:51,300 --> 00:03:53,416
+so they know what those things are.
+
+100
+00:03:53,416 --> 00:03:55,750
+What does this really look
+like in the real world?
+
+101
+00:03:55,750 --> 00:03:57,520
+Let's say I was building a network.
+
+102
+00:03:57,520 --> 00:03:59,630
+The senior user might have told me
+
+103
+00:03:59,630 --> 00:04:02,910
+that one of the things we were
+going to do was measure uptime.
+
+104
+00:04:02,910 --> 00:04:04,470
+That's what's going to be measured.
+
+105
+00:04:04,470 --> 00:04:05,970
+We're going to measure it every week
+
+106
+00:04:05,970 --> 00:04:08,470
+and take an average and
+it's going to be measured
+
+107
+00:04:08,470 --> 00:04:10,490
+by the service operations team.
+
+108
+00:04:10,490 --> 00:04:12,400
+That is what the benefit is,
+
+109
+00:04:12,400 --> 00:04:15,640
+how much uptime, how often, and by whom.
+
+110
+00:04:15,640 --> 00:04:17,250
+Now, when we build,
+
+111
+00:04:17,250 --> 00:04:20,940
+we're building it to meet
+those project, those benefit.
+
+112
+00:04:20,940 --> 00:04:22,450
+Now, when I build this network,
+
+113
+00:04:22,450 --> 00:04:25,870
+I'm going to build it to meet
+the benefits management approach.
+
+114
+00:04:25,870 --> 00:04:28,060
+I want to make sure I meet
+the metrics I was told.
+
+115
+00:04:28,060 --> 00:04:30,790
+Say, 99% uptime.
+
+116
+00:04:30,790 --> 00:04:32,300
+But, once I build this network
+
+117
+00:04:32,300 --> 00:04:33,412
+and turn it over to the customer,
+
+118
+00:04:33,412 --> 00:04:34,930
+it's not my problem anymore,
+
+119
+00:04:34,930 --> 00:04:36,430
+the project is over, right?
+
+120
+00:04:36,430 --> 00:04:38,710
+So, I'm going to turn
+that approach over to them
+
+121
+00:04:38,710 --> 00:04:40,690
+so they know how they can measure it
+
+122
+00:04:40,690 --> 00:04:43,310
+and make sure they're maintaining
+the uptime that they need
+
+123
+00:04:43,310 --> 00:04:45,703
+for that product to be successful.
+

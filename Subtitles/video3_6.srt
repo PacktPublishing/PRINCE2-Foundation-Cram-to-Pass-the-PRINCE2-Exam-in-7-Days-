@@ -1,0 +1,1473 @@
+1
+00:00:00,880 --> 00:00:01,890
+- Risk.
+
+2
+00:00:01,890 --> 00:00:05,090
+So, the next theme we're
+going to talk about is risk
+
+3
+00:00:05,090 --> 00:00:07,570
+and when we concern ourself
+with the risk theme,
+
+4
+00:00:07,570 --> 00:00:10,170
+we're thinking about how
+we can identify, assess
+
+5
+00:00:10,170 --> 00:00:13,290
+and control uncertainty
+and improve the ability
+
+6
+00:00:13,290 --> 00:00:15,870
+of the project to be successful overall.
+
+7
+00:00:15,870 --> 00:00:18,970
+Because in everything
+we do, there is risk.
+
+8
+00:00:18,970 --> 00:00:21,240
+Now, what exactly is risk?
+
+9
+00:00:21,240 --> 00:00:23,780
+Well, risk is an uncertain event
+
+10
+00:00:23,780 --> 00:00:26,580
+which will have an effect
+on the project's objectives
+
+11
+00:00:26,580 --> 00:00:29,830
+and that objective is to produce
+the final product, right?
+
+12
+00:00:29,830 --> 00:00:31,320
+And so when we look at this,
+
+13
+00:00:31,320 --> 00:00:34,392
+we have to consider two
+major pieces of this risk,
+
+14
+00:00:34,392 --> 00:00:36,381
+the uncertain event piece.
+
+15
+00:00:36,381 --> 00:00:39,930
+That means the event may or may not occur.
+
+16
+00:00:39,930 --> 00:00:42,260
+When we're dealing with
+risk, it is uncertain.
+
+17
+00:00:42,260 --> 00:00:44,100
+We don't know if it's going to happen.
+
+18
+00:00:44,100 --> 00:00:46,910
+If it does happen, then
+it may become an issue.
+
+19
+00:00:46,910 --> 00:00:49,530
+But until it does, it's
+just this uncertain future
+
+20
+00:00:49,530 --> 00:00:50,510
+that's out there.
+
+21
+00:00:50,510 --> 00:00:52,350
+It may or may not happen.
+
+22
+00:00:52,350 --> 00:00:54,090
+There's a risk that when
+I go to work tomorrow,
+
+23
+00:00:54,090 --> 00:00:55,690
+I could get hit by a car.
+
+24
+00:00:55,690 --> 00:00:57,610
+That may or may not happen, right?
+
+25
+00:00:57,610 --> 00:00:59,670
+That's what we're talking
+about here, this risk.
+
+26
+00:00:59,670 --> 00:01:01,960
+And the second piece is the effect.
+
+27
+00:01:01,960 --> 00:01:05,200
+Now most of us think
+of risk as negatively.
+
+28
+00:01:05,200 --> 00:01:06,930
+There's a negative effect that can happen,
+
+29
+00:01:06,930 --> 00:01:09,170
+like I could get hit by a car tomorrow
+
+30
+00:01:09,170 --> 00:01:11,091
+but there's also positive risk.
+
+31
+00:01:11,091 --> 00:01:13,960
+What if I found $20 on the street?
+
+32
+00:01:13,960 --> 00:01:15,130
+There's a risk that may happen
+
+33
+00:01:15,130 --> 00:01:17,240
+and I'll get $20 extra, right?
+
+34
+00:01:17,240 --> 00:01:20,000
+There is positive and
+negative risk out there.
+
+35
+00:01:20,000 --> 00:01:22,820
+And we'll talk about that as
+we go through this lesson.
+
+36
+00:01:22,820 --> 00:01:25,720
+Now, risk is not a project issue.
+
+37
+00:01:25,720 --> 00:01:26,810
+And what I mean by that
+
+38
+00:01:26,810 --> 00:01:29,270
+is that there are these
+things called project issues.
+
+39
+00:01:29,270 --> 00:01:31,600
+These are an event that have happened
+
+40
+00:01:31,600 --> 00:01:33,300
+and they weren't planned for.
+
+41
+00:01:33,300 --> 00:01:34,701
+So if I was building a house
+
+42
+00:01:34,701 --> 00:01:37,070
+and someone was laying tile in my bathroom
+
+43
+00:01:37,070 --> 00:01:38,632
+and I hired them to lay that tile
+
+44
+00:01:38,632 --> 00:01:40,350
+and they brought the wrong tile
+
+45
+00:01:40,350 --> 00:01:42,170
+and laid it all out and spent two days
+
+46
+00:01:42,170 --> 00:01:44,312
+of work putting the new
+tile in the bathroom,
+
+47
+00:01:44,312 --> 00:01:46,470
+that would be a bad thing, right?
+
+48
+00:01:46,470 --> 00:01:47,670
+That's an issue.
+
+49
+00:01:47,670 --> 00:01:49,460
+There was a risk they would
+have brought the wrong tile,
+
+50
+00:01:49,460 --> 00:01:51,930
+and in this case, that risk was realized.
+
+51
+00:01:51,930 --> 00:01:53,670
+That turned into a project issue
+
+52
+00:01:53,670 --> 00:01:56,620
+and now we need to rip out
+all that tile and redo it
+
+53
+00:01:56,620 --> 00:01:59,410
+and it's going to cost us
+more time and more money.
+
+54
+00:01:59,410 --> 00:02:01,868
+Risk, on the other hand,
+is this uncertain event
+
+55
+00:02:01,868 --> 00:02:03,380
+that is in the future.
+
+56
+00:02:03,380 --> 00:02:06,370
+It may or may not happen,
+as we just talked about.
+
+57
+00:02:06,370 --> 00:02:10,400
+And when a risk occurs, it
+could become a project issue.
+
+58
+00:02:10,400 --> 00:02:12,940
+Sometimes they are, sometimes they're not.
+
+59
+00:02:12,940 --> 00:02:16,410
+If there was risk that we had
+an additional customer load,
+
+60
+00:02:16,410 --> 00:02:19,280
+where more customers bought
+our product than we expected,
+
+61
+00:02:19,280 --> 00:02:20,960
+that may not be a bad thing
+
+62
+00:02:20,960 --> 00:02:22,860
+and so it wouldn't be a project issue.
+
+63
+00:02:22,860 --> 00:02:24,457
+But if too many people,
+
+64
+00:02:24,457 --> 00:02:26,410
+and there was millions of people
+
+65
+00:02:26,410 --> 00:02:28,350
+who came to our website
+that we're building,
+
+66
+00:02:28,350 --> 00:02:29,730
+and we weren't expecting that,
+
+67
+00:02:29,730 --> 00:02:31,610
+that could actually crash our server.
+
+68
+00:02:31,610 --> 00:02:34,160
+And so too much acceptance of our product
+
+69
+00:02:34,160 --> 00:02:35,880
+could be a bad thing as well.
+
+70
+00:02:35,880 --> 00:02:38,020
+And so you really have to weigh this thing
+
+71
+00:02:38,020 --> 00:02:39,620
+and think about the risk
+
+72
+00:02:39,620 --> 00:02:42,120
+and what you can do to minimize the risk
+
+73
+00:02:42,120 --> 00:02:45,460
+and have a positive
+impact for you overall.
+
+74
+00:02:45,460 --> 00:02:48,910
+Now, when we look at this, we
+talk about realizing the risk.
+
+75
+00:02:48,910 --> 00:02:51,885
+And realizing the risk
+is when the risk happens.
+
+76
+00:02:51,885 --> 00:02:54,970
+There are threats and
+there are opportunities.
+
+77
+00:02:54,970 --> 00:02:56,730
+Now those negative things
+we're talking about,
+
+78
+00:02:56,730 --> 00:02:58,320
+those are all threats.
+
+79
+00:02:58,320 --> 00:03:00,380
+And those threats is when risk is realized
+
+80
+00:03:00,380 --> 00:03:02,100
+through a negative impact.
+
+81
+00:03:02,100 --> 00:03:03,450
+Something bad happens.
+
+82
+00:03:03,450 --> 00:03:05,200
+We installed the wrong tile.
+
+83
+00:03:05,200 --> 00:03:06,730
+We crashed our server.
+
+84
+00:03:06,730 --> 00:03:08,680
+There was a vulnerability that was found.
+
+85
+00:03:08,680 --> 00:03:10,750
+All those things are threats.
+
+86
+00:03:10,750 --> 00:03:12,150
+But we also have opportunities
+
+87
+00:03:12,150 --> 00:03:13,970
+and these are the good things that happen.
+
+88
+00:03:13,970 --> 00:03:17,170
+This is when risk is realized
+with a positive impact.
+
+89
+00:03:17,170 --> 00:03:18,720
+So, I thought I was only going
+
+90
+00:03:18,720 --> 00:03:22,270
+to get 100 customers the
+first day but I got a 150.
+
+91
+00:03:22,270 --> 00:03:24,530
+It was enough that I could
+handle the extra load
+
+92
+00:03:24,530 --> 00:03:26,200
+but I made a bunch of extra money.
+
+93
+00:03:26,200 --> 00:03:27,570
+That's a good thing.
+
+94
+00:03:27,570 --> 00:03:30,320
+Now, if I had 100,000 show up on day one,
+
+95
+00:03:30,320 --> 00:03:32,760
+that may become a threat cause
+it could crash the server.
+
+96
+00:03:32,760 --> 00:03:35,320
+And so you can see how these
+risks could go positively
+
+97
+00:03:35,320 --> 00:03:36,840
+or could go negatively.
+
+98
+00:03:36,840 --> 00:03:39,010
+And it really depends
+on how you handle them
+
+99
+00:03:39,010 --> 00:03:42,110
+and how your project is
+setup to handle these risks.
+
+100
+00:03:42,110 --> 00:03:45,840
+And that takes us to this
+concept of a risk budget.
+
+101
+00:03:45,840 --> 00:03:48,220
+When you're building out your
+financials for your project
+
+102
+00:03:48,220 --> 00:03:49,740
+and how much it's going to cost,
+
+103
+00:03:49,740 --> 00:03:52,420
+you should have a dedicated pot of money
+
+104
+00:03:52,420 --> 00:03:55,330
+that's used to fund any risk responses.
+
+105
+00:03:55,330 --> 00:03:57,340
+That's called the risk budget.
+
+106
+00:03:57,340 --> 00:03:59,450
+Going back to the house building example,
+
+107
+00:03:59,450 --> 00:04:01,780
+if the project manager
+didn't catch the tile
+
+108
+00:04:01,780 --> 00:04:03,130
+before it was installed,
+
+109
+00:04:03,130 --> 00:04:05,468
+they would now have to
+pay to take out the tile,
+
+110
+00:04:05,468 --> 00:04:08,610
+to buy new tile and to install that tile.
+
+111
+00:04:08,610 --> 00:04:11,700
+Those three things may
+cost them another $1,000.
+
+112
+00:04:11,700 --> 00:04:13,630
+That would come from the risk budget
+
+113
+00:04:13,630 --> 00:04:16,510
+because it wasn't planned
+and that risk was realized.
+
+114
+00:04:16,510 --> 00:04:18,520
+The guy put in the wrong tile.
+
+115
+00:04:18,520 --> 00:04:21,030
+Now, how much risk
+you're willing to accept
+
+116
+00:04:21,030 --> 00:04:24,030
+is really a question
+for your organization.
+
+117
+00:04:24,030 --> 00:04:27,420
+And we measure this in something
+called the risk appetite.
+
+118
+00:04:27,420 --> 00:04:30,280
+Some organizations are very risk adverse
+
+119
+00:04:30,280 --> 00:04:31,608
+and they will not take any risk at all
+
+120
+00:04:31,608 --> 00:04:33,548
+or take very minimal risk.
+
+121
+00:04:33,548 --> 00:04:36,690
+Other organizations
+will take a lot of risk
+
+122
+00:04:36,690 --> 00:04:38,720
+and they have a very high risk tolerance
+
+123
+00:04:38,720 --> 00:04:40,470
+or high risk appetite.
+
+124
+00:04:40,470 --> 00:04:43,620
+Now, that risk tolerance is
+the threshold that is set
+
+125
+00:04:43,620 --> 00:04:46,940
+that cannot be exceeded without
+an exception being written
+
+126
+00:04:46,940 --> 00:04:48,550
+in the exception report.
+
+127
+00:04:48,550 --> 00:04:50,780
+Now again, depending on your organization,
+
+128
+00:04:50,780 --> 00:04:53,710
+they may be more or less risk adverse.
+
+129
+00:04:53,710 --> 00:04:56,702
+And the way you overcome
+some of that adverse risk
+
+130
+00:04:56,702 --> 00:04:58,630
+is that you start planning for it
+
+131
+00:04:58,630 --> 00:05:00,250
+and you come up with mitigations
+
+132
+00:05:00,250 --> 00:05:02,500
+to bring the risk level down.
+
+133
+00:05:02,500 --> 00:05:05,250
+Other organizations will
+just accept the risk
+
+134
+00:05:05,250 --> 00:05:07,770
+and they'll just say that's
+the cost of doing business.
+
+135
+00:05:07,770 --> 00:05:09,038
+These are the things that your
+organization's going to have
+
+136
+00:05:09,038 --> 00:05:11,290
+to determine and you're
+going to have to live within
+
+137
+00:05:11,290 --> 00:05:14,210
+those frameworks and that risk tolerance.
+
+138
+00:05:14,210 --> 00:05:17,290
+Now, how is your project
+going to deal with risk?
+
+139
+00:05:17,290 --> 00:05:20,260
+Well, that's where the risk
+management approach comes in.
+
+140
+00:05:20,260 --> 00:05:23,440
+And this is a written outline
+of your risk management
+
+141
+00:05:23,440 --> 00:05:26,350
+and it is required as you
+initiate your project.
+
+142
+00:05:26,350 --> 00:05:27,610
+There's going to be a document
+
+143
+00:05:27,610 --> 00:05:29,640
+called the risk management approach.
+
+144
+00:05:29,640 --> 00:05:32,060
+It will tell you what
+your risk tolerance is,
+
+145
+00:05:32,060 --> 00:05:33,610
+how much budget you're going to have
+
+146
+00:05:33,610 --> 00:05:36,049
+and how you're going to deal
+with risks that come up.
+
+147
+00:05:36,049 --> 00:05:38,630
+All of your risks should be identified
+
+148
+00:05:38,630 --> 00:05:40,830
+in what's called the risk register
+
+149
+00:05:40,830 --> 00:05:42,690
+which is a document or a journal
+
+150
+00:05:42,690 --> 00:05:44,660
+that the project manager's going to own.
+
+151
+00:05:44,660 --> 00:05:48,130
+This is going to document every
+single risk in the project
+
+152
+00:05:48,130 --> 00:05:49,910
+and it's going to be used
+by the project manager
+
+153
+00:05:49,910 --> 00:05:51,380
+to capture these risks
+
+154
+00:05:51,380 --> 00:05:54,010
+and notate how they're
+going to handle those risks
+
+155
+00:05:54,010 --> 00:05:56,520
+if they are realized and become an event.
+
+156
+00:05:56,520 --> 00:05:58,130
+Now, as a project manager
+
+157
+00:05:58,130 --> 00:05:59,689
+or someone working on the project,
+
+158
+00:05:59,689 --> 00:06:02,030
+you're going to have to deal with risk.
+
+159
+00:06:02,030 --> 00:06:05,040
+And the way we do that is
+through a five step procedure.
+
+160
+00:06:05,040 --> 00:06:07,930
+We identify the risk, we assess the risk,
+
+161
+00:06:07,930 --> 00:06:11,750
+we plan for the risk, we
+implement our risk mitigations
+
+162
+00:06:11,750 --> 00:06:14,300
+and then we communicate those risks upward
+
+163
+00:06:14,300 --> 00:06:17,660
+to either the project manager
+or up to the project board.
+
+164
+00:06:17,660 --> 00:06:19,530
+So when we deal with identifying it,
+
+165
+00:06:19,530 --> 00:06:20,770
+these are where we're going to list out
+
+166
+00:06:20,770 --> 00:06:22,720
+our threats and opportunities.
+
+167
+00:06:22,720 --> 00:06:25,460
+We're going to describe them
+in terms of their source,
+
+168
+00:06:25,460 --> 00:06:27,270
+the event or the area of uncertainty
+
+169
+00:06:27,270 --> 00:06:30,520
+that may happen and the effect or impact.
+
+170
+00:06:30,520 --> 00:06:32,440
+Being able to identify all those things
+
+171
+00:06:32,440 --> 00:06:35,540
+that might go wrong or
+possibly could go right,
+
+172
+00:06:35,540 --> 00:06:39,030
+that are risky for us, is
+a really important step.
+
+173
+00:06:39,030 --> 00:06:42,000
+Then, we're going to take that
+list of all of those risks
+
+174
+00:06:42,000 --> 00:06:43,910
+and we're going to assess them.
+
+175
+00:06:43,910 --> 00:06:45,640
+We're going to estimate the probability
+
+176
+00:06:45,640 --> 00:06:48,900
+or the likelihood, the
+impact, the proximity,
+
+177
+00:06:48,900 --> 00:06:50,200
+when it's likely to occur,
+
+178
+00:06:50,200 --> 00:06:53,220
+and evaluate all the net overall effect
+
+179
+00:06:53,220 --> 00:06:54,980
+of all of these risks.
+
+180
+00:06:54,980 --> 00:06:57,700
+So if you're building a house
+or an apartment building,
+
+181
+00:06:57,700 --> 00:06:59,880
+there are lots of bad
+things that can happen
+
+182
+00:06:59,880 --> 00:07:01,840
+and lots of good things that can happen.
+
+183
+00:07:01,840 --> 00:07:03,080
+We're going to list all those out
+
+184
+00:07:03,080 --> 00:07:05,990
+and assess which ones are
+most likely to happen.
+
+185
+00:07:05,990 --> 00:07:07,410
+Is it very likely that someone
+
+186
+00:07:07,410 --> 00:07:09,186
+is going to install the wrong fixtures?
+
+187
+00:07:09,186 --> 00:07:10,520
+Probably.
+
+188
+00:07:10,520 --> 00:07:12,750
+Is it very likely or less
+likely that the house
+
+189
+00:07:12,750 --> 00:07:14,510
+will burn down during construction?
+
+190
+00:07:14,510 --> 00:07:15,880
+Probably less likely.
+
+191
+00:07:15,880 --> 00:07:17,890
+And as we go through all of these things,
+
+192
+00:07:17,890 --> 00:07:19,840
+we're going to figure out how we can plan
+
+193
+00:07:19,840 --> 00:07:22,480
+for those risks, starting
+with the most likely
+
+194
+00:07:22,480 --> 00:07:24,820
+and moving our way down
+to the least likely.
+
+195
+00:07:24,820 --> 00:07:27,160
+And that brings us into
+our planning stage.
+
+196
+00:07:27,160 --> 00:07:29,770
+When we plan, we're going
+to curve for one or more
+
+197
+00:07:29,770 --> 00:07:31,260
+of those specific risks
+
+198
+00:07:31,260 --> 00:07:34,320
+and figure out what our responses may be.
+
+199
+00:07:34,320 --> 00:07:36,930
+So now that we've planned,
+we have to implement that
+
+200
+00:07:36,930 --> 00:07:38,630
+and this is where we're
+going to take action
+
+201
+00:07:38,630 --> 00:07:40,620
+in response to our chosen risk.
+
+202
+00:07:40,620 --> 00:07:42,960
+So we're going to pick one
+of those risks from the list,
+
+203
+00:07:42,960 --> 00:07:45,430
+we've assessed it and we
+planned a counter measure to it,
+
+204
+00:07:45,430 --> 00:07:46,650
+something to mitigate it.
+
+205
+00:07:46,650 --> 00:07:48,630
+Now, we're going to implement it.
+
+206
+00:07:48,630 --> 00:07:50,100
+So let's take the example
+
+207
+00:07:50,100 --> 00:07:53,500
+of your installing a new
+work station into a network.
+
+208
+00:07:53,500 --> 00:07:54,743
+It's a very small project.
+
+209
+00:07:54,743 --> 00:07:57,000
+There's risk associated with that though
+
+210
+00:07:57,000 --> 00:07:59,040
+because as you install
+that new workstation,
+
+211
+00:07:59,040 --> 00:08:01,920
+you might be bringing in
+additional vulnerabilities.
+
+212
+00:08:01,920 --> 00:08:03,786
+Well, one of your mitigations may be
+
+213
+00:08:03,786 --> 00:08:06,170
+to institute a vulnerability
+management program
+
+214
+00:08:06,170 --> 00:08:09,500
+and scan those workstations
+before they're installed.
+
+215
+00:08:09,500 --> 00:08:11,700
+This is a mitigation to lower your risk
+
+216
+00:08:11,700 --> 00:08:13,750
+that you're going to be
+bringing into your network.
+
+217
+00:08:13,750 --> 00:08:16,420
+And you're going to do this
+by assigning a risk owner
+
+218
+00:08:16,420 --> 00:08:18,270
+who's going to be be
+responsible for managing
+
+219
+00:08:18,270 --> 00:08:20,000
+this vulnerability management program,
+
+220
+00:08:20,000 --> 00:08:21,612
+this risk of bringing in the new machines,
+
+221
+00:08:21,612 --> 00:08:23,710
+and a risk actionee
+
+222
+00:08:23,710 --> 00:08:25,650
+who is going to carry
+out the risk response,
+
+223
+00:08:25,650 --> 00:08:28,200
+the person who's going to run
+those vulnerability scans.
+
+224
+00:08:28,200 --> 00:08:29,810
+So you can see how you have this risk,
+
+225
+00:08:29,810 --> 00:08:30,930
+you have this mitigation,
+
+226
+00:08:30,930 --> 00:08:33,700
+and somebody who's
+responsible for both of those.
+
+227
+00:08:33,700 --> 00:08:35,570
+Next, we're going to look at communicate.
+
+228
+00:08:35,570 --> 00:08:37,590
+And this is where we
+want to report the status
+
+229
+00:08:37,590 --> 00:08:39,890
+of the risk up to your shareholders
+
+230
+00:08:39,890 --> 00:08:41,850
+using your PRINCE2 reports,
+
+231
+00:08:41,850 --> 00:08:44,950
+such as your Highlight reports
+or your Exception reports.
+
+232
+00:08:44,950 --> 00:08:46,972
+So if there was a risk
+and it was realized,
+
+233
+00:08:46,972 --> 00:08:50,231
+you better communicate that
+up and what you did about it.
+
+234
+00:08:50,231 --> 00:08:52,350
+Or, if there's some big risk
+
+235
+00:08:52,350 --> 00:08:54,560
+and you think you need more
+money to your risk budget
+
+236
+00:08:54,560 --> 00:08:56,172
+to be able to put in implementations
+
+237
+00:08:56,172 --> 00:08:58,060
+and mitigations for it,
+
+238
+00:08:58,060 --> 00:09:00,520
+then again, you're going to
+have to communicate that up.
+
+239
+00:09:00,520 --> 00:09:02,520
+And if it's outside your
+budget and your tolerance,
+
+240
+00:09:02,520 --> 00:09:04,040
+it's going to be an exception.
+
+241
+00:09:04,040 --> 00:09:06,460
+If it's within your tolerance
+and within your budget,
+
+242
+00:09:06,460 --> 00:09:09,300
+it would just be inside
+your Highlight report.
+
+243
+00:09:09,300 --> 00:09:12,630
+Now as we go forward, we
+can talk about the two types
+
+244
+00:09:12,630 --> 00:09:14,130
+of risk responses.
+
+245
+00:09:14,130 --> 00:09:15,900
+We have responses to threats
+
+246
+00:09:15,900 --> 00:09:18,290
+and we have responses to opportunities.
+
+247
+00:09:18,290 --> 00:09:20,900
+Remember, threats are
+those negative things.
+
+248
+00:09:20,900 --> 00:09:23,330
+When we look at risk, we can avoid it.
+
+249
+00:09:23,330 --> 00:09:24,570
+We can reduce it.
+
+250
+00:09:24,570 --> 00:09:25,610
+We can accept it.
+
+251
+00:09:25,610 --> 00:09:27,260
+We can transfer it.
+
+252
+00:09:27,260 --> 00:09:28,230
+We can share it.
+
+253
+00:09:28,230 --> 00:09:31,530
+And we can prepare contingency
+plans to deal with it.
+
+254
+00:09:31,530 --> 00:09:33,530
+Now, when we look at the positive side,
+
+255
+00:09:33,530 --> 00:09:34,850
+we can exploit it.
+
+256
+00:09:34,850 --> 00:09:35,940
+We can enhance it.
+
+257
+00:09:35,940 --> 00:09:37,470
+We can reject it.
+
+258
+00:09:37,470 --> 00:09:38,620
+We can transfer it.
+
+259
+00:09:38,620 --> 00:09:39,530
+We can share it
+
+260
+00:09:39,530 --> 00:09:42,300
+and we can prepare our contingency plans.
+
+261
+00:09:42,300 --> 00:09:43,230
+Now, wait a minute.
+
+262
+00:09:43,230 --> 00:09:46,310
+The last three in both of
+those columns are the same.
+
+263
+00:09:46,310 --> 00:09:47,143
+That's right.
+
+264
+00:09:47,143 --> 00:09:49,250
+And this makes it really easy on test day.
+
+265
+00:09:49,250 --> 00:09:50,134
+So you just need to remember
+
+266
+00:09:50,134 --> 00:09:53,260
+what are the threats and the opportunities
+
+267
+00:09:53,260 --> 00:09:55,660
+and look at them of what is different.
+
+268
+00:09:55,660 --> 00:09:56,880
+Because they may give you a question
+
+269
+00:09:56,880 --> 00:09:57,980
+that says something like
+
+270
+00:09:57,980 --> 00:10:01,200
+what is not an appropriate
+risk response to threats?
+
+271
+00:10:01,200 --> 00:10:02,140
+And then they'll say something like
+
+272
+00:10:02,140 --> 00:10:05,880
+avoid, reduce, accept,
+transfer, share and reject.
+
+273
+00:10:05,880 --> 00:10:06,847
+You go, "Ah, wait a minute.
+
+274
+00:10:06,847 --> 00:10:08,700
+"Reject is an opportunity."
+
+275
+00:10:08,700 --> 00:10:10,640
+we're not going to do that
+inside of threats, right?
+
+276
+00:10:10,640 --> 00:10:12,440
+And so you can look at those.
+
+277
+00:10:12,440 --> 00:10:14,230
+Now, when you look at
+these risk responses,
+
+278
+00:10:14,230 --> 00:10:17,073
+this is the way you're going
+to address the primary risk.
+
+279
+00:10:17,073 --> 00:10:19,270
+But even after you
+address the primary risk,
+
+280
+00:10:19,270 --> 00:10:22,310
+there is some residual risk left over
+
+281
+00:10:22,310 --> 00:10:25,660
+and that should also
+receive a risk response too.
+
+282
+00:10:25,660 --> 00:10:27,524
+So if I was going back to my example
+
+283
+00:10:27,524 --> 00:10:30,011
+of the workstation being
+installed on the network,
+
+284
+00:10:30,011 --> 00:10:32,540
+we're going to do
+vulnerability management on it.
+
+285
+00:10:32,540 --> 00:10:35,210
+That should catch all
+known vulnerabilities.
+
+286
+00:10:35,210 --> 00:10:37,560
+That mitigates down our risk to a low
+
+287
+00:10:37,560 --> 00:10:39,910
+because there are still
+zero days out there
+
+288
+00:10:39,910 --> 00:10:42,340
+that vulnerability
+management will not find.
+
+289
+00:10:42,340 --> 00:10:44,121
+Now what are you going to
+do about those zero days?
+
+290
+00:10:44,121 --> 00:10:47,000
+Most people have learned to accept those
+
+291
+00:10:47,000 --> 00:10:48,900
+or they transfer it by buying some sort
+
+292
+00:10:48,900 --> 00:10:51,231
+of hacker or cyber insurance.
+
+293
+00:10:51,231 --> 00:10:53,760
+Some people will avoid it
+by unplugging the device
+
+294
+00:10:53,760 --> 00:10:55,270
+from the network, right?
+
+295
+00:10:55,270 --> 00:10:57,370
+There's all sorts of responses you can do
+
+296
+00:10:57,370 --> 00:10:59,020
+but remember, there is residual risk
+
+297
+00:10:59,020 --> 00:11:00,680
+and you have to deal with that too.
+
+298
+00:11:00,680 --> 00:11:03,090
+And you're never going to
+get your risk down to zero.
+
+299
+00:11:03,090 --> 00:11:04,710
+So you're going to have to, at some point,
+
+300
+00:11:04,710 --> 00:11:06,650
+either avoid it, transfer it,
+
+301
+00:11:06,650 --> 00:11:09,140
+reduce it, share it, accept it,
+
+302
+00:11:09,140 --> 00:11:10,550
+something from that threats column
+
+303
+00:11:10,550 --> 00:11:12,430
+or from the opportunities column,
+
+304
+00:11:12,430 --> 00:11:15,840
+depending on if it's a
+negative or a positive risk.
+
+305
+00:11:15,840 --> 00:11:18,240
+Now, in PRINCE2 for the risk theme,
+
+306
+00:11:18,240 --> 00:11:21,290
+there are a couple of
+things you just have to do.
+
+307
+00:11:21,290 --> 00:11:22,790
+The first is you have to define
+
+308
+00:11:22,790 --> 00:11:24,400
+your risk management approach
+
+309
+00:11:24,400 --> 00:11:27,380
+by describing your risk
+management procedures to be used.
+
+310
+00:11:27,380 --> 00:11:30,920
+And this is done in your risk
+management approach document.
+
+311
+00:11:30,920 --> 00:11:32,937
+You're also going to
+maintain a risk register
+
+312
+00:11:32,937 --> 00:11:35,025
+to record and manage your risk.
+
+313
+00:11:35,025 --> 00:11:36,944
+You're then going to have to identify,
+
+314
+00:11:36,944 --> 00:11:40,950
+assess, manage and review your
+risks throughout the project
+
+315
+00:11:40,950 --> 00:11:43,170
+because they change over time.
+
+316
+00:11:43,170 --> 00:11:44,930
+There is schedule slip risks.
+
+317
+00:11:44,930 --> 00:11:46,167
+There is over budget risk.
+
+318
+00:11:46,167 --> 00:11:48,670
+And the closer you get to
+the end of the project,
+
+319
+00:11:48,670 --> 00:11:51,020
+the less likely that's going to happen.
+
+320
+00:11:51,020 --> 00:11:53,390
+Earlier in the project,
+it's more likely to happen
+
+321
+00:11:53,390 --> 00:11:55,600
+because there's so many more variables.
+
+322
+00:11:55,600 --> 00:11:57,450
+You're also going to
+need to define your roles
+
+323
+00:11:57,450 --> 00:11:59,690
+and responsibilities for risk management.
+
+324
+00:11:59,690 --> 00:12:00,745
+Going back to that principle,
+
+325
+00:12:00,745 --> 00:12:03,185
+and again, we want to use lessons learned
+
+326
+00:12:03,185 --> 00:12:05,890
+to help inform our risk decisions.
+
+327
+00:12:05,890 --> 00:12:07,670
+If you've only built one house,
+
+328
+00:12:07,670 --> 00:12:09,680
+it's a pretty risky process.
+
+329
+00:12:09,680 --> 00:12:12,060
+But if you built 100 of
+that same floor plan,
+
+330
+00:12:12,060 --> 00:12:14,490
+that same house, it becomes less risky
+
+331
+00:12:14,490 --> 00:12:17,040
+because you have experience
+and you know what you're doing.
+
+332
+00:12:17,040 --> 00:12:19,284
+This all is going to
+factor into your risk,
+
+333
+00:12:19,284 --> 00:12:20,660
+into your risk budget
+
+334
+00:12:20,660 --> 00:12:23,453
+and into your risk tolerance
+for a given project.
+

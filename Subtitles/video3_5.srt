@@ -1,0 +1,1198 @@
+1
+00:00:01,020 --> 00:00:02,150
+- Plans.
+
+2
+00:00:02,150 --> 00:00:04,270
+So the plans theme is going to help us
+
+3
+00:00:04,270 --> 00:00:06,270
+to facilitate communication
+
+4
+00:00:06,270 --> 00:00:08,240
+and control by defining the means
+
+5
+00:00:08,240 --> 00:00:10,020
+of delivering the products.
+
+6
+00:00:10,020 --> 00:00:12,070
+This is where we start building our plans
+
+7
+00:00:12,070 --> 00:00:15,090
+that we can work towards
+to build our products.
+
+8
+00:00:15,090 --> 00:00:16,860
+This is going to define the how,
+
+9
+00:00:16,860 --> 00:00:19,010
+when, how much, by whom,
+
+10
+00:00:19,010 --> 00:00:21,310
+and where the project will deliver
+
+11
+00:00:21,310 --> 00:00:24,140
+the final products and outcomes.
+
+12
+00:00:24,140 --> 00:00:27,160
+There are three levels of plans
+that we've mentioned before.
+
+13
+00:00:27,160 --> 00:00:30,740
+The project plan, the stage
+plan, and the team plan.
+
+14
+00:00:30,740 --> 00:00:33,880
+Now, the project plan is
+used by the project board.
+
+15
+00:00:33,880 --> 00:00:36,450
+This is going to contain
+the project level costs,
+
+16
+00:00:36,450 --> 00:00:39,090
+the timescales, and the control points.
+
+17
+00:00:39,090 --> 00:00:41,630
+It's going to tell us how
+many stages there are,
+
+18
+00:00:41,630 --> 00:00:43,650
+and when those stages happen.
+
+19
+00:00:43,650 --> 00:00:45,110
+It's going to be updated at the end
+
+20
+00:00:45,110 --> 00:00:47,790
+of each stage to reflect
+the actual progress
+
+21
+00:00:47,790 --> 00:00:50,150
+and revise forecast so we know going
+
+22
+00:00:50,150 --> 00:00:52,520
+forward what we are budgeting for.
+
+23
+00:00:52,520 --> 00:00:55,350
+Underneath those, we're
+going to have the stage plan,
+
+24
+00:00:55,350 --> 00:00:58,840
+and the stage plan is going
+to have one per project stage.
+
+25
+00:00:58,840 --> 00:01:00,670
+It's used for the day-to-day management
+
+26
+00:01:00,670 --> 00:01:03,900
+of the project by our project manager.
+
+27
+00:01:03,900 --> 00:01:05,840
+And then we have our team plan,
+
+28
+00:01:05,840 --> 00:01:08,040
+and this is going to be
+used by our team managers.
+
+29
+00:01:08,040 --> 00:01:10,230
+This is also known as work packages.
+
+30
+00:01:10,230 --> 00:01:12,650
+These cover the work to be done by a team.
+
+31
+00:01:12,650 --> 00:01:14,640
+And there can be multiple work packages
+
+32
+00:01:14,640 --> 00:01:18,540
+or multiple team packages in
+existence at any one time.
+
+33
+00:01:18,540 --> 00:01:21,130
+So if I'm using the example
+of building a house,
+
+34
+00:01:21,130 --> 00:01:22,210
+maybe we are in the stage
+
+35
+00:01:22,210 --> 00:01:24,290
+where we're going to build a bathroom.
+
+36
+00:01:24,290 --> 00:01:27,460
+In that stage, I'm going to
+have a plumber's work package,
+
+37
+00:01:27,460 --> 00:01:29,500
+I'm going to have an
+electrician's work package,
+
+38
+00:01:29,500 --> 00:01:31,210
+somebody to tile the floors,
+
+39
+00:01:31,210 --> 00:01:33,110
+and somebody to install the fixtures,
+
+40
+00:01:33,110 --> 00:01:35,970
+so maybe three, four, five
+different work packages.
+
+41
+00:01:35,970 --> 00:01:39,670
+But they're still only one stage
+and that stage is one piece
+
+42
+00:01:39,670 --> 00:01:41,670
+of the larger project plan
+
+43
+00:01:41,670 --> 00:01:44,030
+that is used to build the whole house.
+
+44
+00:01:44,030 --> 00:01:47,240
+So you can see these things
+nest inside of each other.
+
+45
+00:01:47,240 --> 00:01:49,830
+Now, when I look at an exception plan,
+
+46
+00:01:49,830 --> 00:01:51,560
+this is when something goes wrong
+
+47
+00:01:51,560 --> 00:01:54,140
+and I have to deviate
+from the project plan,
+
+48
+00:01:54,140 --> 00:01:56,860
+the stage plan, or the team plan.
+
+49
+00:01:56,860 --> 00:01:59,330
+A new plan will be created
+to replace one of those,
+
+50
+00:01:59,330 --> 00:02:00,250
+either the stage plan
+
+51
+00:02:00,250 --> 00:02:03,450
+or the project plan to overcome an issue.
+
+52
+00:02:03,450 --> 00:02:06,560
+This is not an updated
+version of an existing plan,
+
+53
+00:02:06,560 --> 00:02:09,100
+but it's instead a change and a new way
+
+54
+00:02:09,100 --> 00:02:10,780
+of approaching things.
+
+55
+00:02:10,780 --> 00:02:12,840
+Corporate or program
+management are the ones
+
+56
+00:02:12,840 --> 00:02:15,580
+to approve a change to the project plan,
+
+57
+00:02:15,580 --> 00:02:19,500
+and the project board will
+change the stage plan.
+
+58
+00:02:19,500 --> 00:02:22,250
+So remember, the stage plan is
+used by the project manager.
+
+59
+00:02:22,250 --> 00:02:23,560
+If there is an exception,
+
+60
+00:02:23,560 --> 00:02:27,160
+his bosses, the project board,
+need to make that change.
+
+61
+00:02:27,160 --> 00:02:28,650
+Just like the project plan
+
+62
+00:02:28,650 --> 00:02:31,210
+is owned by the project
+board and the executive.
+
+63
+00:02:31,210 --> 00:02:32,530
+If there needs to be a change to it,
+
+64
+00:02:32,530 --> 00:02:34,100
+they have to go to their boss,
+
+65
+00:02:34,100 --> 00:02:36,490
+which is corporate or program management.
+
+66
+00:02:36,490 --> 00:02:40,410
+And so it keeps going up the
+ladder to get that change made.
+
+67
+00:02:40,410 --> 00:02:42,630
+Now, when we look at budget planning,
+
+68
+00:02:42,630 --> 00:02:46,230
+we have to plan and consider
+for many different things.
+
+69
+00:02:46,230 --> 00:02:48,990
+The first is the product
+and management funding.
+
+70
+00:02:48,990 --> 00:02:50,420
+Because there's costs associated
+
+71
+00:02:50,420 --> 00:02:51,970
+with building this final product
+
+72
+00:02:51,970 --> 00:02:53,960
+and there's overhead to pay
+
+73
+00:02:53,960 --> 00:02:56,210
+the project manager, the project board,
+
+74
+00:02:56,210 --> 00:02:58,040
+and all the people doing that.
+
+75
+00:02:58,040 --> 00:02:59,060
+This is the activities
+
+76
+00:02:59,060 --> 00:03:00,740
+to create the specialized products
+
+77
+00:03:00,740 --> 00:03:02,760
+and the management of those products.
+
+78
+00:03:02,760 --> 00:03:04,600
+We also need a change budget,
+
+79
+00:03:04,600 --> 00:03:05,960
+and that's because nothing
+
+80
+00:03:05,960 --> 00:03:08,230
+is going to go perfectly the way you plan.
+
+81
+00:03:08,230 --> 00:03:10,440
+There's always going to
+be some sort of change
+
+82
+00:03:10,440 --> 00:03:12,590
+that's requested by your customer.
+
+83
+00:03:12,590 --> 00:03:15,010
+Change budget is used
+for authorized changes
+
+84
+00:03:15,010 --> 00:03:16,640
+to the baseline products.
+
+85
+00:03:16,640 --> 00:03:18,340
+So when they've gotten version one out,
+
+86
+00:03:18,340 --> 00:03:20,890
+and now we are trying to get version 1.1,
+
+87
+00:03:20,890 --> 00:03:21,723
+because somebody decided
+
+88
+00:03:21,723 --> 00:03:24,050
+to change the font on our slide deck,
+
+89
+00:03:24,050 --> 00:03:27,370
+or they wanted to change the
+graphics used on the website.
+
+90
+00:03:27,370 --> 00:03:28,970
+Whatever those things are,
+
+91
+00:03:28,970 --> 00:03:30,110
+we have to pay for that,
+
+92
+00:03:30,110 --> 00:03:32,580
+and the change budget
+pays for those changes.
+
+93
+00:03:32,580 --> 00:03:34,700
+This goes through the
+change management process,
+
+94
+00:03:34,700 --> 00:03:37,170
+through an RFC or request for change,
+
+95
+00:03:37,170 --> 00:03:39,660
+and the change authority
+has this change budget
+
+96
+00:03:39,660 --> 00:03:42,700
+that they can authorize
+and pay for changes with.
+
+97
+00:03:42,700 --> 00:03:44,330
+There's also a risk budget,
+
+98
+00:03:44,330 --> 00:03:47,320
+because there is risk
+inherent in everything we do.
+
+99
+00:03:47,320 --> 00:03:48,640
+And so activities that need
+
+100
+00:03:48,640 --> 00:03:50,600
+to respond to risk are going to be covered
+
+101
+00:03:50,600 --> 00:03:52,030
+from the risk budget.
+
+102
+00:03:52,030 --> 00:03:53,670
+Maybe we are building a house
+
+103
+00:03:53,670 --> 00:03:55,170
+and it rained so much
+
+104
+00:03:55,170 --> 00:03:58,490
+that we can't pour the foundation
+without draining the lot
+
+105
+00:03:58,490 --> 00:04:01,770
+and we need to rent some
+pumps to get the water out.
+
+106
+00:04:01,770 --> 00:04:04,860
+Well, those pumps could be
+paid for using the risk budget.
+
+107
+00:04:04,860 --> 00:04:06,390
+It was something that wasn't planned for,
+
+108
+00:04:06,390 --> 00:04:07,920
+it wasn't something that was expected,
+
+109
+00:04:07,920 --> 00:04:10,830
+and so the risk budget
+can pick up the slack.
+
+110
+00:04:10,830 --> 00:04:13,170
+And finally, we have cost tolerance.
+
+111
+00:04:13,170 --> 00:04:15,290
+Cost tolerance is any cost overruns
+
+112
+00:04:15,290 --> 00:04:17,490
+that happen within a certain tolerance.
+
+113
+00:04:17,490 --> 00:04:19,810
+We talked about tolerances
+back in the last section
+
+114
+00:04:19,810 --> 00:04:21,130
+of this course, and we talked about
+
+115
+00:04:21,130 --> 00:04:24,730
+that we may have a plus
+10% tolerance on something.
+
+116
+00:04:24,730 --> 00:04:26,800
+Well, if it's $100,000 project,
+
+117
+00:04:26,800 --> 00:04:31,800
+we would then have a $10,000,
+so if it's $100,000 project,
+
+118
+00:04:32,350 --> 00:04:37,100
+we would have 10,000 or 10%
+set aside for cost overruns
+
+119
+00:04:37,100 --> 00:04:38,680
+that are within tolerance.
+
+120
+00:04:38,680 --> 00:04:39,710
+And if it's within the tolerance,
+
+121
+00:04:39,710 --> 00:04:42,410
+you don't have to go up to your
+boss to ask for more money,
+
+122
+00:04:42,410 --> 00:04:45,090
+because you have that money available.
+
+123
+00:04:45,090 --> 00:04:47,900
+Now, when we talk about
+product-based planning,
+
+124
+00:04:47,900 --> 00:04:50,770
+we're going to write a
+project product description,
+
+125
+00:04:50,770 --> 00:04:54,130
+and that's going to define
+what the project must deliver.
+
+126
+00:04:54,130 --> 00:04:55,840
+So what is that end product?
+
+127
+00:04:55,840 --> 00:04:56,770
+Is it the house?
+
+128
+00:04:56,770 --> 00:04:57,870
+Is it a car?
+
+129
+00:04:57,870 --> 00:04:58,880
+Is it a website?
+
+130
+00:04:58,880 --> 00:05:00,060
+Is it a network?
+
+131
+00:05:00,060 --> 00:05:01,610
+Whatever that thing is,
+
+132
+00:05:01,610 --> 00:05:03,810
+we have to write up a description of it,
+
+133
+00:05:03,810 --> 00:05:06,460
+and it's not just going to
+say that this is a red car,
+
+134
+00:05:06,460 --> 00:05:07,600
+but we're going to talk about the fact
+
+135
+00:05:07,600 --> 00:05:09,530
+that it's a red four-door sedan
+
+136
+00:05:09,530 --> 00:05:12,040
+that can go zero to 60 in five seconds.
+
+137
+00:05:12,040 --> 00:05:14,980
+And do x, y, z, and et cetera.
+
+138
+00:05:14,980 --> 00:05:16,840
+That's your product description.
+
+139
+00:05:16,840 --> 00:05:17,673
+You're also going to have
+
+140
+00:05:17,673 --> 00:05:19,900
+to create a product breakdown structure.
+
+141
+00:05:19,900 --> 00:05:21,840
+So using our car example,
+
+142
+00:05:21,840 --> 00:05:22,673
+there are other products
+
+143
+00:05:22,673 --> 00:05:25,130
+that have to built to go into the car.
+
+144
+00:05:25,130 --> 00:05:27,180
+I need airbags, I need seats.
+
+145
+00:05:27,180 --> 00:05:28,400
+I need upholstery.
+
+146
+00:05:28,400 --> 00:05:29,330
+I need gauges.
+
+147
+00:05:29,330 --> 00:05:30,440
+I need wiring.
+
+148
+00:05:30,440 --> 00:05:31,500
+And we're going to break those down
+
+149
+00:05:31,500 --> 00:05:33,600
+into individual smaller products
+
+150
+00:05:33,600 --> 00:05:36,740
+that we can then put into
+the larger, car product.
+
+151
+00:05:36,740 --> 00:05:38,690
+We also need to write product descriptions
+
+152
+00:05:38,690 --> 00:05:41,820
+and these are written requirements
+for every major product.
+
+153
+00:05:41,820 --> 00:05:43,150
+So if I need an airbag,
+
+154
+00:05:43,150 --> 00:05:45,430
+I better write the
+description of that airbag.
+
+155
+00:05:45,430 --> 00:05:47,000
+How fast will it deploy?
+
+156
+00:05:47,000 --> 00:05:48,870
+How much pressure can it take?
+
+157
+00:05:48,870 --> 00:05:51,130
+All of those types of facts and figures.
+
+158
+00:05:51,130 --> 00:05:54,700
+And finally, we need to
+create a product flow diagram.
+
+159
+00:05:54,700 --> 00:05:57,970
+This is what you've probably
+seen of as a Gantt chart.
+
+160
+00:05:57,970 --> 00:05:59,470
+If you see the icon above my head,
+
+161
+00:05:59,470 --> 00:06:03,300
+that's really a simple version
+of a product flow diagram.
+
+162
+00:06:03,300 --> 00:06:04,930
+You can see there's
+four different products,
+
+163
+00:06:04,930 --> 00:06:06,390
+and I'm on schedule on the top two
+
+164
+00:06:06,390 --> 00:06:07,970
+and I'm not on the bottom two.
+
+165
+00:06:07,970 --> 00:06:10,040
+And where we are and what needs to be done
+
+166
+00:06:10,040 --> 00:06:11,590
+in which sequence,
+
+167
+00:06:11,590 --> 00:06:13,430
+and usually you'll see for instance
+
+168
+00:06:13,430 --> 00:06:16,920
+that you have to do item one
+before you can do item two.
+
+169
+00:06:16,920 --> 00:06:18,510
+So if I go to my house example,
+
+170
+00:06:18,510 --> 00:06:21,780
+I have to pour the foundation
+before I can put up the walls.
+
+171
+00:06:21,780 --> 00:06:23,270
+I need to put in the electrical
+
+172
+00:06:23,270 --> 00:06:25,590
+and the plumbing before
+I put in the drywall.
+
+173
+00:06:25,590 --> 00:06:28,000
+I need the drywall to be
+in before I can paint it.
+
+174
+00:06:28,000 --> 00:06:29,480
+And so as a product manager,
+
+175
+00:06:29,480 --> 00:06:31,370
+I need to be able to time and sequence all
+
+176
+00:06:31,370 --> 00:06:33,320
+of these things to get the most done
+
+177
+00:06:33,320 --> 00:06:35,010
+in the least amount of time.
+
+178
+00:06:35,010 --> 00:06:36,610
+I can have the electricians
+
+179
+00:06:36,610 --> 00:06:38,660
+and the plumbers working at the same time,
+
+180
+00:06:38,660 --> 00:06:40,810
+but I can't have the
+drywallers in there too,
+
+181
+00:06:40,810 --> 00:06:42,260
+because they'll be covering up areas
+
+182
+00:06:42,260 --> 00:06:44,060
+that those two other teams need.
+
+183
+00:06:44,060 --> 00:06:45,030
+That's the idea here when
+
+184
+00:06:45,030 --> 00:06:47,610
+you start creating your
+product flow diagram.
+
+185
+00:06:47,610 --> 00:06:49,900
+It doesn't necessarily
+need dates at this point,
+
+186
+00:06:49,900 --> 00:06:53,020
+but it does need to know
+big muscle movement a needs
+
+187
+00:06:53,020 --> 00:06:55,073
+to come before muscle movement b.
+
+188
+00:06:55,920 --> 00:06:58,450
+Then we start looking at
+planning for our stages.
+
+189
+00:06:58,450 --> 00:07:00,510
+We start bundling things together.
+
+190
+00:07:00,510 --> 00:07:01,390
+We're going to have to determine
+
+191
+00:07:01,390 --> 00:07:04,180
+how long each stage is going to be.
+
+192
+00:07:04,180 --> 00:07:05,910
+And we talk about stages,
+
+193
+00:07:05,910 --> 00:07:07,090
+we're going to talk about the fact
+
+194
+00:07:07,090 --> 00:07:08,370
+that you have to have a minimum
+
+195
+00:07:08,370 --> 00:07:10,890
+of two stages inside of PRINCE2.
+
+196
+00:07:10,890 --> 00:07:13,280
+You must have initiating a product stage,
+
+197
+00:07:13,280 --> 00:07:16,990
+and then you have to have
+conducting the stage itself.
+
+198
+00:07:16,990 --> 00:07:19,560
+And so that'll be two different stages.
+
+199
+00:07:19,560 --> 00:07:21,730
+But you can have many many
+more stages than that.
+
+200
+00:07:21,730 --> 00:07:22,563
+And so you're going to have
+
+201
+00:07:22,563 --> 00:07:24,640
+to determine how many stages there will be
+
+202
+00:07:24,640 --> 00:07:26,330
+for your particular project.
+
+203
+00:07:26,330 --> 00:07:29,440
+For small projects, you may
+only have the minimum of two.
+
+204
+00:07:29,440 --> 00:07:30,480
+If you're doing something large,
+
+205
+00:07:30,480 --> 00:07:33,690
+it may be five, 10, or 15 stages.
+
+206
+00:07:33,690 --> 00:07:36,620
+It really depends on how
+comfortable the project board
+
+207
+00:07:36,620 --> 00:07:38,250
+is with that project manager,
+
+208
+00:07:38,250 --> 00:07:42,420
+and how much room between
+go/no go decisions they want.
+
+209
+00:07:42,420 --> 00:07:44,450
+How far out can you realistically plan?
+
+210
+00:07:44,450 --> 00:07:46,020
+That's your planning horizon.
+
+211
+00:07:46,020 --> 00:07:48,040
+The longer you can see out,
+
+212
+00:07:48,040 --> 00:07:51,050
+the more they're going to
+allow you to have less stages.
+
+213
+00:07:51,050 --> 00:07:52,800
+How many delivery steps will there be?
+
+214
+00:07:52,800 --> 00:07:55,250
+Are we going to deliver
+everything in one big piece,
+
+215
+00:07:55,250 --> 00:07:57,950
+or we've only got a website
+with 10 different features
+
+216
+00:07:57,950 --> 00:08:01,090
+and we're going to do 10
+stages, one for each feature?
+
+217
+00:08:01,090 --> 00:08:02,640
+Does it align with other program
+
+218
+00:08:02,640 --> 00:08:04,050
+activities that are going on?
+
+219
+00:08:04,050 --> 00:08:05,920
+And what level of risks there is.
+
+220
+00:08:05,920 --> 00:08:09,040
+If it is a more risky project,
+you will have more stages.
+
+221
+00:08:09,040 --> 00:08:12,440
+If it is a less risky project,
+you will have less stages.
+
+222
+00:08:12,440 --> 00:08:14,190
+I'll give you a great example of this.
+
+223
+00:08:14,190 --> 00:08:15,800
+Recently, I built a house
+
+224
+00:08:15,800 --> 00:08:18,320
+about two years ago for us to live in.
+
+225
+00:08:18,320 --> 00:08:19,550
+And when we built this house,
+
+226
+00:08:19,550 --> 00:08:22,470
+we went with a builder who
+builds a lot of houses.
+
+227
+00:08:22,470 --> 00:08:25,320
+And so there was only three
+stages that were done,
+
+228
+00:08:25,320 --> 00:08:26,500
+and of those three stages,
+
+229
+00:08:26,500 --> 00:08:29,350
+they came back to us
+for go/no go decisions.
+
+230
+00:08:29,350 --> 00:08:31,050
+Now, we felt very comfortable with that,
+
+231
+00:08:31,050 --> 00:08:34,000
+because this builder builds
+hundreds of houses a year,
+
+232
+00:08:34,000 --> 00:08:36,400
+and in fact they only
+build five floor plans.
+
+233
+00:08:36,400 --> 00:08:38,680
+And we had one of those five floor plans.
+
+234
+00:08:38,680 --> 00:08:42,120
+And so they had built this
+same house many many times.
+
+235
+00:08:42,120 --> 00:08:44,610
+So it was a very low
+risk environment for us,
+
+236
+00:08:44,610 --> 00:08:45,630
+and so we only had to have
+
+237
+00:08:45,630 --> 00:08:48,550
+that go/no go decision three times.
+
+238
+00:08:48,550 --> 00:08:50,790
+Now, if it was the first time
+they've ever built the house,
+
+239
+00:08:50,790 --> 00:08:52,230
+and it was a custom house,
+
+240
+00:08:52,230 --> 00:08:54,960
+and there was all these
+different changes going on,
+
+241
+00:08:54,960 --> 00:08:56,160
+we might have had five,
+
+242
+00:08:56,160 --> 00:08:59,030
+10, or 15 stages where we
+can constantly have those
+
+243
+00:08:59,030 --> 00:09:01,500
+touch points to come
+back and check on them.
+
+244
+00:09:01,500 --> 00:09:03,720
+But because this was
+something that was low risk,
+
+245
+00:09:03,720 --> 00:09:06,220
+we didn't need that many stages.
+
+246
+00:09:06,220 --> 00:09:07,920
+So when it comes to plans,
+
+247
+00:09:07,920 --> 00:09:10,860
+PRINCE2 has a couple of
+minimum requirements.
+
+248
+00:09:10,860 --> 00:09:12,810
+The first one is that your plans
+
+249
+00:09:12,810 --> 00:09:14,440
+have to be created in a way
+
+250
+00:09:14,440 --> 00:09:17,080
+to enable your business
+case to be realized.
+
+251
+00:09:17,080 --> 00:09:19,420
+We're going to go from idea to product
+
+252
+00:09:19,420 --> 00:09:21,940
+and to do that, we need a plan.
+
+253
+00:09:21,940 --> 00:09:24,840
+Second, we are required to produce plans
+
+254
+00:09:24,840 --> 00:09:26,490
+and you do have to produce
+
+255
+00:09:26,490 --> 00:09:29,990
+at a minimum your project
+plan and your stage plan.
+
+256
+00:09:29,990 --> 00:09:33,690
+You are not required to use
+team plans or work packages
+
+257
+00:09:33,690 --> 00:09:35,570
+but it is highly recommended.
+
+258
+00:09:35,570 --> 00:09:39,100
+But the two that are required
+is project and stage plans.
+
+259
+00:09:39,100 --> 00:09:42,660
+Next, you need to produce any
+exception plans when required.
+
+260
+00:09:42,660 --> 00:09:44,490
+So if you go outside of tolerance,
+
+261
+00:09:44,490 --> 00:09:46,910
+you have to come up with a
+way to get yourself back in
+
+262
+00:09:46,910 --> 00:09:49,390
+or you're going to have
+to cancel the project.
+
+263
+00:09:49,390 --> 00:09:52,680
+We also have to create a
+project product description,
+
+264
+00:09:52,680 --> 00:09:54,090
+our product descriptions
+
+265
+00:09:54,090 --> 00:09:56,740
+and our product breakdown structures
+
+266
+00:09:56,740 --> 00:10:00,690
+which give us that timing and
+tempo of the different stages.
+
+267
+00:10:00,690 --> 00:10:03,380
+And finally, you have to go
+back to organization again
+
+268
+00:10:03,380 --> 00:10:06,310
+and define roles and
+responsibilities for planning.
+
+269
+00:10:06,310 --> 00:10:09,480
+Who is going to do this and
+what is expected of them?
+
+270
+00:10:09,480 --> 00:10:10,890
+You'll see these themes come up
+
+271
+00:10:10,890 --> 00:10:12,960
+over and over and over again,
+
+272
+00:10:12,960 --> 00:10:15,890
+because even the themes
+start building on themselves
+
+273
+00:10:15,890 --> 00:10:18,668
+and the underlying principles.
+
+274
+00:10:18,668 --> 00:10:20,825
+(electronic jingle)
+

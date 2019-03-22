@@ -1,0 +1,698 @@
+1
+00:00:00,450 --> 00:00:02,290
+- Starting up a project.
+
+2
+00:00:02,290 --> 00:00:05,830
+So when we start up a project,
+we are trying to ensure
+
+3
+00:00:05,830 --> 00:00:08,820
+that the prerequisites for
+initiating this project
+
+4
+00:00:08,820 --> 00:00:12,390
+are in place by answering
+one simple question.
+
+5
+00:00:12,390 --> 00:00:15,980
+Do we have a viable
+and worthwhile project?
+
+6
+00:00:15,980 --> 00:00:18,380
+And that's really important,
+because as you look at
+
+7
+00:00:18,380 --> 00:00:21,500
+our process timeline here,
+you will see that starting up
+
+8
+00:00:21,500 --> 00:00:24,850
+a project occurs in the pre-project phase.
+
+9
+00:00:24,850 --> 00:00:27,800
+This is the cheapest
+place for this to occur.
+
+10
+00:00:27,800 --> 00:00:29,680
+We start with this starting up a project
+
+11
+00:00:29,680 --> 00:00:33,200
+to determine is it worthwhile
+to start dedicating the time,
+
+12
+00:00:33,200 --> 00:00:35,970
+the money, the man
+hours, and the resources
+
+13
+00:00:35,970 --> 00:00:37,400
+into this project.
+
+14
+00:00:37,400 --> 00:00:40,610
+And so, we're going to
+start way early here
+
+15
+00:00:40,610 --> 00:00:43,440
+and determine if we
+should even move forward.
+
+16
+00:00:43,440 --> 00:00:45,730
+Now, as we look at the
+objectives of starting up
+
+17
+00:00:45,730 --> 00:00:48,220
+a project, the first
+couple things we have to do
+
+18
+00:00:48,220 --> 00:00:50,510
+is get some man hours behind it.
+
+19
+00:00:50,510 --> 00:00:52,890
+We need to appoint those
+who are going to work on it
+
+20
+00:00:52,890 --> 00:00:54,810
+during the initiation stage.
+
+21
+00:00:54,810 --> 00:00:56,650
+Now at this point, we haven't decided
+
+22
+00:00:56,650 --> 00:00:58,890
+if this is a worthwhile project yet,
+
+23
+00:00:58,890 --> 00:01:02,730
+we are just going to put in
+minimal hours and minimal manpower
+
+24
+00:01:02,730 --> 00:01:05,000
+to determine if it's a good idea.
+
+25
+00:01:05,000 --> 00:01:08,260
+We're going to appoint significant
+project management roles,
+
+26
+00:01:08,260 --> 00:01:11,710
+so people like the executive
+should be defined right now.
+
+27
+00:01:11,710 --> 00:01:14,800
+And the reason why, is the
+executive has to be the one
+
+28
+00:01:14,800 --> 00:01:18,300
+to show that this good idea
+is going to make a worthwhile
+
+29
+00:01:18,300 --> 00:01:20,590
+business case for us to implement.
+
+30
+00:01:20,590 --> 00:01:23,820
+We also need to create
+an initiation stage plan,
+
+31
+00:01:23,820 --> 00:01:26,140
+and we do that once we get later into the
+
+32
+00:01:26,140 --> 00:01:28,710
+starting up a project phase
+because we've determined
+
+33
+00:01:28,710 --> 00:01:31,590
+that it may be a good idea
+and we should move forward.
+
+34
+00:01:31,590 --> 00:01:34,750
+And the initiation stage is
+based on sound assumptions.
+
+35
+00:01:34,750 --> 00:01:37,610
+We have to define things like
+the scope of the project,
+
+36
+00:01:37,610 --> 00:01:40,110
+how long it's going to
+take or the timescale,
+
+37
+00:01:40,110 --> 00:01:42,680
+the acceptance criteria, What
+will the finished product
+
+38
+00:01:42,680 --> 00:01:44,670
+look like that people would like,
+
+39
+00:01:44,670 --> 00:01:46,410
+and the constraints.
+
+40
+00:01:46,410 --> 00:01:48,490
+What are we going to say
+are the limitations around
+
+41
+00:01:48,490 --> 00:01:49,410
+this project?
+
+42
+00:01:49,410 --> 00:01:51,110
+Maybe we have a limitation
+that we're not going to spend
+
+43
+00:01:51,110 --> 00:01:54,550
+more than 100 manhours or 100,000 dollars,
+
+44
+00:01:54,550 --> 00:01:55,770
+or whatever it is.
+
+45
+00:01:55,770 --> 00:01:57,970
+Those constraints have
+to be known up front
+
+46
+00:01:57,970 --> 00:02:01,170
+so we can decide is
+this project worthwhile.
+
+47
+00:02:01,170 --> 00:02:04,270
+And all of that starts
+with this project mandate.
+
+48
+00:02:04,270 --> 00:02:06,580
+Now our goal here is simple.
+
+49
+00:02:06,580 --> 00:02:09,500
+We want to take the hundreds
+of ideas that come up
+
+50
+00:02:09,500 --> 00:02:12,900
+in a daily meeting, and
+decide which one is the one
+
+51
+00:02:12,900 --> 00:02:16,240
+viable project idea that we
+should move forward with.
+
+52
+00:02:16,240 --> 00:02:17,480
+Because I don't know about you,
+
+53
+00:02:17,480 --> 00:02:20,380
+but when I go to meetings and
+we have a brainstorming meeting,
+
+54
+00:02:20,380 --> 00:02:23,240
+people throw all sorts
+of crazy ideas up, right?
+
+55
+00:02:23,240 --> 00:02:25,280
+That's kind of the
+purpose of brainstorming.
+
+56
+00:02:25,280 --> 00:02:28,930
+But you might have 50,
+or 100, or 200 ideas,
+
+57
+00:02:28,930 --> 00:02:31,720
+but you only have enough
+resources to implement one or two
+
+58
+00:02:31,720 --> 00:02:32,553
+of them.
+
+59
+00:02:32,553 --> 00:02:34,210
+So we want to only initiate the project
+
+60
+00:02:34,210 --> 00:02:37,720
+that might be successful
+and discard all of the rest
+
+61
+00:02:37,720 --> 00:02:40,810
+before we waste a lot of
+time, money, and resources.
+
+62
+00:02:40,810 --> 00:02:42,340
+So just as you see here on the screen,
+
+63
+00:02:42,340 --> 00:02:45,270
+I have five different ideas,
+but only one is going to
+
+64
+00:02:45,270 --> 00:02:47,260
+turn into that end product.
+
+65
+00:02:47,260 --> 00:02:49,940
+And that's the goal here
+with starting up a project.
+
+66
+00:02:49,940 --> 00:02:52,670
+And we do that by starting with a mandate.
+
+67
+00:02:52,670 --> 00:02:55,740
+The project mandate is your
+trigger for the project.
+
+68
+00:02:55,740 --> 00:02:58,080
+This comes from the
+customer's organization,
+
+69
+00:02:58,080 --> 00:03:00,750
+and it can come from their
+corporate, program management
+
+70
+00:03:00,750 --> 00:03:03,570
+office or from the customer themself.
+
+71
+00:03:03,570 --> 00:03:05,550
+They can just say, you
+know, it'd be really great
+
+72
+00:03:05,550 --> 00:03:09,170
+if I had X product, and now
+you've got a project mandate
+
+73
+00:03:09,170 --> 00:03:10,370
+to work with, right?
+
+74
+00:03:10,370 --> 00:03:12,480
+This is going to provide
+the reason for undertaking
+
+75
+00:03:12,480 --> 00:03:16,070
+the project and it's going to
+identify the proposed executive.
+
+76
+00:03:16,070 --> 00:03:18,520
+At this point, when you
+get a project mandate,
+
+77
+00:03:18,520 --> 00:03:21,950
+this says I think it'd be a
+great idea if we had a new
+
+78
+00:03:21,950 --> 00:03:25,540
+travel system, and I'm
+going to dictate that Jason
+
+79
+00:03:25,540 --> 00:03:27,420
+is going to be the executive for it.
+
+80
+00:03:27,420 --> 00:03:29,260
+That's pretty much as
+deep as you might get on
+
+81
+00:03:29,260 --> 00:03:30,350
+a project mandate.
+
+82
+00:03:30,350 --> 00:03:33,110
+If you're lucky, they may
+give you a one or two page
+
+83
+00:03:33,110 --> 00:03:36,440
+description of what they think
+this travel system will be.
+
+84
+00:03:36,440 --> 00:03:38,320
+But you're not always that lucky.
+
+85
+00:03:38,320 --> 00:03:40,660
+Sometimes it's as easy,
+and a small project,
+
+86
+00:03:40,660 --> 00:03:42,720
+as somebody going I have this idea,
+
+87
+00:03:42,720 --> 00:03:44,660
+go forth and conquer, right?
+
+88
+00:03:44,660 --> 00:03:46,750
+If it's a large project,
+it'll be a little bit more
+
+89
+00:03:46,750 --> 00:03:47,583
+formalized.
+
+90
+00:03:47,583 --> 00:03:49,500
+But once you get this project mandate,
+
+91
+00:03:49,500 --> 00:03:51,790
+that's what's going to
+trigger the starting up a
+
+92
+00:03:51,790 --> 00:03:54,250
+project phase, or process,
+
+93
+00:03:54,250 --> 00:03:55,890
+that we're going to work through here.
+
+94
+00:03:55,890 --> 00:03:59,730
+Now, when you're inside the
+starting up a project process,
+
+95
+00:03:59,730 --> 00:04:01,520
+you have a couple of requirements.
+
+96
+00:04:01,520 --> 00:04:04,630
+You have to identify key
+roles and responsibilities
+
+97
+00:04:04,630 --> 00:04:08,030
+for who is going to take this
+thing forward if it's greenlit.
+
+98
+00:04:08,030 --> 00:04:10,383
+If someone says go into the next stage,
+
+99
+00:04:10,383 --> 00:04:13,870
+which is the initiation stage,
+who's going to do that work?
+
+100
+00:04:13,870 --> 00:04:16,270
+So that's identifying those
+key board members, right?
+
+101
+00:04:16,270 --> 00:04:18,750
+And who's going to be the project
+manager and things like that.
+
+102
+00:04:18,750 --> 00:04:21,220
+You're also going to have
+to allocate resources.
+
+103
+00:04:21,220 --> 00:04:22,840
+So if it gets beyond a project mandate,
+
+104
+00:04:22,840 --> 00:04:25,000
+and you are told to start up the project,
+
+105
+00:04:25,000 --> 00:04:27,590
+somebody's got to fund it because
+this is going to start taking
+
+106
+00:04:27,590 --> 00:04:29,690
+man hours, it's going
+to start taking money,
+
+107
+00:04:29,690 --> 00:04:30,867
+it's going to start taking equipment,
+
+108
+00:04:30,867 --> 00:04:32,900
+and it's going to start taking time.
+
+109
+00:04:32,900 --> 00:04:35,370
+And you have to identify who's
+going to write the business
+
+110
+00:04:35,370 --> 00:04:37,410
+case and the project plan.
+
+111
+00:04:37,410 --> 00:04:39,906
+Normally, this is going
+to be your project manager
+
+112
+00:04:39,906 --> 00:04:41,780
+or your executive.
+
+113
+00:04:41,780 --> 00:04:45,040
+Remember, the executive is
+responsible for the business case
+
+114
+00:04:45,040 --> 00:04:46,440
+but it doesn't mean
+they're going to be the one
+
+115
+00:04:46,440 --> 00:04:48,300
+sitting down to write it.
+
+116
+00:04:48,300 --> 00:04:50,310
+Now, when we talk about the business case,
+
+117
+00:04:50,310 --> 00:04:52,820
+this is going to explain
+how the project fits
+
+118
+00:04:52,820 --> 00:04:54,460
+into the customer's objectives
+
+119
+00:04:54,460 --> 00:04:56,600
+and how it's going to be funded.
+
+120
+00:04:56,600 --> 00:04:59,850
+The executive is responsible
+for securing that funding.
+
+121
+00:04:59,850 --> 00:05:02,550
+So this is their baby, they
+have to champion for it.
+
+122
+00:05:02,550 --> 00:05:05,810
+They have to convince the
+stakeholders and the customers
+
+123
+00:05:05,810 --> 00:05:08,030
+and the suppliers that they
+should all get on board
+
+124
+00:05:08,030 --> 00:05:08,863
+with this.
+
+125
+00:05:08,863 --> 00:05:10,860
+And the executive is
+responsible for creating
+
+126
+00:05:10,860 --> 00:05:12,860
+the outline of that business case,
+
+127
+00:05:12,860 --> 00:05:15,420
+and then they can turn
+that over to somebody else
+
+128
+00:05:15,420 --> 00:05:17,850
+to write the full business case for them.
+
+129
+00:05:17,850 --> 00:05:20,840
+Now, the outputs of
+this stage are two-fold.
+
+130
+00:05:20,840 --> 00:05:22,950
+You have to have a project brief.
+
+131
+00:05:22,950 --> 00:05:25,580
+This is going to ensure the
+project has the agreed upon
+
+132
+00:05:25,580 --> 00:05:27,400
+and well defined starting point.
+
+133
+00:05:27,400 --> 00:05:30,100
+So everybody knows what
+your end product is going to
+
+134
+00:05:30,100 --> 00:05:30,933
+look like.
+
+135
+00:05:30,933 --> 00:05:33,440
+And you're going to brief that
+to those key stakeholders.
+
+136
+00:05:33,440 --> 00:05:36,712
+You're also going to have to
+create an initiation stage plan.
+
+137
+00:05:36,712 --> 00:05:39,960
+Remember, we don't need the
+entire project planned out yet.
+
+138
+00:05:39,960 --> 00:05:42,180
+We just need the next stage.
+
+139
+00:05:42,180 --> 00:05:44,360
+So we're going to do that with
+the initiation stage plan.
+
+140
+00:05:44,360 --> 00:05:46,430
+This is going to cover all the
+work that's going to be done
+
+141
+00:05:46,430 --> 00:05:48,610
+in the initiation stage,
+which we'll talk about
+
+142
+00:05:48,610 --> 00:05:49,880
+in the next lesson.
+
+143
+00:05:49,880 --> 00:05:52,190
+As well as the project
+manager is going to review
+
+144
+00:05:52,190 --> 00:05:55,100
+the lessons log for
+projects that look similar,
+
+145
+00:05:55,100 --> 00:05:57,960
+so that they can use those
+controls inside of the
+
+146
+00:05:57,960 --> 00:06:00,690
+initiation stage itself, as well.
+
+147
+00:06:00,690 --> 00:06:03,420
+Now, that is what we're talking
+about when we talk about
+
+148
+00:06:03,420 --> 00:06:05,530
+starting up a project.
+
+149
+00:06:05,530 --> 00:06:07,440
+In the next lesson,
+we're going to talk about
+
+150
+00:06:07,440 --> 00:06:08,840
+directing a project.
+
+151
+00:06:08,840 --> 00:06:12,163
+And then, we're going to move
+into the initiation stage.
+

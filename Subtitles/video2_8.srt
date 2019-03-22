@@ -1,0 +1,661 @@
+1
+00:00:00,910 --> 00:00:03,183
+- Tailor to suit the project environment.
+
+2
+00:00:04,070 --> 00:00:06,280
+So the last principle that we have is
+
+3
+00:00:06,280 --> 00:00:08,800
+tailoring to suit the project environment.
+
+4
+00:00:08,800 --> 00:00:11,370
+And this asks the question how can PRINCE2
+
+5
+00:00:11,370 --> 00:00:14,160
+be adapted based on the size, scope
+
+6
+00:00:14,160 --> 00:00:16,400
+or complexity of the project to
+
+7
+00:00:16,400 --> 00:00:18,060
+meet the needs that we have.
+
+8
+00:00:18,060 --> 00:00:21,000
+Do we have to have a one
+size fits all solution?
+
+9
+00:00:21,000 --> 00:00:22,410
+Well, of course not.
+
+10
+00:00:22,410 --> 00:00:24,860
+And that's the great thing about PRINCE2
+
+11
+00:00:24,860 --> 00:00:26,360
+is that it's highly adaptable,
+
+12
+00:00:26,360 --> 00:00:29,730
+specifically to each and every project.
+
+13
+00:00:29,730 --> 00:00:32,830
+The projects are going to occur
+in many different contexts.
+
+14
+00:00:32,830 --> 00:00:34,610
+There's going to be cultural context,
+
+15
+00:00:34,610 --> 00:00:36,870
+geographical context, complexity,
+
+16
+00:00:36,870 --> 00:00:39,110
+and scale, and risk context.
+
+17
+00:00:39,110 --> 00:00:41,280
+Every project is a little bit different,
+
+18
+00:00:41,280 --> 00:00:43,670
+but PRINCE2 can work with them all
+
+19
+00:00:43,670 --> 00:00:45,330
+if you want to tailor it.
+
+20
+00:00:45,330 --> 00:00:48,510
+So, when we look at it,
+how do you adapt PRINCE2?
+
+21
+00:00:48,510 --> 00:00:51,270
+Well, tailoring and adapting
+PRINCE2 is pretty easy.
+
+22
+00:00:51,270 --> 00:00:54,810
+You can add things to it and
+make it fit your organization.
+
+23
+00:00:54,810 --> 00:00:57,690
+So I mentioned in the manage
+by exception principle,
+
+24
+00:00:57,690 --> 00:01:00,110
+that some people just do
+away with the board meetings
+
+25
+00:01:00,110 --> 00:01:02,096
+because they're not required under PRINCE2
+
+26
+00:01:02,096 --> 00:01:03,580
+because you have this highlight
+
+27
+00:01:03,580 --> 00:01:05,230
+report that replaces them.
+
+28
+00:01:05,230 --> 00:01:08,060
+But many organizations still want to have
+
+29
+00:01:08,060 --> 00:01:09,810
+those regular progress meetings
+
+30
+00:01:09,810 --> 00:01:12,080
+and that's okay because in PRINCE2
+
+31
+00:01:12,080 --> 00:01:14,530
+that would be considered
+an adaption or tailoring
+
+32
+00:01:14,530 --> 00:01:17,350
+of PRINCE2 to your
+organizational standards.
+
+33
+00:01:17,350 --> 00:01:19,610
+There is nothing wrong with adding those
+
+34
+00:01:19,610 --> 00:01:21,160
+meetings if you want to.
+
+35
+00:01:21,160 --> 00:01:22,720
+But if you wanted to
+take away the highlight
+
+36
+00:01:22,720 --> 00:01:24,540
+reports all-together, that really
+
+37
+00:01:24,540 --> 00:01:26,770
+wouldn't be much like PRINCE2 and so
+
+38
+00:01:26,770 --> 00:01:30,300
+adding is okay, but
+taking away often is not.
+
+39
+00:01:30,300 --> 00:01:33,450
+Now, what do I do if
+my organization tailors
+
+40
+00:01:33,450 --> 00:01:35,400
+PRINCE2 and we add those meetings,
+
+41
+00:01:35,400 --> 00:01:37,180
+or we add additional steps?
+
+42
+00:01:37,180 --> 00:01:40,290
+Well, you should document
+any of those changes
+
+43
+00:01:40,290 --> 00:01:44,290
+inside the PID, or the Project
+Initiation Documentation.
+
+44
+00:01:44,290 --> 00:01:45,680
+Remember, that's the document that we
+
+45
+00:01:45,680 --> 00:01:48,160
+set up before we started the project,
+
+46
+00:01:48,160 --> 00:01:50,210
+in the initiation stage.
+
+47
+00:01:50,210 --> 00:01:52,250
+This is going to provide an audit trail,
+
+48
+00:01:52,250 --> 00:01:55,400
+and evidence, that you're
+compliant with PRINCE2
+
+49
+00:01:55,400 --> 00:01:57,690
+and that your organization is changing
+
+50
+00:01:57,690 --> 00:01:59,590
+things based on your standards.
+
+51
+00:01:59,590 --> 00:02:01,610
+This allows any time you
+have an external audit
+
+52
+00:02:01,610 --> 00:02:04,260
+to come in, to go 'yep'
+they're doing PRINCE2
+
+53
+00:02:04,260 --> 00:02:06,970
+even though they've added
+this, this, this, and this.
+
+54
+00:02:06,970 --> 00:02:09,340
+Right? So this is an idea
+that you want to make sure
+
+55
+00:02:09,340 --> 00:02:11,920
+you're documenting things
+that are being changed.
+
+56
+00:02:11,920 --> 00:02:15,630
+Now, what if your project
+is really, really small?
+
+57
+00:02:15,630 --> 00:02:17,740
+Can I drop things that are PRINCE2?
+
+58
+00:02:17,740 --> 00:02:20,550
+Well, no, you should still go through
+
+59
+00:02:20,550 --> 00:02:24,270
+every theme and every
+process inside of PRINCE2
+
+60
+00:02:24,270 --> 00:02:27,160
+because otherwise you might
+become an organization
+
+61
+00:02:27,160 --> 00:02:29,780
+that is doing PRINCE2 in name only and
+
+62
+00:02:29,780 --> 00:02:32,540
+you're losing a lot of
+the benefits of PRINCE2.
+
+63
+00:02:32,540 --> 00:02:35,440
+So, what can you do when
+your project is really small?
+
+64
+00:02:35,440 --> 00:02:38,850
+Well, you can speed up
+or scale down processes
+
+65
+00:02:38,850 --> 00:02:41,430
+because each theme and process
+needs to be considered,
+
+66
+00:02:41,430 --> 00:02:42,700
+but it might be considered for
+
+67
+00:02:42,700 --> 00:02:44,400
+just a short period of time.
+
+68
+00:02:44,400 --> 00:02:46,450
+Now, what does this really look like?
+
+69
+00:02:46,450 --> 00:02:48,510
+Well, if you've ever made a pizza,
+
+70
+00:02:48,510 --> 00:02:50,180
+you can make a personal pizza,
+
+71
+00:02:50,180 --> 00:02:52,030
+you can make a full size pizza,
+
+72
+00:02:52,030 --> 00:02:54,430
+or you can make a three foot wide pizza,
+
+73
+00:02:54,430 --> 00:02:56,390
+it just matters on whether you scale up
+
+74
+00:02:56,390 --> 00:02:58,420
+or scale down your ingredients.
+
+75
+00:02:58,420 --> 00:03:00,570
+PRINCE2 is much the same, you're still
+
+76
+00:03:00,570 --> 00:03:02,490
+going to need all of the ingredients.
+
+77
+00:03:02,490 --> 00:03:04,900
+You still need all the
+themes and all the processes,
+
+78
+00:03:04,900 --> 00:03:07,590
+but you can go through
+them very quickly if needed
+
+79
+00:03:07,590 --> 00:03:09,130
+and that will allow you to get through it
+
+80
+00:03:09,130 --> 00:03:12,040
+in a small environment
+much quicker than having
+
+81
+00:03:12,040 --> 00:03:15,130
+to bring together the
+full scale of PRINCE2.
+
+82
+00:03:15,130 --> 00:03:17,750
+And again, that's where
+that adaption comes in.
+
+83
+00:03:17,750 --> 00:03:19,400
+Now, can you change what things
+
+84
+00:03:19,400 --> 00:03:21,310
+are called inside of PRINCE2?
+
+85
+00:03:21,310 --> 00:03:23,443
+Well, certainly. And the good news is
+
+86
+00:03:23,443 --> 00:03:26,210
+you're not breaking rules by doing it.
+
+87
+00:03:26,210 --> 00:03:29,300
+Terminology can be
+difficult and confusing and
+
+88
+00:03:29,300 --> 00:03:32,490
+people call things all
+sorts of different things.
+
+89
+00:03:32,490 --> 00:03:34,240
+The important thing is
+that we're all using
+
+90
+00:03:34,240 --> 00:03:37,450
+common terminology and
+you can use the PRINCE2
+
+91
+00:03:37,450 --> 00:03:39,170
+term and that will give you a common
+
+92
+00:03:39,170 --> 00:03:41,577
+terminology or your organization can
+
+93
+00:03:41,577 --> 00:03:44,174
+change those terms as
+long as the organization
+
+94
+00:03:44,174 --> 00:03:47,400
+consistently uses the same wording.
+
+95
+00:03:47,400 --> 00:03:50,720
+So, for example, many organizations don't
+
+96
+00:03:50,720 --> 00:03:54,780
+use the PRINCE2 term of
+Project Product Description.
+
+97
+00:03:54,780 --> 00:03:57,420
+Instead, they call it
+a Requirements Document
+
+98
+00:03:57,420 --> 00:03:58,830
+and that's perfectly fine.
+
+99
+00:03:58,830 --> 00:04:01,790
+My organization, we call it
+our Requirements Document.
+
+100
+00:04:01,790 --> 00:04:03,410
+Everybody knows that's what it is,
+
+101
+00:04:03,410 --> 00:04:05,460
+it still meets all the requirement for
+
+102
+00:04:05,460 --> 00:04:07,310
+a Project Product Description,
+
+103
+00:04:07,310 --> 00:04:09,320
+we just call it a Requirements Document.
+
+104
+00:04:09,320 --> 00:04:11,170
+And that's perfectly acceptable.
+
+105
+00:04:11,170 --> 00:04:13,670
+It also allows us to
+keep our terms consistent
+
+106
+00:04:13,670 --> 00:04:15,610
+throughout, so I don't really care
+
+107
+00:04:15,610 --> 00:04:17,570
+what you call the thing, as long
+
+108
+00:04:17,570 --> 00:04:19,710
+as you call it the same thing every time.
+
+109
+00:04:19,710 --> 00:04:20,990
+Because that way everyone on the
+
+110
+00:04:20,990 --> 00:04:22,820
+team knows what you're talking about.
+
+111
+00:04:22,820 --> 00:04:26,030
+And it's really helpful to
+create a glossary of terms.
+
+112
+00:04:26,030 --> 00:04:27,160
+So if you're not going to use the
+
+113
+00:04:27,160 --> 00:04:29,180
+standard PRINCE2 terminology,
+
+114
+00:04:29,180 --> 00:04:31,190
+you should have your own mini-dictionary,
+
+115
+00:04:31,190 --> 00:04:32,890
+essentially, that says we call
+
+116
+00:04:32,890 --> 00:04:34,470
+it a Requirements Document and that
+
+117
+00:04:34,470 --> 00:04:36,890
+equates to Project Product Description.
+
+118
+00:04:36,890 --> 00:04:38,190
+And so if you can have that cross
+
+119
+00:04:38,190 --> 00:04:39,910
+reference documentation, go ahead
+
+120
+00:04:39,910 --> 00:04:42,030
+and put that into an annex into your PID,
+
+121
+00:04:42,030 --> 00:04:43,720
+that way everyone knows what everything
+
+122
+00:04:43,720 --> 00:04:45,370
+is being called and you're going to
+
+123
+00:04:45,370 --> 00:04:47,680
+stay within the PRINCE2 framework.
+
+124
+00:04:47,680 --> 00:04:50,980
+Now, each piece of
+PRINCE2 is very important
+
+125
+00:04:50,980 --> 00:04:53,660
+and no part of the
+methodology should be ignored.
+
+126
+00:04:53,660 --> 00:04:54,800
+We already talked about the fact that
+
+127
+00:04:54,800 --> 00:04:57,370
+you need to go through all seven themes.
+
+128
+00:04:57,370 --> 00:04:59,360
+The business case, the organization,
+
+129
+00:04:59,360 --> 00:05:01,770
+the quality, the plans, the risk,
+
+130
+00:05:01,770 --> 00:05:04,030
+the change, the progress and
+
+131
+00:05:04,030 --> 00:05:05,830
+all seven of the processes.
+
+132
+00:05:05,830 --> 00:05:09,790
+But you may do them in shorter
+time or scale them down.
+
+133
+00:05:09,790 --> 00:05:11,890
+Adapting PRINCE2 is a good thing,
+
+134
+00:05:11,890 --> 00:05:13,790
+in fact it's a great thing because
+
+135
+00:05:13,790 --> 00:05:15,840
+it focuses on the decisions being made
+
+136
+00:05:15,840 --> 00:05:17,970
+by the managers and not necessarily
+
+137
+00:05:17,970 --> 00:05:20,700
+on documents and templates and meetings.
+
+138
+00:05:20,700 --> 00:05:23,340
+That is the pure power of PRINCE2.
+
+139
+00:05:23,340 --> 00:05:26,220
+And why it is such a
+great methodology to use
+
+140
+00:05:26,220 --> 00:05:28,020
+for your project management.
+
+141
+00:05:28,020 --> 00:05:30,660
+Now, can I add more
+themes during tailoring?
+
+142
+00:05:30,660 --> 00:05:32,930
+Certainly. PRINCE2 only gives you
+
+143
+00:05:32,930 --> 00:05:34,860
+those seven themes we just talked about,
+
+144
+00:05:34,860 --> 00:05:36,540
+but you can always add more.
+
+145
+00:05:36,540 --> 00:05:39,210
+So maybe you need a human resource theme,
+
+146
+00:05:39,210 --> 00:05:40,910
+or a communications theme,
+
+147
+00:05:40,910 --> 00:05:43,100
+or a legal theme, or a financial,
+
+148
+00:05:43,100 --> 00:05:45,170
+or a health and safety, or something
+
+149
+00:05:45,170 --> 00:05:47,720
+else that really applies
+only to your business.
+
+150
+00:05:47,720 --> 00:05:50,940
+That's okay, your
+organization can add these in,
+
+151
+00:05:50,940 --> 00:05:53,040
+but please don't take away the seven
+
+152
+00:05:53,040 --> 00:05:54,920
+core themes because that's going to hurt
+
+153
+00:05:54,920 --> 00:05:57,023
+your project and put you more at risk.
+

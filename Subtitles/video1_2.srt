@@ -1,0 +1,355 @@
+﻿1
+00:00:00,800 --> 00:00:02,950
+- PRINCE2 Foundation.
+
+2
+00:00:02,950 --> 00:00:05,960
+So what exactly is PRINCE2?
+
+3
+00:00:05,960 --> 00:00:09,500
+Well, PRINCE2 is a project
+management methodology,
+
+4
+00:00:09,500 --> 00:00:12,540
+and it was first put together back in 1989
+
+5
+00:00:12,540 --> 00:00:15,830
+under the name, Projects
+In Controlled Environments.
+
+6
+00:00:15,830 --> 00:00:17,830
+PRINCE2 is the evolution of that.
+
+7
+00:00:17,830 --> 00:00:21,800
+Back in 1996, PRINCE went
+through a major evolution
+
+8
+00:00:21,800 --> 00:00:24,733
+and it became this updated
+version known as PRINCE2.
+
+9
+00:00:25,570 --> 00:00:28,330
+Now it has become the
+defacto standard in both
+
+10
+00:00:28,330 --> 00:00:31,910
+the United Kingdom and
+throughout the United Nations.
+
+11
+00:00:31,910 --> 00:00:34,710
+In 2009, the name was
+changed just slightly
+
+12
+00:00:34,710 --> 00:00:36,880
+as some exam objectives were updated,
+
+13
+00:00:36,880 --> 00:00:40,460
+and it became Projects In
+A Controlled Environment.
+
+14
+00:00:40,460 --> 00:00:45,460
+Now finally, last year in 2017,
+the exam updated once more,
+
+15
+00:00:46,000 --> 00:00:47,570
+this time to include some Agile
+
+16
+00:00:47,570 --> 00:00:49,330
+and Development Ops type issues,
+
+17
+00:00:49,330 --> 00:00:53,610
+and that became PRINCE2 2017,
+
+18
+00:00:53,610 --> 00:00:56,780
+as you're going to be
+tested on on your exam.
+
+19
+00:00:56,780 --> 00:00:59,180
+Now, do you have to
+memorize this whole history?
+
+20
+00:00:59,180 --> 00:01:02,050
+No, I just wanted to give you
+an idea of where it came from.
+
+21
+00:01:02,050 --> 00:01:04,960
+The big takeaway here is
+that PRINCE2 has been around
+
+22
+00:01:04,960 --> 00:01:08,180
+in some form or another
+for about 30 years,
+
+23
+00:01:08,180 --> 00:01:11,230
+and it's been able to be
+evolved through best practices
+
+24
+00:01:11,230 --> 00:01:13,150
+to make sure that it is a methodology
+
+25
+00:01:13,150 --> 00:01:15,733
+that's going to perform
+well for your organizations.
+
+26
+00:01:16,610 --> 00:01:19,000
+Now what is PRINCE2 exactly?
+
+27
+00:01:19,000 --> 00:01:21,670
+Well, it's this methodology,
+and it is one of the world's
+
+28
+00:01:21,670 --> 00:01:24,990
+most popular project
+management methodologies.
+
+29
+00:01:24,990 --> 00:01:27,430
+It focuses on three key areas,
+
+30
+00:01:27,430 --> 00:01:30,250
+the principles, the
+themes, and the processes,
+
+31
+00:01:30,250 --> 00:01:33,420
+and each of those will
+have seven distinct items.
+
+32
+00:01:33,420 --> 00:01:34,770
+We're going to cover each of those
+
+33
+00:01:34,770 --> 00:01:37,050
+throughout the next couple of hours.
+
+34
+00:01:37,050 --> 00:01:40,010
+Now PRINCE2 also is
+available to be tailored,
+
+35
+00:01:40,010 --> 00:01:42,310
+and so, these concepts
+from the principles,
+
+36
+00:01:42,310 --> 00:01:44,980
+the themes, and the processes,
+they can all be tailored
+
+37
+00:01:44,980 --> 00:01:48,020
+to a particular project
+regardless of the size,
+
+38
+00:01:48,020 --> 00:01:50,870
+so if you have a small
+project, a large project,
+
+39
+00:01:50,870 --> 00:01:54,160
+or some project in between,
+PRINCE2 can be used
+
+40
+00:01:54,160 --> 00:01:57,240
+and used effectively, so if
+you're doing a large project
+
+41
+00:01:57,240 --> 00:01:59,480
+like building a skyscraper
+that's going to cost
+
+42
+00:01:59,480 --> 00:02:03,430
+multi millions of dollars, and
+it's really, really complex,
+
+43
+00:02:03,430 --> 00:02:05,180
+PRINCE2 can help with that,
+
+44
+00:02:05,180 --> 00:02:07,910
+but if you're going to build
+a small ecommerce website,
+
+45
+00:02:07,910 --> 00:02:09,940
+well PRINCE2 can help with that too
+
+46
+00:02:09,940 --> 00:02:13,530
+because PRINCE2 can be
+expanded or contracted
+
+47
+00:02:13,530 --> 00:02:15,530
+to fit the needs of your organization
+
+48
+00:02:15,530 --> 00:02:17,810
+and your particular
+project, and that's what
+
+49
+00:02:17,810 --> 00:02:20,600
+tailoring for the
+environment is all about.
+
+50
+00:02:20,600 --> 00:02:23,250
+Now when we talk about
+those seven principles,
+
+51
+00:02:23,250 --> 00:02:26,500
+these are the building blocks
+for PRINCE2's methodology.
+
+52
+00:02:26,500 --> 00:02:29,130
+They are continued business justification,
+
+53
+00:02:29,130 --> 00:02:32,830
+learn from experience, define
+roles and responsibilities,
+
+54
+00:02:32,830 --> 00:02:37,200
+manage by stages, manage by
+exception, focus on products,
+
+55
+00:02:37,200 --> 00:02:39,730
+and of course, tailor to the environment.
+
+56
+00:02:39,730 --> 00:02:41,700
+We'll talk about each of
+these seven principles
+
+57
+00:02:41,700 --> 00:02:43,973
+in depth in the next
+section of the course.
+
+58
+00:02:44,810 --> 00:02:47,610
+There's also seven themes, and these are
+
+59
+00:02:47,610 --> 00:02:49,220
+the project management
+areas that have to be
+
+60
+00:02:49,220 --> 00:02:51,690
+continually addressed during the project,
+
+61
+00:02:51,690 --> 00:02:54,670
+so from the start of the
+project until it's closed out,
+
+62
+00:02:54,670 --> 00:02:57,140
+you're continually looking at these things
+
+63
+00:02:57,140 --> 00:02:59,620
+again, and again, and again.
+
+64
+00:02:59,620 --> 00:03:02,030
+These are things like the business case,
+
+65
+00:03:02,030 --> 00:03:06,210
+the organization, the quality, the plans,
+
+66
+00:03:06,210 --> 00:03:10,610
+the risk, the change, and the progress.
+
+67
+00:03:10,610 --> 00:03:13,520
+And finally, we have the seven processes,
+
+68
+00:03:13,520 --> 00:03:15,720
+and the seven processes
+are going to describe
+
+69
+00:03:15,720 --> 00:03:19,000
+the who, what, and when of the project.
+
+70
+00:03:19,000 --> 00:03:21,600
+These are things like
+starting up a project,
+
+71
+00:03:21,600 --> 00:03:24,740
+initiating a project, directing a project,
+
+72
+00:03:24,740 --> 00:03:28,070
+controlling a stage,
+managing product delivery,
+
+73
+00:03:28,070 --> 00:03:30,990
+managing a stage boundary,
+and closing the project
+
+74
+00:03:30,990 --> 00:03:32,540
+when you're all completed.
+
+75
+00:03:32,540 --> 00:03:34,810
+Again, we're going to
+talk about each of these
+
+76
+00:03:34,810 --> 00:03:37,340
+three sets of sevens
+throughout the rest of
+
+77
+00:03:37,340 --> 00:03:39,203
+our time together in this course.
+

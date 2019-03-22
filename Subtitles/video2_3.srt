@@ -1,0 +1,636 @@
+1
+00:00:00,570 --> 00:00:02,680
+- Learn from experience.
+
+2
+00:00:02,680 --> 00:00:04,500
+The next principle we're going to cover is
+
+3
+00:00:04,500 --> 00:00:05,900
+learn from experience.
+
+4
+00:00:05,900 --> 00:00:08,920
+And this is really important
+because as the old saying goes,
+
+5
+00:00:08,920 --> 00:00:11,180
+experience is the best teacher.
+
+6
+00:00:11,180 --> 00:00:13,170
+And PRINCE2 understands that.
+
+7
+00:00:13,170 --> 00:00:15,490
+So PRINCE2 added this
+as one of the principles
+
+8
+00:00:15,490 --> 00:00:17,810
+you should build your project on top of.
+
+9
+00:00:17,810 --> 00:00:19,280
+And it really asks the question,
+
+10
+00:00:19,280 --> 00:00:22,740
+how can we learn from both our
+successes and our failures.
+
+11
+00:00:22,740 --> 00:00:24,660
+Because we learn from both.
+
+12
+00:00:24,660 --> 00:00:26,230
+When you're successful,
+you learn the things
+
+13
+00:00:26,230 --> 00:00:27,440
+you should be doing.
+
+14
+00:00:27,440 --> 00:00:29,020
+And when you fail, you learn the things
+
+15
+00:00:29,020 --> 00:00:30,370
+you shouldn't be doing.
+
+16
+00:00:30,370 --> 00:00:32,560
+But both of them are very useful.
+
+17
+00:00:32,560 --> 00:00:34,700
+It's important not just
+to learn from yourself
+
+18
+00:00:34,700 --> 00:00:37,090
+but to learn from others
+who have gone before you.
+
+19
+00:00:37,090 --> 00:00:39,320
+And that's what PRINCE2
+really wants to work on,
+
+20
+00:00:39,320 --> 00:00:41,200
+is capturing that information.
+
+21
+00:00:41,200 --> 00:00:44,060
+Because it knows that
+everyone makes mistakes.
+
+22
+00:00:44,060 --> 00:00:47,210
+But we need to learn from
+them so we don't repeat them.
+
+23
+00:00:47,210 --> 00:00:50,270
+We do this by collecting
+reports of the lessons learned
+
+24
+00:00:50,270 --> 00:00:51,830
+from previous projects.
+
+25
+00:00:51,830 --> 00:00:54,240
+So I'm going to start a
+new project and I was told
+
+26
+00:00:54,240 --> 00:00:56,640
+I need to do a rollout of Windows 10,
+
+27
+00:00:56,640 --> 00:00:59,270
+I might pull the lessons learned
+from when we did a rollout
+
+28
+00:00:59,270 --> 00:01:03,340
+of Windows 8.1 or Windows 7 or Windows XP,
+
+29
+00:01:03,340 --> 00:01:06,090
+because they're very similar experiences.
+
+30
+00:01:06,090 --> 00:01:08,870
+Now maybe one department has
+already done the rollout.
+
+31
+00:01:08,870 --> 00:01:11,860
+So I might learn from them
+exactly what they did and
+
+32
+00:01:11,860 --> 00:01:14,220
+what went right and what went wrong.
+
+33
+00:01:14,220 --> 00:01:16,440
+Now as a project manager,
+I want to make sure that
+
+34
+00:01:16,440 --> 00:01:19,470
+I'm generating reports
+during my project as well.
+
+35
+00:01:19,470 --> 00:01:21,960
+So I'm capturing those
+lessons while they're fresh
+
+36
+00:01:21,960 --> 00:01:23,090
+in my mind.
+
+37
+00:01:23,090 --> 00:01:24,660
+And that way, they could be passed out
+
+38
+00:01:24,660 --> 00:01:28,330
+to other project managers so
+they can learn from as well.
+
+39
+00:01:28,330 --> 00:01:31,890
+So, whose responsibility is
+capturing all these lessons?
+
+40
+00:01:31,890 --> 00:01:35,200
+Well, the project manager
+should be the one to identify,
+
+41
+00:01:35,200 --> 00:01:38,980
+document and disseminate the
+lessons via the lessons report
+
+42
+00:01:38,980 --> 00:01:42,350
+up to the project board who oversees them.
+
+43
+00:01:42,350 --> 00:01:45,810
+That project board though,
+oversees a lot of projects.
+
+44
+00:01:45,810 --> 00:01:48,380
+And so it's their job to
+take that information and
+
+45
+00:01:48,380 --> 00:01:52,640
+pass it down to other project
+managers to implement inside
+
+46
+00:01:52,640 --> 00:01:53,910
+of their projects.
+
+47
+00:01:53,910 --> 00:01:56,180
+And so we have this
+pyramid and this triangle
+
+48
+00:01:56,180 --> 00:02:00,370
+of passing information up,
+over and down so that everyone
+
+49
+00:02:00,370 --> 00:02:02,570
+can learn from each other
+as we move through and
+
+50
+00:02:02,570 --> 00:02:04,510
+do project management.
+
+51
+00:02:04,510 --> 00:02:08,700
+Now, the big things to remember
+is that hindsight is 20/20.
+
+52
+00:02:08,700 --> 00:02:10,020
+What do i mean by that?
+
+53
+00:02:10,020 --> 00:02:12,760
+Well, it's really easy to
+look back on a project and go,
+
+54
+00:02:12,760 --> 00:02:15,360
+man if only we didn't do X,
+
+55
+00:02:15,360 --> 00:02:17,720
+we wouldn't have had
+this bad thing happen.
+
+56
+00:02:17,720 --> 00:02:19,840
+Well, it's easy to see
+that when you look back.
+
+57
+00:02:19,840 --> 00:02:21,980
+But it's hard to figure
+it out in the future.
+
+58
+00:02:21,980 --> 00:02:24,470
+And so you want to make
+sure that you're capturing
+
+59
+00:02:24,470 --> 00:02:27,360
+these things as they happen
+and after they happen.
+
+60
+00:02:27,360 --> 00:02:29,931
+So you don't repeat them in the future.
+
+61
+00:02:29,931 --> 00:02:33,070
+The way you do this is by
+setting up a lessons learned log
+
+62
+00:02:33,070 --> 00:02:35,860
+during the starting up a project process,
+
+63
+00:02:35,860 --> 00:02:37,460
+which we'll talk about later.
+
+64
+00:02:37,460 --> 00:02:41,200
+You also want to generate lessons
+at the end of each stage and
+
+65
+00:02:41,200 --> 00:02:45,060
+pass those lessons reports
+up to the project board.
+
+66
+00:02:45,060 --> 00:02:48,220
+And then, the final lessons
+learned report is going to be
+
+67
+00:02:48,220 --> 00:02:50,980
+created during your
+closing a project process.
+
+68
+00:02:50,980 --> 00:02:53,730
+Because as you close that
+project, you want to capture
+
+69
+00:02:53,730 --> 00:02:56,680
+anything that happened
+during the project as well as
+
+70
+00:02:56,680 --> 00:02:59,220
+the process of closing the project itself.
+
+71
+00:02:59,220 --> 00:03:01,440
+Because sometimes, closing a project has
+
+72
+00:03:01,440 --> 00:03:03,900
+just as many problems as doing the project
+
+73
+00:03:03,900 --> 00:03:06,030
+during the middle of the cycle.
+
+74
+00:03:06,030 --> 00:03:08,630
+Now, lessons learned are testable.
+
+75
+00:03:08,630 --> 00:03:10,030
+What do I mean by that?
+
+76
+00:03:10,030 --> 00:03:12,220
+Well if your company follows PRINCE2
+
+77
+00:03:12,220 --> 00:03:14,740
+from an auditing perspective,
+and they have assurance
+
+78
+00:03:14,740 --> 00:03:17,200
+auditors coming in to check
+and see if you're compliant
+
+79
+00:03:17,200 --> 00:03:20,350
+with PRINCE2, they will ask
+for evidence that lessons
+
+80
+00:03:20,350 --> 00:03:24,060
+are actually being learned
+and not just collected.
+
+81
+00:03:24,060 --> 00:03:26,100
+I've been in a lot of organizations
+
+82
+00:03:26,100 --> 00:03:28,410
+where we really just call
+them lessons observed.
+
+83
+00:03:28,410 --> 00:03:32,130
+We see this problem in a
+project, we write it down and
+
+84
+00:03:32,130 --> 00:03:33,140
+then we forget about it.
+
+85
+00:03:33,140 --> 00:03:35,910
+And then we do the project
+again, very similar,
+
+86
+00:03:35,910 --> 00:03:37,280
+and we have the same problems.
+
+87
+00:03:37,280 --> 00:03:39,330
+Because we didn't learn our lessons.
+
+88
+00:03:39,330 --> 00:03:41,900
+So these auditors are going
+to be looking for proof
+
+89
+00:03:41,900 --> 00:03:45,060
+that the things you noted that
+were bad have actually been
+
+90
+00:03:45,060 --> 00:03:47,460
+implemented to improve the process and
+
+91
+00:03:47,460 --> 00:03:49,560
+prevent mistakes in the future.
+
+92
+00:03:49,560 --> 00:03:51,990
+So I want you to remember
+that lessons learned
+
+93
+00:03:51,990 --> 00:03:54,630
+are not the same as lessons observed.
+
+94
+00:03:54,630 --> 00:03:55,970
+You need to take action.
+
+95
+00:03:55,970 --> 00:03:59,070
+You need to implement those
+changes so you're not repeating
+
+96
+00:03:59,070 --> 00:04:01,590
+the same issues from the previous project
+
+97
+00:04:01,590 --> 00:04:02,640
+in your new project.
+
+98
+00:04:02,640 --> 00:04:06,970
+You learn from those things,
+change and continually improve.
+
+99
+00:04:06,970 --> 00:04:09,200
+So how do we prevent mistakes?
+
+100
+00:04:09,200 --> 00:04:11,110
+Well the first things is we have to learn
+
+101
+00:04:11,110 --> 00:04:13,610
+from those past mistakes
+like we mentioned,
+
+102
+00:04:13,610 --> 00:04:15,940
+to prevent new ones from occurring.
+
+103
+00:04:15,940 --> 00:04:19,270
+We also want to create a repository
+of these lessons reports.
+
+104
+00:04:19,270 --> 00:04:22,230
+So as the project manager, I'm
+going to turn my report in up
+
+105
+00:04:22,230 --> 00:04:23,660
+to the project board.
+
+106
+00:04:23,660 --> 00:04:25,450
+But that's not where it should stop.
+
+107
+00:04:25,450 --> 00:04:27,910
+They should go into some sort
+of an electronic database or
+
+108
+00:04:27,910 --> 00:04:30,840
+a collection system like a
+SharePoint site or other,
+
+109
+00:04:30,840 --> 00:04:33,460
+so that other people can
+search and find things
+
+110
+00:04:33,460 --> 00:04:37,110
+about this project that may
+relate to their project.
+
+111
+00:04:37,110 --> 00:04:39,130
+You also want to recruit
+member to your project
+
+112
+00:04:39,130 --> 00:04:41,250
+with similar project experience.
+
+113
+00:04:41,250 --> 00:04:44,300
+Because there really is no
+substitute for experience.
+
+114
+00:04:44,300 --> 00:04:45,730
+Now I deal with a lot of people trying
+
+115
+00:04:45,730 --> 00:04:47,700
+to get into the cybersecurity world.
+
+116
+00:04:47,700 --> 00:04:49,470
+And they get really upset
+because they're like,
+
+117
+00:04:49,470 --> 00:04:52,530
+no one will give me a chance
+because I don't have experience
+
+118
+00:04:52,530 --> 00:04:54,370
+in this job, they won't give me a job
+
+119
+00:04:54,370 --> 00:04:55,790
+so I can get experience.
+
+120
+00:04:55,790 --> 00:04:58,180
+And I get that, it's very frustrating.
+
+121
+00:04:58,180 --> 00:05:00,720
+But you have to look at
+it from their perspective.
+
+122
+00:05:00,720 --> 00:05:03,220
+They're trying to minimize
+risk in their projects and
+
+123
+00:05:03,220 --> 00:05:04,510
+in their operations.
+
+124
+00:05:04,510 --> 00:05:07,650
+And the way that you do that
+is by finding qualified people
+
+125
+00:05:07,650 --> 00:05:10,570
+who have experience and
+have done that thing before.
+
+126
+00:05:10,570 --> 00:05:12,400
+Because if you've done that thing before,
+
+127
+00:05:12,400 --> 00:05:14,090
+you're less likely to have mistake
+
+128
+00:05:14,090 --> 00:05:15,850
+because you know what you're doing.
+
+129
+00:05:15,850 --> 00:05:17,520
+And that's kind of the idea here.
+
+130
+00:05:17,520 --> 00:05:19,640
+If I'm going to go and
+put on the Olympic games,
+
+131
+00:05:19,640 --> 00:05:21,170
+I want to get people who worked
+
+132
+00:05:21,170 --> 00:05:23,120
+on the last Olympic games right?
+
+133
+00:05:23,120 --> 00:05:25,290
+If I'm going to go build an
+app, I want to get people
+
+134
+00:05:25,290 --> 00:05:28,700
+who have built apps before, not
+somebody who's built houses.
+
+135
+00:05:28,700 --> 00:05:30,400
+Now some of those skills will transfer
+
+136
+00:05:30,400 --> 00:05:31,930
+from project to project.
+
+137
+00:05:31,930 --> 00:05:35,160
+But a lot of it is based on
+the industry you work in.
+
+138
+00:05:35,160 --> 00:05:37,500
+And so finding people who have experience
+
+139
+00:05:37,500 --> 00:05:40,330
+in that type of a thing is very useful and
+
+140
+00:05:40,330 --> 00:05:41,840
+something you should be looking for
+
+141
+00:05:41,840 --> 00:05:43,463
+to help you prevent mistakes.
+

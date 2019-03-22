@@ -1,0 +1,148 @@
+﻿1
+00:00:00,690 --> 00:00:02,480
+- The seven principles.
+
+2
+00:00:02,480 --> 00:00:05,460
+So welcome to section two,
+where we're going to talk about
+
+3
+00:00:05,460 --> 00:00:08,240
+the seven principles of PRINCE2.
+
+4
+00:00:08,240 --> 00:00:10,400
+Now, what are the seven principles?
+
+5
+00:00:10,400 --> 00:00:14,390
+Well, these are the foundational
+building blocks of PRINCE2.
+
+6
+00:00:14,390 --> 00:00:17,250
+PRINCE2 looked back over
+30 years, and it looked at
+
+7
+00:00:17,250 --> 00:00:19,420
+lots and lots of different projects.
+
+8
+00:00:19,420 --> 00:00:21,320
+And they asked two basic questions.
+
+9
+00:00:21,320 --> 00:00:23,950
+They said, why did this project succeed?
+
+10
+00:00:23,950 --> 00:00:26,230
+Or why did this project fail?
+
+11
+00:00:26,230 --> 00:00:27,900
+And they look at all of those things,
+
+12
+00:00:27,900 --> 00:00:30,280
+and they came up with these answers.
+
+13
+00:00:30,280 --> 00:00:32,650
+And these answers are
+the seven principles.
+
+14
+00:00:32,650 --> 00:00:34,770
+They found that if you had
+these seven principles,
+
+15
+00:00:34,770 --> 00:00:37,970
+you were more likely to be
+successful in your project.
+
+16
+00:00:37,970 --> 00:00:40,610
+And if you were missing one
+or many of these principles,
+
+17
+00:00:40,610 --> 00:00:43,070
+your project was more likely to fail.
+
+18
+00:00:43,070 --> 00:00:44,989
+This is how they proved
+what the best practices were
+
+19
+00:00:44,989 --> 00:00:49,040
+by going back and doing
+lots and lots of research.
+
+20
+00:00:49,040 --> 00:00:51,470
+So what are those seven principles?
+
+21
+00:00:51,470 --> 00:00:54,530
+Well, they're continued
+business justification,
+
+22
+00:00:54,530 --> 00:00:56,050
+learn from experience,
+
+23
+00:00:56,050 --> 00:00:58,170
+defined roles and responsibilities,
+
+24
+00:00:58,170 --> 00:00:59,820
+manage by stages,
+
+25
+00:00:59,820 --> 00:01:01,218
+manage by exception,
+
+26
+00:01:01,218 --> 00:01:02,930
+focus on products,
+
+27
+00:01:02,930 --> 00:01:04,598
+and tailor to the environment.
+
+28
+00:01:04,598 --> 00:01:07,260
+If your project has these seven principles
+
+29
+00:01:07,260 --> 00:01:09,806
+as its foundation, it is going
+to be more likely to succeed.
+
+30
+00:01:09,806 --> 00:01:13,170
+And so we're going to
+cover each of these in
+
+31
+00:01:13,170 --> 00:01:15,621
+their own lecture inside of this section.
+
+32
+00:01:15,621 --> 00:01:17,230
+Let's go ahead and get started with
+
+33
+00:01:17,230 --> 00:01:19,013
+continued business justification.
+
+34
+00:01:19,862 --> 00:01:21,561
+(electric static)
+

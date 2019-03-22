@@ -1,0 +1,443 @@
+﻿1
+00:00:01,027 --> 00:00:03,058
+- Controlling a stage.
+
+2
+00:00:03,058 --> 00:00:04,884
+So when we look at controlling a stage,
+
+3
+00:00:04,884 --> 00:00:07,877
+this is the function of
+your project manager.
+
+4
+00:00:07,877 --> 00:00:10,014
+This is going to make sure
+that we assign the work
+
+5
+00:00:10,014 --> 00:00:12,514
+to be done, we monitor that work,
+
+6
+00:00:12,514 --> 00:00:14,920
+we deal with issues, we report progress
+
+7
+00:00:14,920 --> 00:00:18,044
+back to the project board,
+we take corrective actions
+
+8
+00:00:18,044 --> 00:00:19,818
+to ensure the stage remains in tolerance.
+
+9
+00:00:19,818 --> 00:00:21,806
+All of these things are the things
+
+10
+00:00:21,806 --> 00:00:24,817
+that your project manager
+does on a daily basis.
+
+11
+00:00:24,817 --> 00:00:27,454
+So if we look at this
+on the process timeline,
+
+12
+00:00:27,454 --> 00:00:30,515
+you will see that the controlling
+a stage is sitting there
+
+13
+00:00:30,515 --> 00:00:32,269
+in the managing level.
+
+14
+00:00:32,269 --> 00:00:35,760
+Managing level is what your
+project manager is focused on.
+
+15
+00:00:35,760 --> 00:00:37,604
+If you look up to the directing level,
+
+16
+00:00:37,604 --> 00:00:40,469
+that's what your project
+board is focused on.
+
+17
+00:00:40,469 --> 00:00:42,361
+If you look down to the delivering level,
+
+18
+00:00:42,361 --> 00:00:44,880
+you'll see that that is
+what your team managers
+
+19
+00:00:44,880 --> 00:00:46,833
+and team members are focused on
+
+20
+00:00:46,833 --> 00:00:49,916
+and we'll talk about that more
+in managing project delivery.
+
+21
+00:00:49,916 --> 00:00:52,936
+But right now, we're talking
+about controlling a stage
+
+22
+00:00:52,936 --> 00:00:55,633
+and this happens in every single stage
+
+23
+00:00:55,633 --> 00:00:59,667
+starting with the subsequent
+stages and your final stage.
+
+24
+00:00:59,667 --> 00:01:01,850
+Now, as we look at controlling a stage,
+
+25
+00:01:01,850 --> 00:01:03,594
+there are many objectives.
+
+26
+00:01:03,594 --> 00:01:06,056
+The first is to ensure the
+project management team
+
+27
+00:01:06,056 --> 00:01:08,422
+is focused on delivery of the product
+
+28
+00:01:08,422 --> 00:01:11,136
+within the tolerances they were given.
+
+29
+00:01:11,136 --> 00:01:13,904
+They also want to ensure
+that risks and issues
+
+30
+00:01:13,904 --> 00:01:17,330
+are kept under control
+and within tolerances.
+
+31
+00:01:17,330 --> 00:01:20,071
+You want to ensure that the
+business case is being reviewed
+
+32
+00:01:20,071 --> 00:01:22,079
+to make sure you're delivering a product
+
+33
+00:01:22,079 --> 00:01:23,931
+that your customer wants,
+
+34
+00:01:23,931 --> 00:01:26,593
+and you want to ensure that
+the agreed-upon products
+
+35
+00:01:26,593 --> 00:01:29,752
+are delivered within the cost,
+effort and time constraints
+
+36
+00:01:29,752 --> 00:01:32,824
+that you were allotted
+by your project board.
+
+37
+00:01:32,824 --> 00:01:35,019
+Finally, you want to ensure your progress
+
+38
+00:01:35,019 --> 00:01:37,959
+is being reported to the board
+because they're your boss,
+
+39
+00:01:37,959 --> 00:01:40,442
+they need to know where
+you are and you do that
+
+40
+00:01:40,442 --> 00:01:43,475
+through highlight reports
+and when bad things happen
+
+41
+00:01:43,475 --> 00:01:45,386
+through exceptional reports.
+
+42
+00:01:45,386 --> 00:01:47,271
+And those have to be escalated up to them
+
+43
+00:01:47,271 --> 00:01:49,595
+so they can help you get back on track.
+
+44
+00:01:49,595 --> 00:01:51,711
+Now, when we talk about
+controlling a stage,
+
+45
+00:01:51,711 --> 00:01:53,033
+this is where we're going to conduct
+
+46
+00:01:53,033 --> 00:01:56,081
+our day-to-day management
+by your project manager.
+
+47
+00:01:56,081 --> 00:01:59,415
+Like I said before, this process is begun
+
+48
+00:01:59,415 --> 00:02:01,967
+when the project board
+approves the project
+
+49
+00:02:01,967 --> 00:02:04,159
+in the initiation stage.
+
+50
+00:02:04,159 --> 00:02:06,747
+So once this project gets
+started and every time
+
+51
+00:02:06,747 --> 00:02:09,132
+there's a new stage that
+needs to be approved,
+
+52
+00:02:09,132 --> 00:02:12,200
+that's where this controlling
+a stage starts again.
+
+53
+00:02:12,200 --> 00:02:14,019
+Once you have an approve stage plan,
+
+54
+00:02:14,019 --> 00:02:16,145
+you're controlling a stage again.
+
+55
+00:02:16,145 --> 00:02:18,173
+You're going to focus on product delivery
+
+56
+00:02:18,173 --> 00:02:20,231
+for each stage's products
+
+57
+00:02:20,231 --> 00:02:22,959
+and any deviations have to be agreed upon
+
+58
+00:02:22,959 --> 00:02:26,439
+by the project board
+before the stage begins,
+
+59
+00:02:26,439 --> 00:02:30,084
+and approved inside your
+project or your stage plan.
+
+60
+00:02:30,084 --> 00:02:33,763
+The project manager is going
+to assign work as work packages
+
+61
+00:02:33,763 --> 00:02:37,138
+to their team managers to
+get the projects delivered.
+
+62
+00:02:37,138 --> 00:02:39,902
+It's very rare that the project manager,
+
+63
+00:02:39,902 --> 00:02:42,330
+especially on a large project is going
+
+64
+00:02:42,330 --> 00:02:44,338
+to be delivering products themselves.
+
+65
+00:02:44,338 --> 00:02:46,542
+Instead, they're going
+to be pushing that down
+
+66
+00:02:46,542 --> 00:02:49,016
+to their team managers
+and those team managers
+
+67
+00:02:49,016 --> 00:02:51,546
+may even have sub teams underneath them.
+
+68
+00:02:51,546 --> 00:02:54,280
+Now, all of this has to be reported
+
+69
+00:02:54,280 --> 00:02:56,455
+and reporting is really crucial.
+
+70
+00:02:56,455 --> 00:02:59,274
+The team managers are going
+to send up checkpoint reports
+
+71
+00:02:59,274 --> 00:03:02,282
+to the project manager
+with their work status.
+
+72
+00:03:02,282 --> 00:03:04,795
+It looks a lot like a highlight report.
+
+73
+00:03:04,795 --> 00:03:06,351
+The project managers then collect all
+
+74
+00:03:06,351 --> 00:03:09,153
+of those progress reports from
+all of their different teams
+
+75
+00:03:09,153 --> 00:03:11,808
+and consolidate them
+into an executive summary
+
+76
+00:03:11,808 --> 00:03:13,805
+called the highlight report.
+
+77
+00:03:13,805 --> 00:03:15,556
+Using these checkpoint reports,
+
+78
+00:03:15,556 --> 00:03:17,785
+the project manager can
+monitor the schedule
+
+79
+00:03:17,785 --> 00:03:19,389
+and make sure there's no slippages
+
+80
+00:03:19,389 --> 00:03:21,069
+that were falling behind schedule
+
+81
+00:03:21,069 --> 00:03:23,281
+or if we're getting too
+far ahead of schedule.
+
+82
+00:03:23,281 --> 00:03:26,992
+And any kind of cost overruns
+should be identified here.
+
+83
+00:03:26,992 --> 00:03:30,183
+If one is being forecast and
+an exception report is required
+
+84
+00:03:30,183 --> 00:03:32,372
+then it's going to be up
+to the project manager
+
+85
+00:03:32,372 --> 00:03:36,268
+to submit that exception
+report up to the Project Board.
+
+86
+00:03:36,268 --> 00:03:38,449
+Now, once I have an approve stage plan,
+
+87
+00:03:38,449 --> 00:03:42,494
+it's my job as the project
+manager to continually update it
+
+88
+00:03:42,494 --> 00:03:46,475
+with the progress that I'm
+actually seeing inside the stage
+
+89
+00:03:46,475 --> 00:03:49,451
+and forecast out the
+remainder of my stage.
+
+90
+00:03:49,451 --> 00:03:51,576
+This helps me know where I am in terms
+
+91
+00:03:51,576 --> 00:03:53,284
+of budget and schedule.
+
+92
+00:03:53,284 --> 00:03:56,206
+Am I falling behind or am I getting ahead?
+
+93
+00:03:56,206 --> 00:03:57,984
+Project plans and business cases
+
+94
+00:03:57,984 --> 00:04:01,255
+are not updated continuously
+during this process though.
+
+95
+00:04:01,255 --> 00:04:03,659
+Those project plans and
+those business cases
+
+96
+00:04:03,659 --> 00:04:07,621
+are going to be updated in
+the managing a stage boundary,
+
+97
+00:04:07,621 --> 00:04:10,259
+and they're going to be
+done at the end of the stage
+
+98
+00:04:10,259 --> 00:04:13,676
+which we talked about in the last lesson.
+

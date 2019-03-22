@@ -1,0 +1,531 @@
+﻿1
+00:00:00,560 --> 00:00:03,150
+- Managing a stage boundary.
+
+2
+00:00:03,150 --> 00:00:04,220
+So, when we talk about
+
+3
+00:00:04,220 --> 00:00:07,180
+the managing a stage boundary process,
+
+4
+00:00:07,180 --> 00:00:10,095
+we're talking about how
+we're going to enable
+
+5
+00:00:10,095 --> 00:00:12,920
+our project manager to
+provide the project board
+
+6
+00:00:12,920 --> 00:00:14,420
+with sufficient information
+to be able to review
+
+7
+00:00:14,420 --> 00:00:16,730
+the success of the
+current management stage,
+
+8
+00:00:16,730 --> 00:00:19,020
+so they can provide
+that go, no go decision,
+
+9
+00:00:19,020 --> 00:00:21,030
+and approve the next stage plan
+
+10
+00:00:21,030 --> 00:00:23,250
+and review the updated project plan,
+
+11
+00:00:23,250 --> 00:00:26,870
+confirm that there is still a
+valid business justification,
+
+12
+00:00:26,870 --> 00:00:30,750
+and that they can accept any
+risks that are outstanding.
+
+13
+00:00:30,750 --> 00:00:33,460
+So, when we look at this
+on the process timeline,
+
+14
+00:00:33,460 --> 00:00:36,730
+you can see that it happens
+inside the initiation stage
+
+15
+00:00:36,730 --> 00:00:38,670
+and subsequent stages.
+
+16
+00:00:38,670 --> 00:00:41,780
+The only stage it doesn't
+happen in is the final stage,
+
+17
+00:00:41,780 --> 00:00:44,270
+because instead of managing
+the stage boundary,
+
+18
+00:00:44,270 --> 00:00:46,430
+we will then close a project,
+
+19
+00:00:46,430 --> 00:00:49,390
+so you can see where this lies
+inside the process timeline.
+
+20
+00:00:49,390 --> 00:00:50,800
+Let's talk a little bit more about
+
+21
+00:00:50,800 --> 00:00:53,690
+what managing a stage boundary means.
+
+22
+00:00:53,690 --> 00:00:57,530
+So, what are the objectives
+of managing a stage boundary?
+
+23
+00:00:57,530 --> 00:01:00,470
+Well, really, here we want
+to assure project board
+
+24
+00:01:00,470 --> 00:01:03,010
+that all the products in the current stage
+
+25
+00:01:03,010 --> 00:01:05,010
+are completed and approved,
+
+26
+00:01:05,010 --> 00:01:07,340
+so if I'm developing a piece of software,
+
+27
+00:01:07,340 --> 00:01:09,860
+maybe there are 10 products
+that are going to be created,
+
+28
+00:01:09,860 --> 00:01:12,260
+and we're going to do
+three in the first stage,
+
+29
+00:01:12,260 --> 00:01:14,930
+two in the second stage, and
+three in the final stage.
+
+30
+00:01:14,930 --> 00:01:17,930
+If I'm coming close to
+the end of my first stage,
+
+31
+00:01:17,930 --> 00:01:19,830
+I need to go prove to the project board
+
+32
+00:01:19,830 --> 00:01:22,760
+that I've finished the
+three pieces of software
+
+33
+00:01:22,760 --> 00:01:25,130
+for those first three products correctly,
+
+34
+00:01:25,130 --> 00:01:26,360
+and they've been approved.
+
+35
+00:01:26,360 --> 00:01:28,570
+Once I have, they'll give me the go ahead
+
+36
+00:01:28,570 --> 00:01:30,680
+if they think I still
+have a valid business case
+
+37
+00:01:30,680 --> 00:01:32,740
+to move into the second stage.
+
+38
+00:01:32,740 --> 00:01:33,800
+This is going to allow me, also,
+
+39
+00:01:33,800 --> 00:01:35,930
+time to prepare for my next stage
+
+40
+00:01:35,930 --> 00:01:38,320
+by creating the next stage plan.
+
+41
+00:01:38,320 --> 00:01:42,510
+I also will review and update
+my project initiation document
+
+42
+00:01:42,510 --> 00:01:44,110
+so that we can see if it's still valid
+
+43
+00:01:44,110 --> 00:01:46,150
+or if there's any changes
+that need to be made,
+
+44
+00:01:46,150 --> 00:01:47,960
+and we're going to
+provide the project board
+
+45
+00:01:47,960 --> 00:01:50,120
+the information needed to verify
+
+46
+00:01:50,120 --> 00:01:53,570
+that we still have a
+continued, valid business case
+
+47
+00:01:53,570 --> 00:01:55,410
+so that we can get that go decision
+
+48
+00:01:55,410 --> 00:01:57,080
+and move into the next stage.
+
+49
+00:01:57,080 --> 00:01:59,490
+If we don't have a valid
+business case anymore,
+
+50
+00:01:59,490 --> 00:02:00,770
+then they should make the decision
+
+51
+00:02:00,770 --> 00:02:03,280
+to close the project early.
+
+52
+00:02:03,280 --> 00:02:04,960
+Some other things that we need to do
+
+53
+00:02:04,960 --> 00:02:08,040
+for managing a stage boundary
+is to record any lessons
+
+54
+00:02:08,040 --> 00:02:11,010
+or information that can
+help us during later stages
+
+55
+00:02:11,010 --> 00:02:14,170
+of this project or another future project.
+
+56
+00:02:14,170 --> 00:02:15,920
+We also want to request authorization
+
+57
+00:02:15,920 --> 00:02:20,324
+to begin that next stage, get
+that formal go permission,
+
+58
+00:02:20,324 --> 00:02:22,760
+and then finally, the
+other thing we can do
+
+59
+00:02:22,760 --> 00:02:24,340
+with managing a stage boundary
+
+60
+00:02:24,340 --> 00:02:27,070
+is get approval for an exception plan,
+
+61
+00:02:27,070 --> 00:02:29,720
+because maybe we've gotten
+off track with this project,
+
+62
+00:02:29,720 --> 00:02:32,660
+but we think there's still
+a valid business case,
+
+63
+00:02:32,660 --> 00:02:35,480
+and we say hey, here's my exception plan.
+
+64
+00:02:35,480 --> 00:02:37,370
+I can get us back on track.
+
+65
+00:02:37,370 --> 00:02:41,170
+If you approve my exception,
+I can replace the project plan
+
+66
+00:02:41,170 --> 00:02:44,230
+or replace the stage plan
+and get us back on track
+
+67
+00:02:44,230 --> 00:02:46,770
+and finish this product successfully.
+
+68
+00:02:46,770 --> 00:02:49,510
+So, all of this comes
+down to getting that go,
+
+69
+00:02:49,510 --> 00:02:52,590
+no go decision from the project board.
+
+70
+00:02:52,590 --> 00:02:55,070
+The end stage assessment
+here is what happens
+
+71
+00:02:55,070 --> 00:02:57,450
+at the end of this stage.
+
+72
+00:02:57,450 --> 00:03:00,050
+That's why it's called the
+end stage assessment, right?
+
+73
+00:03:00,050 --> 00:03:01,910
+It happens near the end of the stage,
+
+74
+00:03:01,910 --> 00:03:03,940
+and the project manager is going to begin
+
+75
+00:03:03,940 --> 00:03:06,540
+the managing a stage boundary process.
+
+76
+00:03:06,540 --> 00:03:08,650
+They're going to make an
+assessment of where they are,
+
+77
+00:03:08,650 --> 00:03:11,480
+what was their forecast,
+and what is their actual.
+
+78
+00:03:11,480 --> 00:03:13,760
+The project manager is going
+to meet with the project board
+
+79
+00:03:13,760 --> 00:03:16,135
+to conduct this assessment,
+
+80
+00:03:16,135 --> 00:03:18,608
+and they are going to go
+over the business case
+
+81
+00:03:18,608 --> 00:03:20,080
+and the project plan, and
+they're going to update those
+
+82
+00:03:20,080 --> 00:03:23,120
+and provide the most recent
+copies to the project board
+
+83
+00:03:23,120 --> 00:03:25,910
+and say here is where we currently sit.
+
+84
+00:03:25,910 --> 00:03:27,160
+Here is what I think it's going to take
+
+85
+00:03:27,160 --> 00:03:28,920
+to get to the next place.
+
+86
+00:03:28,920 --> 00:03:30,340
+Do you think we're there?
+
+87
+00:03:30,340 --> 00:03:32,540
+And the project manager has
+to present this information
+
+88
+00:03:32,540 --> 00:03:34,950
+for the project board
+so that they can make
+
+89
+00:03:34,950 --> 00:03:38,540
+an informed decision on the
+viability of this project,
+
+90
+00:03:38,540 --> 00:03:40,970
+and should it get that go decision,
+
+91
+00:03:40,970 --> 00:03:43,690
+to proceed into the next stage.
+
+92
+00:03:43,690 --> 00:03:46,700
+The last thing that we have
+to do inside this process
+
+93
+00:03:46,700 --> 00:03:48,230
+is a lessons report.
+
+94
+00:03:48,230 --> 00:03:50,340
+Every time we get up
+to the end of a stage,
+
+95
+00:03:50,340 --> 00:03:51,740
+we need a lessons report,
+
+96
+00:03:51,740 --> 00:03:54,010
+and this is going to be
+a report that identifies
+
+97
+00:03:54,010 --> 00:03:55,920
+any lessons that were identified
+
+98
+00:03:55,920 --> 00:03:58,090
+that can help us prevent issues.
+
+99
+00:03:58,090 --> 00:04:01,238
+These lessons will be incorporated
+into the next stage plan
+
+100
+00:04:01,238 --> 00:04:04,800
+or an exception plan,
+if we got way off track,
+
+101
+00:04:04,800 --> 00:04:07,130
+and there are going to be
+revision to the quality,
+
+102
+00:04:07,130 --> 00:04:10,560
+the risk, and the issue
+management that may be required
+
+103
+00:04:10,560 --> 00:04:12,250
+based on what we've learned.
+
+104
+00:04:12,250 --> 00:04:15,060
+Maybe we thought that there
+was going to be no snow
+
+105
+00:04:15,060 --> 00:04:16,680
+as we're building this house,
+
+106
+00:04:16,680 --> 00:04:19,840
+and there was a big snowstorm
+and that took us off track.
+
+107
+00:04:19,840 --> 00:04:22,910
+Then maybe we need to account
+some time in our project
+
+108
+00:04:22,910 --> 00:04:24,570
+for bad weather days.
+
+109
+00:04:24,570 --> 00:04:26,410
+This would be a lesson
+that we would incorporate
+
+110
+00:04:26,410 --> 00:04:28,050
+into the next stage plan,
+
+111
+00:04:28,050 --> 00:04:30,020
+because maybe we're going
+into the rainy season,
+
+112
+00:04:30,020 --> 00:04:32,110
+and that's going to have a work stoppage,
+
+113
+00:04:32,110 --> 00:04:33,480
+and so you can see what we're doing here.
+
+114
+00:04:33,480 --> 00:04:35,530
+We're taking these lessons
+and incorporating them
+
+115
+00:04:35,530 --> 00:04:38,960
+back into our stage plan so
+our plans get more accurate
+
+116
+00:04:38,960 --> 00:04:40,790
+and better and more efficient
+
+117
+00:04:40,790 --> 00:04:42,433
+as we move through the project.
+
+118
+00:04:43,466 --> 00:04:44,889
+(light tech buzzing)
+

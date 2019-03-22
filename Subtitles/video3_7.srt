@@ -1,0 +1,1098 @@
+1
+00:00:00,770 --> 00:00:04,350
+- Change, the next thing we're
+going to talk about is change,
+
+2
+00:00:04,350 --> 00:00:07,140
+and change is going to
+help us identify, assess,
+
+3
+00:00:07,140 --> 00:00:10,160
+and control any potential
+or approved changes
+
+4
+00:00:10,160 --> 00:00:12,260
+to our project baseline.
+
+5
+00:00:12,260 --> 00:00:14,560
+So let's talk about a
+baseline a little bit here.
+
+6
+00:00:14,560 --> 00:00:16,770
+A baseline is used only for products
+
+7
+00:00:16,770 --> 00:00:19,200
+that have been approved
+by those in authority
+
+8
+00:00:19,200 --> 00:00:21,770
+and is deemed fit for purpose.
+
+9
+00:00:21,770 --> 00:00:23,500
+It's something that is finished,
+
+10
+00:00:23,500 --> 00:00:26,210
+it's ready for the next iteration.
+
+11
+00:00:26,210 --> 00:00:28,620
+The product has been
+given a version number.
+
+12
+00:00:28,620 --> 00:00:30,350
+So if you're dealing
+with a software project,
+
+13
+00:00:30,350 --> 00:00:33,970
+we often call it version
+one, version 1.1, version 2.
+
+14
+00:00:33,970 --> 00:00:36,220
+Version 2, and we have these minor changes
+
+15
+00:00:36,220 --> 00:00:37,850
+and these major changes.
+
+16
+00:00:37,850 --> 00:00:40,140
+But any time you change the baseline
+
+17
+00:00:40,140 --> 00:00:42,990
+going from version 1.0 to the next thing
+
+18
+00:00:42,990 --> 00:00:45,280
+you have to go through the change theme
+
+19
+00:00:45,280 --> 00:00:48,000
+and the change management procedures.
+
+20
+00:00:48,000 --> 00:00:49,580
+Now when we look at a project
+
+21
+00:00:49,580 --> 00:00:51,700
+there are lots of issues that come up.
+
+22
+00:00:51,700 --> 00:00:54,350
+In fact, we just talked
+about in the risk lecture
+
+23
+00:00:54,350 --> 00:00:56,540
+all of those risks that
+can become realized
+
+24
+00:00:56,540 --> 00:00:58,770
+and turn into a project issue.
+
+25
+00:00:58,770 --> 00:01:00,200
+When you have a project issue,
+
+26
+00:01:00,200 --> 00:01:03,670
+this is an event that has
+happened and wasn't planned for.
+
+27
+00:01:03,670 --> 00:01:06,610
+This is going to require some
+sort of management action
+
+28
+00:01:06,610 --> 00:01:09,330
+to overcome it and move
+the project forward.
+
+29
+00:01:09,330 --> 00:01:11,650
+So this can be a request for change
+
+30
+00:01:11,650 --> 00:01:14,800
+where we request a change
+to the known baseline.
+
+31
+00:01:14,800 --> 00:01:18,310
+We want to go from version
+one to version 1.1.
+
+32
+00:01:18,310 --> 00:01:21,460
+Or it may be that we need
+an off-specification.
+
+33
+00:01:21,460 --> 00:01:23,890
+This is going to allow
+the product requirements
+
+34
+00:01:23,890 --> 00:01:27,360
+to be changed because we can't
+meet the ones as designed.
+
+35
+00:01:27,360 --> 00:01:30,320
+When I talked before about
+the iPhone drop example
+
+36
+00:01:30,320 --> 00:01:32,040
+if we couldn't drop it from two feet
+
+37
+00:01:32,040 --> 00:01:34,900
+we may do an off-specification
+to allow us to do it
+
+38
+00:01:34,900 --> 00:01:36,910
+as a drop from one foot.
+
+39
+00:01:36,910 --> 00:01:39,430
+Then we have problems or concerns.
+
+40
+00:01:39,430 --> 00:01:41,460
+This is the third type, this is anything
+
+41
+00:01:41,460 --> 00:01:45,600
+that's outside of an RFC
+or an off-specification.
+
+42
+00:01:45,600 --> 00:01:48,730
+Now if the project issue
+will exceed a tolerance
+
+43
+00:01:48,730 --> 00:01:51,500
+then we have to go through
+the exception report,
+
+44
+00:01:51,500 --> 00:01:53,150
+through the exception process
+
+45
+00:01:53,150 --> 00:01:55,460
+that the project manager
+is responsible for
+
+46
+00:01:55,460 --> 00:01:57,450
+to inform the project board
+
+47
+00:01:57,450 --> 00:01:59,930
+because any time you're
+going to go outside tolerance
+
+48
+00:01:59,930 --> 00:02:02,810
+the project board needs to be notified.
+
+49
+00:02:02,810 --> 00:02:05,240
+Now, the resolution of
+these project issues
+
+50
+00:02:05,240 --> 00:02:07,050
+can happen one of two ways.
+
+51
+00:02:07,050 --> 00:02:10,420
+There is a formal process
+and an informal process.
+
+52
+00:02:10,420 --> 00:02:13,500
+The formal process is going
+to require formal advice
+
+53
+00:02:13,500 --> 00:02:15,130
+from the project board.
+
+54
+00:02:15,130 --> 00:02:17,090
+So we put it in our exception report,
+
+55
+00:02:17,090 --> 00:02:19,940
+the project issue is logged
+in the issue register,
+
+56
+00:02:19,940 --> 00:02:22,410
+and an issue report is
+written by the project manager
+
+57
+00:02:22,410 --> 00:02:24,440
+and submitted to the project board.
+
+58
+00:02:24,440 --> 00:02:26,550
+They can then go through and decide
+
+59
+00:02:26,550 --> 00:02:28,100
+are we going to make a change,
+
+60
+00:02:28,100 --> 00:02:30,110
+are we going to do an off-specification,
+
+61
+00:02:30,110 --> 00:02:32,420
+or are we going to accept the way it is?
+
+62
+00:02:32,420 --> 00:02:35,420
+Now informal is the easier
+way of doing things,
+
+63
+00:02:35,420 --> 00:02:37,130
+and this is when the issue is recorded
+
+64
+00:02:37,130 --> 00:02:39,010
+inside the daily log.
+
+65
+00:02:39,010 --> 00:02:41,360
+The reason it's easier is
+because the project manager
+
+66
+00:02:41,360 --> 00:02:43,320
+can deal with it at their own level.
+
+67
+00:02:43,320 --> 00:02:44,860
+This is something they
+don't have to bring up
+
+68
+00:02:44,860 --> 00:02:47,440
+to higher management,
+they have enough funds,
+
+69
+00:02:47,440 --> 00:02:49,760
+they have enough tolerance,
+and they can deal with it
+
+70
+00:02:49,760 --> 00:02:51,950
+and solve the problem themself.
+
+71
+00:02:51,950 --> 00:02:54,220
+So when it's informal
+they're just going to note it
+
+72
+00:02:54,220 --> 00:02:57,740
+in their notebook, take care
+of the issue, and move on.
+
+73
+00:02:57,740 --> 00:03:00,930
+Now, the change control
+approach is going to depend on
+
+74
+00:03:00,930 --> 00:03:04,620
+the way you decided to set it
+up inside of your project.
+
+75
+00:03:04,620 --> 00:03:06,640
+You're documenting the
+way that the project
+
+76
+00:03:06,640 --> 00:03:09,460
+is going to manage these
+issues and changes.
+
+77
+00:03:09,460 --> 00:03:11,570
+How is that change control going to work?
+
+78
+00:03:11,570 --> 00:03:12,850
+Who is the change authority?
+
+79
+00:03:12,850 --> 00:03:15,080
+And what is this process
+going to look like?
+
+80
+00:03:15,080 --> 00:03:17,580
+You're going to have issue
+and change control procedures
+
+81
+00:03:17,580 --> 00:03:20,220
+that provide detailed steps
+that you're going to utilize
+
+82
+00:03:20,220 --> 00:03:21,650
+inside your project.
+
+83
+00:03:21,650 --> 00:03:24,150
+Now again, PRINCE2 isn't going to dictate
+
+84
+00:03:24,150 --> 00:03:26,490
+how you have to do this change process.
+
+85
+00:03:26,490 --> 00:03:28,990
+Instead, it just says you have to have
+
+86
+00:03:28,990 --> 00:03:30,650
+a change control process,
+
+87
+00:03:30,650 --> 00:03:33,100
+and that's why you need to
+make sure you document it
+
+88
+00:03:33,100 --> 00:03:34,940
+in your change control approach
+
+89
+00:03:34,940 --> 00:03:36,910
+in case you ever get audited.
+
+90
+00:03:36,910 --> 00:03:38,610
+Now, when you look at this issue
+
+91
+00:03:38,610 --> 00:03:42,760
+and change control procedures,
+there are five main steps
+
+92
+00:03:42,760 --> 00:03:44,900
+but again, you're going to
+put the detailed processes
+
+93
+00:03:44,900 --> 00:03:46,790
+in your project yourself.
+
+94
+00:03:46,790 --> 00:03:50,490
+You have to capture,
+examine, propose, decide,
+
+95
+00:03:50,490 --> 00:03:52,750
+and implement those changes.
+
+96
+00:03:52,750 --> 00:03:54,910
+Now when you want to capture the change,
+
+97
+00:03:54,910 --> 00:03:56,690
+this is where you're
+going to record the issue
+
+98
+00:03:56,690 --> 00:03:58,650
+in either your daily
+log if you're doing it
+
+99
+00:03:58,650 --> 00:04:00,640
+informally as a project manager,
+
+100
+00:04:00,640 --> 00:04:04,180
+or formally inside the issue register.
+
+101
+00:04:04,180 --> 00:04:06,420
+Next, you're going to examine that change.
+
+102
+00:04:06,420 --> 00:04:08,460
+You're going to perform an impact analysis
+
+103
+00:04:08,460 --> 00:04:11,420
+to determine the impact on your cost,
+
+104
+00:04:11,420 --> 00:04:14,350
+your time, your quality, your scope,
+
+105
+00:04:14,350 --> 00:04:16,320
+your benefits, and your risk.
+
+106
+00:04:16,320 --> 00:04:18,840
+All of these factors are
+things you need to consider
+
+107
+00:04:18,840 --> 00:04:20,370
+because every time you make a change,
+
+108
+00:04:20,370 --> 00:04:21,740
+it's going to affect this.
+
+109
+00:04:21,740 --> 00:04:23,250
+It may take more time
+
+110
+00:04:23,250 --> 00:04:26,020
+or it's going to take more
+money to take less time,
+
+111
+00:04:26,020 --> 00:04:28,460
+or you're going to drop
+quality to save some money.
+
+112
+00:04:28,460 --> 00:04:30,580
+All of these are levers
+that have to be moved
+
+113
+00:04:30,580 --> 00:04:32,270
+in order to make sure your project
+
+114
+00:04:32,270 --> 00:04:35,120
+gets to its angle on the
+right time, the right budget,
+
+115
+00:04:35,120 --> 00:04:38,040
+the right schedule, to
+be deemed successful.
+
+116
+00:04:38,040 --> 00:04:40,420
+The third step is to propose the change
+
+117
+00:04:40,420 --> 00:04:41,940
+and this is where you're
+going to consider your
+
+118
+00:04:41,940 --> 00:04:45,550
+alternative options for
+responding to the project issue.
+
+119
+00:04:45,550 --> 00:04:49,050
+There are always more than
+one way to solve a problem.
+
+120
+00:04:49,050 --> 00:04:51,060
+You may have an issue, for example,
+
+121
+00:04:51,060 --> 00:04:52,660
+in building out a network.
+
+122
+00:04:52,660 --> 00:04:54,890
+Maybe your routers didn't arrive on time.
+
+123
+00:04:54,890 --> 00:04:57,040
+Well how are you going
+to get back on schedule?
+
+124
+00:04:57,040 --> 00:04:58,700
+Well, maybe you're going
+to spend more money
+
+125
+00:04:58,700 --> 00:05:01,530
+to expedite the shipping
+and get it here faster.
+
+126
+00:05:01,530 --> 00:05:03,840
+Or maybe you're going to
+choose a different vendor.
+
+127
+00:05:03,840 --> 00:05:06,200
+Or maybe you're going to let
+the schedule slip by a week
+
+128
+00:05:06,200 --> 00:05:07,790
+and you're going to
+deliver it a week late.
+
+129
+00:05:07,790 --> 00:05:09,700
+These are all things you can decide,
+
+130
+00:05:09,700 --> 00:05:11,940
+but again you have to
+propose the way ahead
+
+131
+00:05:11,940 --> 00:05:14,660
+and what are your courses
+of action going to be?
+
+132
+00:05:14,660 --> 00:05:16,530
+Then next you have to decide.
+
+133
+00:05:16,530 --> 00:05:18,460
+You're going to determine the best option
+
+134
+00:05:18,460 --> 00:05:20,870
+for the best overall value for the money.
+
+135
+00:05:20,870 --> 00:05:22,810
+Now remember, overall value for the money
+
+136
+00:05:22,810 --> 00:05:24,750
+does not mean cheapest.
+
+137
+00:05:24,750 --> 00:05:27,930
+You may accept a higher
+price for higher quality,
+
+138
+00:05:27,930 --> 00:05:30,840
+or a higher price for a shorter time.
+
+139
+00:05:30,840 --> 00:05:32,790
+That is totally acceptable.
+
+140
+00:05:32,790 --> 00:05:35,160
+It depends on what your
+goal of your product
+
+141
+00:05:35,160 --> 00:05:36,950
+and your project is.
+
+142
+00:05:36,950 --> 00:05:39,440
+And finally you have to
+implement that change.
+
+143
+00:05:39,440 --> 00:05:41,100
+Now that you've decided what to do,
+
+144
+00:05:41,100 --> 00:05:43,730
+you need to perform the
+recommended course of action
+
+145
+00:05:43,730 --> 00:05:46,310
+or option to solve your issue.
+
+146
+00:05:46,310 --> 00:05:48,460
+That gets you past this change issue
+
+147
+00:05:48,460 --> 00:05:50,490
+to move on to the future.
+
+148
+00:05:50,490 --> 00:05:52,480
+Now, how do you approve changes?
+
+149
+00:05:52,480 --> 00:05:56,200
+Well, approval for changes
+come from the change authority.
+
+150
+00:05:56,200 --> 00:05:58,290
+If you remember back in
+our organization theme,
+
+151
+00:05:58,290 --> 00:05:59,870
+I showed you the different diagrams,
+
+152
+00:05:59,870 --> 00:06:02,820
+the change authority was
+shown off to the side.
+
+153
+00:06:02,820 --> 00:06:05,010
+Now they are the ones
+who are going to review
+
+154
+00:06:05,010 --> 00:06:07,450
+and they're going to approve
+your request for change
+
+155
+00:06:07,450 --> 00:06:09,330
+or your off-specifications.
+
+156
+00:06:09,330 --> 00:06:12,630
+This can be performed by the
+project board by default,
+
+157
+00:06:12,630 --> 00:06:14,500
+but in larger projects
+they're actually going to
+
+158
+00:06:14,500 --> 00:06:17,170
+delegate that down to somebody else
+
+159
+00:06:17,170 --> 00:06:19,830
+who is going to work outside
+of the project manager
+
+160
+00:06:19,830 --> 00:06:22,250
+to be that change control process.
+
+161
+00:06:22,250 --> 00:06:24,810
+Now inside of that person,
+that change authority,
+
+162
+00:06:24,810 --> 00:06:28,880
+that role, there is a change
+budget allocated to them.
+
+163
+00:06:28,880 --> 00:06:31,150
+Just like we had a risk
+budget to deal with
+
+164
+00:06:31,150 --> 00:06:34,200
+those risk mitigations,
+we have a change budget
+
+165
+00:06:34,200 --> 00:06:36,280
+which is a special budget that's set aside
+
+166
+00:06:36,280 --> 00:06:38,840
+to fund any approved changes.
+
+167
+00:06:38,840 --> 00:06:40,420
+Now here's where you have to be careful
+
+168
+00:06:40,420 --> 00:06:43,370
+as a project manager,
+because often people try to
+
+169
+00:06:43,370 --> 00:06:45,950
+steal from the risk budget for a change,
+
+170
+00:06:45,950 --> 00:06:49,017
+or they try to steal from
+the change budget for a risk.
+
+171
+00:06:49,017 --> 00:06:51,260
+So you want to make
+sure you're being honest
+
+172
+00:06:51,260 --> 00:06:53,470
+when you're choosing which pile of money
+
+173
+00:06:53,470 --> 00:06:55,960
+that you're going to be using,
+depending on if it really is
+
+174
+00:06:55,960 --> 00:06:59,750
+a risk mitigation, or if it's
+a change to the baseline.
+
+175
+00:06:59,750 --> 00:07:02,540
+Now all of this kind of
+comes together inside of
+
+176
+00:07:02,540 --> 00:07:05,090
+what we call configuration management.
+
+177
+00:07:05,090 --> 00:07:07,560
+This is where your project
+needs to be able to identify
+
+178
+00:07:07,560 --> 00:07:11,270
+different versions of the
+product or products that it has.
+
+179
+00:07:11,270 --> 00:07:13,510
+This is really easy inside of software
+
+180
+00:07:13,510 --> 00:07:16,150
+because we're used to
+using versioning control.
+
+181
+00:07:16,150 --> 00:07:18,020
+So we have version one of the software,
+
+182
+00:07:18,020 --> 00:07:19,553
+version 1.1, version 1.2.
+
+183
+00:07:20,468 --> 00:07:21,600
+But if you're doing something like
+
+184
+00:07:21,600 --> 00:07:23,320
+building an apartment building,
+
+185
+00:07:23,320 --> 00:07:27,080
+people don't often version
+control their projects that way
+
+186
+00:07:27,080 --> 00:07:29,490
+but they should according to PRINCE2.
+
+187
+00:07:29,490 --> 00:07:31,200
+So once you get to that approved baseline,
+
+188
+00:07:31,200 --> 00:07:32,360
+that's the way it was built,
+
+189
+00:07:32,360 --> 00:07:34,000
+that's what we call the as-built,
+
+190
+00:07:34,000 --> 00:07:36,270
+and anything after that becomes a change
+
+191
+00:07:36,270 --> 00:07:38,600
+that must go through
+configuration management.
+
+192
+00:07:38,600 --> 00:07:41,350
+If I wanted to move the
+wall from here to there
+
+193
+00:07:41,350 --> 00:07:43,600
+that should go through a change process.
+
+194
+00:07:43,600 --> 00:07:47,300
+Now the configuration
+item record is a document
+
+195
+00:07:47,300 --> 00:07:49,340
+that is is going to record
+the status and version
+
+196
+00:07:49,340 --> 00:07:50,630
+of a given product.
+
+197
+00:07:50,630 --> 00:07:53,780
+This can be a paper item
+like in a card catalog
+
+198
+00:07:53,780 --> 00:07:55,980
+or it can be in an electronic database.
+
+199
+00:07:55,980 --> 00:07:58,340
+Now another part of your
+configuration management
+
+200
+00:07:58,340 --> 00:08:01,440
+is something called the
+product status account.
+
+201
+00:08:01,440 --> 00:08:03,580
+This is a report that
+contains the status of
+
+202
+00:08:03,580 --> 00:08:05,570
+one or more products.
+
+203
+00:08:05,570 --> 00:08:08,400
+So again, if I'm dealing
+with a big piece of software,
+
+204
+00:08:08,400 --> 00:08:10,670
+I may have five or 10 different functions
+
+205
+00:08:10,670 --> 00:08:12,990
+that are being built
+separately as products.
+
+206
+00:08:12,990 --> 00:08:15,620
+So each of those, I need
+to know the status of it.
+
+207
+00:08:15,620 --> 00:08:19,350
+Has it been approved or is
+it still being worked on?
+
+208
+00:08:19,350 --> 00:08:21,210
+This is useful for the product manager
+
+209
+00:08:21,210 --> 00:08:23,410
+to determine if the product was approved
+
+210
+00:08:23,410 --> 00:08:26,200
+and has a baseline version,
+or if it's still undergoing
+
+211
+00:08:26,200 --> 00:08:28,270
+its quality control or development.
+
+212
+00:08:28,270 --> 00:08:31,030
+The product status account
+is that master list
+
+213
+00:08:31,030 --> 00:08:33,910
+that lets me know where every
+piece of this puzzle is,
+
+214
+00:08:33,910 --> 00:08:36,050
+and what the status is of it.
+
+215
+00:08:36,050 --> 00:08:38,980
+Now, when we get to PRINCE2
+minimum requirements for change
+
+216
+00:08:38,980 --> 00:08:41,550
+there are four main ones
+we have to consider.
+
+217
+00:08:41,550 --> 00:08:45,100
+First, we have to define
+a change control approach
+
+218
+00:08:45,100 --> 00:08:48,540
+to describe our issue and
+change control procedures used.
+
+219
+00:08:48,540 --> 00:08:51,660
+Again, PRINCE2 doesn't
+care how you do issue
+
+220
+00:08:51,660 --> 00:08:55,610
+and change control, but the
+fact is you have to do it.
+
+221
+00:08:55,610 --> 00:08:58,310
+Next, we want to maintain
+an issue register
+
+222
+00:08:58,310 --> 00:09:02,190
+for formal changes, or a daily
+log for our informal changes
+
+223
+00:09:02,190 --> 00:09:04,750
+to record and manage all
+of our project issues
+
+224
+00:09:04,750 --> 00:09:07,000
+that happen along the way.
+
+225
+00:09:07,000 --> 00:09:09,950
+Then we want to define our
+roles and responsibilities
+
+226
+00:09:09,950 --> 00:09:11,870
+for change management because again,
+
+227
+00:09:11,870 --> 00:09:15,140
+if you don't have well-defined
+roles and responsibilities
+
+228
+00:09:15,140 --> 00:09:17,030
+like who is the change authority?
+
+229
+00:09:17,030 --> 00:09:19,850
+Who can approve use of the change budget?
+
+230
+00:09:19,850 --> 00:09:21,610
+Those are things that need to be defined.
+
+231
+00:09:21,610 --> 00:09:24,110
+If you don't have that,
+you're going to falter.
+
+232
+00:09:24,110 --> 00:09:26,470
+Then we also want to look
+at our lessons learned
+
+233
+00:09:26,470 --> 00:09:29,010
+from past experiences so we can apply them
+
+234
+00:09:29,010 --> 00:09:31,480
+into our change decisions moving forward.
+
+235
+00:09:31,480 --> 00:09:33,360
+Because maybe the last time we did this
+
+236
+00:09:33,360 --> 00:09:35,940
+we decided that our change
+was to spend more money
+
+237
+00:09:35,940 --> 00:09:39,100
+to expedite shipping, but
+that made us go over budget
+
+238
+00:09:39,100 --> 00:09:41,430
+and we weren't successful
+in the project anyway,
+
+239
+00:09:41,430 --> 00:09:43,110
+and we fell behind on time schedule.
+
+240
+00:09:43,110 --> 00:09:45,880
+So maybe we want to take a
+different route this time.
+
+241
+00:09:45,880 --> 00:09:47,520
+Those are the type of things you can learn
+
+242
+00:09:47,520 --> 00:09:49,933
+from lessons learned
+and previous experience.
+
+243
+00:09:50,782 --> 00:09:52,814
+(quick electronic music)
+

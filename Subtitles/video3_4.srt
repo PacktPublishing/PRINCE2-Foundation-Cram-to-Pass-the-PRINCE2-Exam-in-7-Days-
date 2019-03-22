@@ -1,0 +1,1217 @@
+1
+00:00:00,750 --> 00:00:04,310
+- Quality. Our third theme is Quality.
+
+2
+00:00:04,310 --> 00:00:06,660
+When we talk about quality,
+this about defining
+
+3
+00:00:06,660 --> 00:00:09,500
+and implementing the
+mechanisms in the project
+
+4
+00:00:09,500 --> 00:00:13,200
+to determine if your products
+going to be fit for purpose,
+
+5
+00:00:13,200 --> 00:00:14,860
+and be able to provide those benefits
+
+6
+00:00:14,860 --> 00:00:17,090
+that the customer is expecting.
+
+7
+00:00:17,090 --> 00:00:19,260
+This asks the question does the product
+
+8
+00:00:19,260 --> 00:00:21,440
+meet the agreed upon requirements?
+
+9
+00:00:21,440 --> 00:00:22,550
+Because if it doesn't,
+
+10
+00:00:22,550 --> 00:00:26,020
+you're not meeting the
+quality your customer expects.
+
+11
+00:00:26,020 --> 00:00:29,670
+Now to do that we come up
+with acceptance criteria.
+
+12
+00:00:29,670 --> 00:00:32,300
+Acceptance criteria is
+the measurable definitions
+
+13
+00:00:32,300 --> 00:00:34,210
+of attributes of a set of products
+
+14
+00:00:34,210 --> 00:00:37,200
+that makes them acceptable
+to the key stakeholders.
+
+15
+00:00:37,200 --> 00:00:39,750
+Now that's a lot of legalese type jargon,
+
+16
+00:00:39,750 --> 00:00:42,180
+that really says if you told the customer
+
+17
+00:00:42,180 --> 00:00:43,470
+you were going to deliver something
+
+18
+00:00:43,470 --> 00:00:46,350
+that went from zero to 60 in three seconds
+
+19
+00:00:46,350 --> 00:00:48,180
+and you brought them
+something that went zero to 60
+
+20
+00:00:48,180 --> 00:00:51,870
+in five seconds, that didn't
+meet the acceptance criteria.
+
+21
+00:00:51,870 --> 00:00:54,000
+So you have to meet what you promise them.
+
+22
+00:00:54,000 --> 00:00:57,830
+This is agreed upon before
+the project ever begins,
+
+23
+00:00:57,830 --> 00:01:00,600
+that way everyone knows
+what is expected of them
+
+24
+00:01:00,600 --> 00:01:03,540
+and what the outcome of
+this project is going to be.
+
+25
+00:01:03,540 --> 00:01:06,270
+Most customer requirements
+though are pretty vague,
+
+26
+00:01:06,270 --> 00:01:07,620
+and so you need to work with them
+
+27
+00:01:07,620 --> 00:01:10,720
+to make sure that you develop
+good acceptance criteria.
+
+28
+00:01:10,720 --> 00:01:13,457
+When I used to build websites
+I used to hear all the time
+
+29
+00:01:13,457 --> 00:01:16,060
+"I want things, I want it
+faster, I want it cheaper,
+
+30
+00:01:16,060 --> 00:01:17,760
+I want it more user friendly."
+
+31
+00:01:17,760 --> 00:01:19,220
+What does that really mean?
+
+32
+00:01:19,220 --> 00:01:21,620
+So when they want something
+that says "I want it faster,"
+
+33
+00:01:21,620 --> 00:01:24,020
+I would say "Okay, we want
+to make sure your load time
+
+34
+00:01:24,020 --> 00:01:26,150
+is less than two seconds."
+
+35
+00:01:26,150 --> 00:01:28,420
+I want it cheaper. Okay,
+it's currently costing you
+
+36
+00:01:28,420 --> 00:01:29,940
+a hundred thousand dollars a year,
+
+37
+00:01:29,940 --> 00:01:30,870
+we're going to build you something
+
+38
+00:01:30,870 --> 00:01:33,550
+that's only going to
+cost you $80,000 a year.
+
+39
+00:01:33,550 --> 00:01:36,214
+And if we can meet those
+metrics, they're measurable,
+
+40
+00:01:36,214 --> 00:01:38,640
+it takes all the guesswork out of it,
+
+41
+00:01:38,640 --> 00:01:40,500
+and the acceptance goes much easier
+
+42
+00:01:40,500 --> 00:01:42,160
+at the end of the project.
+
+43
+00:01:42,160 --> 00:01:44,640
+You want to make sure you
+document this acceptance criteria
+
+44
+00:01:44,640 --> 00:01:47,180
+in your high-level requirements documents.
+
+45
+00:01:47,180 --> 00:01:49,440
+So everyone, before the
+project is initiated,
+
+46
+00:01:49,440 --> 00:01:52,830
+signs off on it and knows
+what they're agreeing to.
+
+47
+00:01:52,830 --> 00:01:55,380
+You want to describe
+this in measurable terms,
+
+48
+00:01:55,380 --> 00:01:57,490
+and so know what the
+product can be delivering,
+
+49
+00:01:57,490 --> 00:02:00,350
+and make sure that at the
+end we can meet those things.
+
+50
+00:02:00,350 --> 00:02:02,410
+Because if at any time
+we think we can't meet
+
+51
+00:02:02,410 --> 00:02:05,940
+that end acceptance criteria,
+the project could be canceled.
+
+52
+00:02:05,940 --> 00:02:08,100
+Which is okay, sometimes it's a good idea
+
+53
+00:02:08,100 --> 00:02:10,470
+to cancel a project and
+start it again later,
+
+54
+00:02:10,470 --> 00:02:12,910
+or just pivot to a different direction.
+
+55
+00:02:12,910 --> 00:02:15,040
+Now when we're talking
+about the Quality Theme,
+
+56
+00:02:15,040 --> 00:02:17,360
+you've got to consider what is going to be
+
+57
+00:02:17,360 --> 00:02:19,530
+your Quality Management Approach.
+
+58
+00:02:19,530 --> 00:02:21,520
+Your Quality Management
+Approach is going to help you
+
+59
+00:02:21,520 --> 00:02:24,230
+to document the method of quality control
+
+60
+00:02:24,230 --> 00:02:26,720
+that you're going to
+use inside your project.
+
+61
+00:02:26,720 --> 00:02:28,920
+The Project Manager is
+ultimately responsible
+
+62
+00:02:28,920 --> 00:02:30,380
+for quality planning,
+
+63
+00:02:30,380 --> 00:02:34,000
+and he's document this
+inside the Quality Register.
+
+64
+00:02:34,000 --> 00:02:36,450
+All along the way he's going
+to be doing quality checks
+
+65
+00:02:36,450 --> 00:02:38,580
+to make sure the project is on track
+
+66
+00:02:38,580 --> 00:02:40,740
+and meeting the things it's supposed to.
+
+67
+00:02:40,740 --> 00:02:42,280
+Now the organization is going to have
+
+68
+00:02:42,280 --> 00:02:44,770
+a Quality Management System that contains
+
+69
+00:02:44,770 --> 00:02:47,980
+your quality policies,
+procedures, and standards
+
+70
+00:02:47,980 --> 00:02:50,680
+expected within your organization.
+
+71
+00:02:50,680 --> 00:02:54,000
+And that's going to apply
+across all projects.
+
+72
+00:02:54,000 --> 00:02:56,520
+Quality Assurance is
+an organizational role.
+
+73
+00:02:56,520 --> 00:02:59,100
+It's somebody outside of your project.
+
+74
+00:02:59,100 --> 00:03:00,950
+And they are going to be
+looking at your project
+
+75
+00:03:00,950 --> 00:03:02,840
+and everyone else's projects
+
+76
+00:03:02,840 --> 00:03:04,630
+to make sure that they are following
+
+77
+00:03:04,630 --> 00:03:06,470
+the Quality Management System.
+
+78
+00:03:06,470 --> 00:03:08,640
+They're going to make sure
+those projects are in compliance
+
+79
+00:03:08,640 --> 00:03:12,200
+with the organizational policies,
+procedures, and processes
+
+80
+00:03:12,200 --> 00:03:15,350
+to make sure that it
+can pass quality audits.
+
+81
+00:03:15,350 --> 00:03:17,060
+So when we look at Quality Assurance,
+
+82
+00:03:17,060 --> 00:03:19,610
+it sounds a whole lot like
+the Project Assurance role
+
+83
+00:03:19,610 --> 00:03:21,840
+we talked about in the
+Organizational Theme,
+
+84
+00:03:21,840 --> 00:03:24,570
+but it's not, they are
+two separate things.
+
+85
+00:03:24,570 --> 00:03:27,390
+Quality Assurance role is
+external to your project,
+
+86
+00:03:27,390 --> 00:03:29,620
+it's somebody in the organization
+
+87
+00:03:29,620 --> 00:03:32,560
+not inside your Project
+Board or Project Team.
+
+88
+00:03:32,560 --> 00:03:35,270
+Their main function is to
+assure corporate management
+
+89
+00:03:35,270 --> 00:03:38,440
+or the program level board
+that your project is complying
+
+90
+00:03:38,440 --> 00:03:41,720
+with corporate standards,
+policies, and procedures.
+
+91
+00:03:41,720 --> 00:03:43,950
+The Project Assurance role,
+the one we talked about
+
+92
+00:03:43,950 --> 00:03:46,550
+in the last lesson in
+Organizational Theme,
+
+93
+00:03:46,550 --> 00:03:48,430
+is internal to your project.
+
+94
+00:03:48,430 --> 00:03:51,340
+It's somebody that's
+assuring the Project Board,
+
+95
+00:03:51,340 --> 00:03:54,940
+that senior user, senior
+supplier, and the executive,
+
+96
+00:03:54,940 --> 00:03:57,690
+that your project is
+being conducted properly.
+
+97
+00:03:57,690 --> 00:03:59,980
+So you can see this
+internal versus external.
+
+98
+00:03:59,980 --> 00:04:02,360
+Again, lots of checks and balances
+
+99
+00:04:02,360 --> 00:04:03,850
+throughout this project management,
+
+100
+00:04:03,850 --> 00:04:05,610
+because we're talking about large projects
+
+101
+00:04:05,610 --> 00:04:07,230
+that cost lots of money.
+
+102
+00:04:07,230 --> 00:04:08,480
+We want to make sure
+that if we're spending
+
+103
+00:04:08,480 --> 00:04:10,150
+a million dollars on our project,
+
+104
+00:04:10,150 --> 00:04:11,260
+it's going the way we want
+
+105
+00:04:11,260 --> 00:04:12,780
+and it's providing the right quality
+
+106
+00:04:12,780 --> 00:04:15,030
+that our organization expects.
+
+107
+00:04:15,030 --> 00:04:16,520
+Now when we look at Quality Assurance
+
+108
+00:04:16,520 --> 00:04:19,490
+we also look at what's
+called Quality Control.
+
+109
+00:04:19,490 --> 00:04:21,430
+Quality Assurance is focused on how
+
+110
+00:04:21,430 --> 00:04:25,340
+the processes actually
+work, not the end product.
+
+111
+00:04:25,340 --> 00:04:28,430
+Quality Control is more
+focused on the end product.
+
+112
+00:04:28,430 --> 00:04:30,610
+They want to verify that
+the product you build
+
+113
+00:04:30,610 --> 00:04:32,170
+is fit for purpose.
+
+114
+00:04:32,170 --> 00:04:34,000
+So if I'm building a car,
+
+115
+00:04:34,000 --> 00:04:36,970
+Quality Assurance says my
+procedures to build the car
+
+116
+00:04:36,970 --> 00:04:39,490
+are of high quality, they're working well.
+
+117
+00:04:39,490 --> 00:04:41,830
+Quality Control says
+that the air conditioning
+
+118
+00:04:41,830 --> 00:04:45,260
+actually works, the radio
+turns on, the car starts up,
+
+119
+00:04:45,260 --> 00:04:47,010
+and that the tires aren't flat.
+
+120
+00:04:47,010 --> 00:04:48,620
+You can see the difference there.
+
+121
+00:04:48,620 --> 00:04:51,020
+Now Quality Control is
+also going to maintain
+
+122
+00:04:51,020 --> 00:04:53,200
+your quality and assurance records,
+
+123
+00:04:53,200 --> 00:04:54,360
+and they're going to help you gain
+
+124
+00:04:54,360 --> 00:04:55,730
+the acceptance of your product
+
+125
+00:04:55,730 --> 00:04:58,220
+at the end, by the end customer.
+
+126
+00:04:58,220 --> 00:05:01,150
+Because again, if the thing
+is not fit for purpose,
+
+127
+00:05:01,150 --> 00:05:03,420
+your customer doesn't want to accept it,
+
+128
+00:05:03,420 --> 00:05:05,410
+and then you're stuck holding the bag.
+
+129
+00:05:05,410 --> 00:05:07,550
+So you got to make sure you
+work through these things
+
+130
+00:05:07,550 --> 00:05:09,203
+and keep your quality high.
+
+131
+00:05:10,070 --> 00:05:13,760
+Now your Quality Records are
+going to be these documentation
+
+132
+00:05:13,760 --> 00:05:15,520
+of your quality tests.
+
+133
+00:05:15,520 --> 00:05:17,010
+They're going to contain all the details
+
+134
+00:05:17,010 --> 00:05:19,150
+of the results of these quality tests.
+
+135
+00:05:19,150 --> 00:05:21,360
+Your product is judged
+based on its ability
+
+136
+00:05:21,360 --> 00:05:24,900
+to be fit for purpose, based
+on these quality tests.
+
+137
+00:05:24,900 --> 00:05:26,630
+Now how many tests do you need?
+
+138
+00:05:26,630 --> 00:05:28,970
+Well, that's up to your project manager.
+
+139
+00:05:28,970 --> 00:05:32,130
+They are going to build that
+into their quality plan,
+
+140
+00:05:32,130 --> 00:05:34,540
+and based on this fit for purpose testing
+
+141
+00:05:34,540 --> 00:05:36,770
+the product is then going
+to get approved or not,
+
+142
+00:05:36,770 --> 00:05:39,610
+and if it is an approval
+record will be created.
+
+143
+00:05:39,610 --> 00:05:41,450
+Now what is an approval record?
+
+144
+00:05:41,450 --> 00:05:44,300
+Well it's just a formal
+or informal document
+
+145
+00:05:44,300 --> 00:05:48,290
+saying that this product met
+the level of quality required.
+
+146
+00:05:48,290 --> 00:05:50,520
+That may take the form
+of a printed document
+
+147
+00:05:50,520 --> 00:05:53,890
+with formal signatures or
+it could just be an email
+
+148
+00:05:53,890 --> 00:05:56,610
+from one boss to another
+saying we accept it,
+
+149
+00:05:56,610 --> 00:05:58,610
+we take ownership now, we agree that
+
+150
+00:05:58,610 --> 00:06:00,420
+it passes the quality test.
+
+151
+00:06:00,420 --> 00:06:02,490
+So this really depends
+on your organization
+
+152
+00:06:02,490 --> 00:06:04,040
+and the level of project.
+
+153
+00:06:04,040 --> 00:06:06,440
+Smaller projects will have informal,
+
+154
+00:06:06,440 --> 00:06:08,690
+larger projects will have formal.
+
+155
+00:06:08,690 --> 00:06:09,790
+That just depends on the way
+
+156
+00:06:09,790 --> 00:06:11,890
+your organization sets it up though.
+
+157
+00:06:11,890 --> 00:06:13,850
+Next we have the baseline.
+
+158
+00:06:13,850 --> 00:06:15,380
+And once you approve a product,
+
+159
+00:06:15,380 --> 00:06:20,380
+it becomes your baseline,
+effectively version 1.0.
+
+160
+00:06:20,850 --> 00:06:24,300
+Now at this point, once
+we've created version 1.0,
+
+161
+00:06:24,300 --> 00:06:26,180
+everything else becomes a change
+
+162
+00:06:26,180 --> 00:06:28,800
+that has to go through the
+change management process,
+
+163
+00:06:28,800 --> 00:06:31,670
+and it's going to go through
+change control and versioning.
+
+164
+00:06:31,670 --> 00:06:33,700
+Users will submit what's called an RFC,
+
+165
+00:06:33,700 --> 00:06:37,330
+or a Request for Change, and
+that way it can get approved
+
+166
+00:06:37,330 --> 00:06:38,570
+and funding can be applied
+
+167
+00:06:38,570 --> 00:06:40,950
+to make any changes or alterations.
+
+168
+00:06:40,950 --> 00:06:43,670
+Again, very common in the software world,
+
+169
+00:06:43,670 --> 00:06:46,410
+you may think it's not as
+common in the physical world,
+
+170
+00:06:46,410 --> 00:06:47,600
+but it really is.
+
+171
+00:06:47,600 --> 00:06:49,820
+You look at a car, there's a version one,
+
+172
+00:06:49,820 --> 00:06:51,730
+and there may be a version 1.1
+
+173
+00:06:51,730 --> 00:06:54,790
+because they found out that
+an airbag wasn't quite right
+
+174
+00:06:54,790 --> 00:06:55,930
+and they wanted to change those out
+
+175
+00:06:55,930 --> 00:06:57,250
+with a different product.
+
+176
+00:06:57,250 --> 00:06:59,840
+Or if you have a house,
+they build the whole house
+
+177
+00:06:59,840 --> 00:07:02,410
+and go you know what I think that pantry
+
+178
+00:07:02,410 --> 00:07:04,150
+could've been three feet bigger,
+
+179
+00:07:04,150 --> 00:07:06,850
+and they can tear down a wall
+and move the wall three feet,
+
+180
+00:07:06,850 --> 00:07:08,420
+and now you've got a bigger pantry.
+
+181
+00:07:08,420 --> 00:07:10,990
+You're now at version 1.1 of your house.
+
+182
+00:07:10,990 --> 00:07:13,730
+That's the idea, it's any
+changes to these baselines
+
+183
+00:07:13,730 --> 00:07:16,570
+for this product once
+it has been approved.
+
+184
+00:07:16,570 --> 00:07:18,220
+Now we talked about what happens
+
+185
+00:07:18,220 --> 00:07:21,030
+when quality is approved
+and you pass your test,
+
+186
+00:07:21,030 --> 00:07:23,200
+but what if you fail your test?
+
+187
+00:07:23,200 --> 00:07:26,120
+What if your product is not
+considered fit for purpose?
+
+188
+00:07:26,120 --> 00:07:29,750
+Well then the supplier has to
+continue to build the product
+
+189
+00:07:29,750 --> 00:07:33,050
+until they can meet the
+level of quality required.
+
+190
+00:07:33,050 --> 00:07:34,700
+The product is not going to be accepted
+
+191
+00:07:34,700 --> 00:07:36,600
+until it meets that level of quality
+
+192
+00:07:36,600 --> 00:07:39,500
+that was agreed upon all the
+way back at the beginning
+
+193
+00:07:39,500 --> 00:07:41,740
+based on our acceptance criteria.
+
+194
+00:07:41,740 --> 00:07:43,980
+Now what do you do if you can't reach
+
+195
+00:07:43,980 --> 00:07:45,930
+that level of quality that's needed?
+
+196
+00:07:45,930 --> 00:07:48,810
+Maybe we agreed that our iPhone
+should be able to be dropped
+
+197
+00:07:48,810 --> 00:07:51,440
+from a two foot distance from the floor
+
+198
+00:07:51,440 --> 00:07:53,280
+without cracking the screen.
+
+199
+00:07:53,280 --> 00:07:54,830
+And we go to do our test and we find
+
+200
+00:07:54,830 --> 00:07:56,600
+that we just can't make that happen.
+
+201
+00:07:56,600 --> 00:07:59,220
+We would need new glass,
+or a new technology
+
+202
+00:07:59,220 --> 00:08:00,840
+that just doesn't exist yet.
+
+203
+00:08:00,840 --> 00:08:02,850
+Well, we can go back to the project board
+
+204
+00:08:02,850 --> 00:08:05,240
+and say we can't meet the requirements.
+
+205
+00:08:05,240 --> 00:08:07,220
+Either we need you to
+change the requirements,
+
+206
+00:08:07,220 --> 00:08:09,640
+and change it from two feet to one feet,
+
+207
+00:08:09,640 --> 00:08:11,820
+or we are going to have
+to stop the project
+
+208
+00:08:11,820 --> 00:08:13,460
+'cause we're just never
+going to get there.
+
+209
+00:08:13,460 --> 00:08:16,110
+And that will be a determination
+that the project board
+
+210
+00:08:16,110 --> 00:08:18,990
+and program management or
+corporate management can make.
+
+211
+00:08:18,990 --> 00:08:21,700
+They can make the
+requirements less stringent,
+
+212
+00:08:21,700 --> 00:08:23,930
+making it go from two feet to one feet,
+
+213
+00:08:23,930 --> 00:08:25,530
+or they can give you more money
+
+214
+00:08:25,530 --> 00:08:27,610
+and say "What if I give you
+another million dollars,
+
+215
+00:08:27,610 --> 00:08:29,560
+can you make the technology then?"
+
+216
+00:08:29,560 --> 00:08:30,760
+Maybe you could.
+
+217
+00:08:30,760 --> 00:08:32,670
+Or they could say "You
+know what, if you can't
+
+218
+00:08:32,670 --> 00:08:35,150
+meet two feet, forget it,
+the whole project's off."
+
+219
+00:08:35,150 --> 00:08:37,140
+And they will terminate the project early.
+
+220
+00:08:37,140 --> 00:08:38,630
+Those are your three options.
+
+221
+00:08:38,630 --> 00:08:40,890
+You either throw more
+money at the problem,
+
+222
+00:08:40,890 --> 00:08:43,390
+you make it less of a specification,
+
+223
+00:08:43,390 --> 00:08:45,623
+or you just stop the project completely.
+
+224
+00:08:46,690 --> 00:08:48,660
+Now all of these things
+have to be documented.
+
+225
+00:08:48,660 --> 00:08:50,780
+And when you pass an acceptance test,
+
+226
+00:08:50,780 --> 00:08:53,640
+you're going to put that
+into an acceptance record.
+
+227
+00:08:53,640 --> 00:08:55,690
+That record is the formal acceptance
+
+228
+00:08:55,690 --> 00:08:58,380
+of the final product by
+different stakeholders.
+
+229
+00:08:58,380 --> 00:09:01,150
+This will be formal, it
+will be in the project
+
+230
+00:09:01,150 --> 00:09:03,650
+as we go through all of
+the acceptance criteria
+
+231
+00:09:03,650 --> 00:09:05,630
+and verify that we've met them.
+
+232
+00:09:05,630 --> 00:09:08,040
+All of your acceptance
+methods should be determined
+
+233
+00:09:08,040 --> 00:09:10,120
+before your project begins,
+
+234
+00:09:10,120 --> 00:09:12,540
+so we all know what the
+finish line looks like,
+
+235
+00:09:12,540 --> 00:09:16,370
+and it's documented inside your
+Quality Management Approach.
+
+236
+00:09:16,370 --> 00:09:18,690
+Now, as far as PRINCE2 is concerned,
+
+237
+00:09:18,690 --> 00:09:20,910
+there are a couple of
+things you have to do
+
+238
+00:09:20,910 --> 00:09:24,660
+at a minimum to be able to
+check off your Quality Theme.
+
+239
+00:09:24,660 --> 00:09:26,190
+So the first thing you have to do
+
+240
+00:09:26,190 --> 00:09:28,427
+is define your Quality
+Management Approach,
+
+241
+00:09:28,427 --> 00:09:30,510
+and that's going to cover
+your quality control
+
+242
+00:09:30,510 --> 00:09:32,120
+and your project assurance.
+
+243
+00:09:32,120 --> 00:09:34,640
+Remember, quality control
+and project assurance
+
+244
+00:09:34,640 --> 00:09:36,980
+happen inside the project.
+
+245
+00:09:36,980 --> 00:09:40,940
+Quality assurance happens
+outside the project.
+
+246
+00:09:40,940 --> 00:09:42,580
+You also need to make sure you define
+
+247
+00:09:42,580 --> 00:09:44,650
+your roles and responsibilities,
+
+248
+00:09:44,650 --> 00:09:47,160
+like who is doing your project assurance,
+
+249
+00:09:47,160 --> 00:09:49,640
+who is going to do your quality assurance,
+
+250
+00:09:49,640 --> 00:09:52,270
+and what are the
+responsibilities for those.
+
+251
+00:09:52,270 --> 00:09:54,270
+You also need to create Quality Records
+
+252
+00:09:54,270 --> 00:09:56,480
+and a Quality Register, which is the way
+
+253
+00:09:56,480 --> 00:09:59,200
+you document quality
+throughout the project.
+
+254
+00:09:59,200 --> 00:10:00,960
+You're also going to
+make sure your customer
+
+255
+00:10:00,960 --> 00:10:03,640
+has quality expectations
+and acceptance criteria
+
+256
+00:10:03,640 --> 00:10:05,780
+defined in your product descriptions
+
+257
+00:10:05,780 --> 00:10:08,560
+before you initiate this
+project and move forward,
+
+258
+00:10:08,560 --> 00:10:10,430
+because I can't start building the things
+
+259
+00:10:10,430 --> 00:10:12,760
+if I don't know what I'm building towards.
+
+260
+00:10:12,760 --> 00:10:15,290
+And finally, you should
+look back at other projects
+
+261
+00:10:15,290 --> 00:10:17,630
+and look at the lessons that they learned,
+
+262
+00:10:17,630 --> 00:10:20,410
+and so you can incorporate those
+into your quality planning.
+
+263
+00:10:20,410 --> 00:10:22,500
+Because if I built a phone before,
+
+264
+00:10:22,500 --> 00:10:24,900
+and I couldn't meet a two
+foot drop requirement,
+
+265
+00:10:24,900 --> 00:10:26,330
+I need to figure out that, maybe,
+
+266
+00:10:26,330 --> 00:10:27,880
+that requirement needs to be less,
+
+267
+00:10:27,880 --> 00:10:30,370
+before I start going down
+that road trying to meet it,
+
+268
+00:10:30,370 --> 00:10:32,600
+or I may need to find new technologies.
+
+269
+00:10:32,600 --> 00:10:34,500
+Those lessons learned
+are going to be critical
+
+270
+00:10:34,500 --> 00:10:36,860
+to helping you maintain
+a high level of quality
+
+271
+00:10:36,860 --> 00:10:38,373
+and meet those requirements.
+

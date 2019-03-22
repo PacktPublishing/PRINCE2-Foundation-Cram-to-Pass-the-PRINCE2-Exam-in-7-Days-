@@ -1,0 +1,528 @@
+﻿1
+00:00:00,700 --> 00:00:02,530
+- Closing a project.
+
+2
+00:00:02,530 --> 00:00:05,920
+So our final process is closing a project,
+
+3
+00:00:05,920 --> 00:00:08,100
+and closing a project is
+going to provide us with
+
+4
+00:00:08,100 --> 00:00:12,240
+a fixed point at which acceptance
+of the project's product
+
+5
+00:00:12,240 --> 00:00:13,830
+has been confirmed.
+
+6
+00:00:13,830 --> 00:00:15,960
+This is going to recognize
+that the objectives set
+
+7
+00:00:15,960 --> 00:00:18,720
+out in the original
+project initiation document
+
+8
+00:00:18,720 --> 00:00:20,960
+have been achieved and met,
+
+9
+00:00:20,960 --> 00:00:23,870
+or that the project has
+nothing more to contribute
+
+10
+00:00:23,870 --> 00:00:26,660
+because we're closing it
+early because we failed,
+
+11
+00:00:26,660 --> 00:00:30,000
+or we decided it was no
+longer a valid business case.
+
+12
+00:00:30,000 --> 00:00:33,820
+Now, this is a process, it
+is not a separate stage,
+
+13
+00:00:33,820 --> 00:00:36,720
+as you can see here on
+our process timeline.
+
+14
+00:00:36,720 --> 00:00:39,280
+On our process timeline, you'll
+see that closing a project
+
+15
+00:00:39,280 --> 00:00:42,770
+is a managing level process,
+and it's going to occur
+
+16
+00:00:42,770 --> 00:00:44,510
+in the final stage.
+
+17
+00:00:44,510 --> 00:00:47,690
+Now, once we get to
+this closing a project,
+
+18
+00:00:47,690 --> 00:00:50,430
+this is going to happen because
+we've been told to do it
+
+19
+00:00:50,430 --> 00:00:53,120
+through the directing a project process,
+
+20
+00:00:53,120 --> 00:00:56,770
+it will be approved and then
+we will close out this project.
+
+21
+00:00:56,770 --> 00:00:59,090
+Let's talk a little bit more
+about closing out a project.
+
+22
+00:00:59,090 --> 00:01:00,790
+What's involved with that?
+
+23
+00:01:00,790 --> 00:01:03,260
+Well there's a couple of
+things we need to achieve.
+
+24
+00:01:03,260 --> 00:01:06,280
+We want to ensure that there's
+a clear end to the project,
+
+25
+00:01:06,280 --> 00:01:08,770
+because projects are time constrained,
+
+26
+00:01:08,770 --> 00:01:11,010
+they shouldn't go on forever and ever,
+
+27
+00:01:11,010 --> 00:01:13,630
+they should achieve something
+as a temporary organization
+
+28
+00:01:13,630 --> 00:01:15,420
+and then be taken apart.
+
+29
+00:01:15,420 --> 00:01:17,790
+This is going to ensure that
+we can transition the product
+
+30
+00:01:17,790 --> 00:01:21,120
+of this project to the customer,
+make sure they have it,
+
+31
+00:01:21,120 --> 00:01:23,840
+they've accepted it and
+they are now operating it.
+
+32
+00:01:23,840 --> 00:01:26,210
+We're going to ensure that
+project management resources
+
+33
+00:01:26,210 --> 00:01:29,120
+can be released, so when we
+built this whole project,
+
+34
+00:01:29,120 --> 00:01:32,560
+we had a project board with
+an executive and a senior user
+
+35
+00:01:32,560 --> 00:01:35,330
+and a senior supplier, and
+maybe a change authority,
+
+36
+00:01:35,330 --> 00:01:38,010
+and we had a project manager,
+and we had teams that
+
+37
+00:01:38,010 --> 00:01:39,270
+were working on this.
+
+38
+00:01:39,270 --> 00:01:41,550
+All those people now that
+we're done with the project
+
+39
+00:01:41,550 --> 00:01:44,580
+can be released back to their own jobs,
+
+40
+00:01:44,580 --> 00:01:47,460
+and we're also going to
+ensure that no more costs
+
+41
+00:01:47,460 --> 00:01:49,080
+can be incurred by the project.
+
+42
+00:01:49,080 --> 00:01:51,470
+If you don't close out a
+project, there may still be
+
+43
+00:01:51,470 --> 00:01:53,010
+a line of accounting out there,
+
+44
+00:01:53,010 --> 00:01:55,200
+and people can be charging things to it,
+
+45
+00:01:55,200 --> 00:01:58,070
+and so you want to make sure
+that is appropriately closed down
+
+46
+00:01:58,070 --> 00:01:59,440
+as well.
+
+47
+00:01:59,440 --> 00:02:02,780
+Now in addition to those basic
+objectives we talked about,
+
+48
+00:02:02,780 --> 00:02:04,860
+there's a couple of
+follow-on recommendations
+
+49
+00:02:04,860 --> 00:02:08,500
+that you want to capture as
+part of this closing a project.
+
+50
+00:02:08,500 --> 00:02:10,690
+You want to document any outstanding items
+
+51
+00:02:10,690 --> 00:02:13,430
+that were never completed,
+because maybe you just didn't
+
+52
+00:02:13,430 --> 00:02:15,630
+get to them, maybe they were
+additional things that were
+
+53
+00:02:15,630 --> 00:02:18,360
+minor things that didn't
+need to be completed for this
+
+54
+00:02:18,360 --> 00:02:19,660
+project to be closed,
+
+55
+00:02:19,660 --> 00:02:22,470
+or maybe the project was terminated early
+
+56
+00:02:22,470 --> 00:02:24,890
+and so you have a half finished product.
+
+57
+00:02:24,890 --> 00:02:27,470
+That needs to be listed so
+people can maybe pick it up
+
+58
+00:02:27,470 --> 00:02:29,860
+later on and run with
+it again at a time when
+
+59
+00:02:29,860 --> 00:02:31,800
+there is a better business case.
+
+60
+00:02:31,800 --> 00:02:34,090
+Also, if there were any
+changes that were asked for
+
+61
+00:02:34,090 --> 00:02:36,130
+that weren't implemented,
+you need to make sure
+
+62
+00:02:36,130 --> 00:02:39,350
+those are passed on to the
+operational customer as well,
+
+63
+00:02:39,350 --> 00:02:42,460
+and any risks that may
+still affect operations,
+
+64
+00:02:42,460 --> 00:02:44,010
+like we talked about networks,
+
+65
+00:02:44,010 --> 00:02:46,160
+there's always going to be
+some vulnerabilities out there,
+
+66
+00:02:46,160 --> 00:02:48,270
+there's always going to
+be down time concerns,
+
+67
+00:02:48,270 --> 00:02:51,060
+those type of risks should
+be passed on to operations
+
+68
+00:02:51,060 --> 00:02:53,640
+as well so they can follow up on them.
+
+69
+00:02:53,640 --> 00:02:57,410
+All of these things will be
+part of your end project report
+
+70
+00:02:57,410 --> 00:03:01,320
+that says what the end
+status of this project was.
+
+71
+00:03:01,320 --> 00:03:03,690
+Now, we are going to create,
+as a project manager,
+
+72
+00:03:03,690 --> 00:03:06,640
+a draft project closure notice.
+
+73
+00:03:06,640 --> 00:03:09,360
+This is one of our final things that we do
+
+74
+00:03:09,360 --> 00:03:11,900
+as we prepare it and send
+it up to the project board
+
+75
+00:03:11,900 --> 00:03:13,120
+for their approval.
+
+76
+00:03:13,120 --> 00:03:16,360
+This happens and then the
+directing a project process
+
+77
+00:03:16,360 --> 00:03:18,580
+will either approve it or deny it.
+
+78
+00:03:18,580 --> 00:03:21,070
+If they approve our
+project closure notice,
+
+79
+00:03:21,070 --> 00:03:25,450
+that means we can then start
+this closing a project process
+
+80
+00:03:25,450 --> 00:03:27,640
+and close out the project properly.
+
+81
+00:03:27,640 --> 00:03:29,630
+When the project closure is authorized,
+
+82
+00:03:29,630 --> 00:03:33,490
+all management projects
+should be securely archived
+
+83
+00:03:33,490 --> 00:03:35,520
+and available for any future audits
+
+84
+00:03:35,520 --> 00:03:37,600
+because remember, as part of prints two,
+
+85
+00:03:37,600 --> 00:03:39,990
+somebody can come in
+and audit our work later
+
+86
+00:03:39,990 --> 00:03:41,640
+for quality assurance.
+
+87
+00:03:41,640 --> 00:03:43,520
+We need to make sure we
+don't delete anything,
+
+88
+00:03:43,520 --> 00:03:46,600
+we want to make sure it's all
+properly archived and saved.
+
+89
+00:03:46,600 --> 00:03:49,840
+So, what is the end state
+when we finish the closure
+
+90
+00:03:49,840 --> 00:03:50,990
+of the project?
+
+91
+00:03:50,990 --> 00:03:53,950
+Well, the products are
+transferred over to the customer
+
+92
+00:03:53,950 --> 00:03:54,810
+and they're using them
+
+93
+00:03:54,810 --> 00:03:56,700
+and getting the benefits they thought.
+
+94
+00:03:56,700 --> 00:03:59,020
+The project management team
+is going to return to their
+
+95
+00:03:59,020 --> 00:04:01,960
+normal roles, or if they're
+just a dedicated project
+
+96
+00:04:01,960 --> 00:04:04,800
+management team, they're going
+to start another project.
+
+97
+00:04:04,800 --> 00:04:07,050
+The benefits of this
+project have been realized
+
+98
+00:04:07,050 --> 00:04:08,260
+by the customer.
+
+99
+00:04:08,260 --> 00:04:11,280
+We were told to build a
+network so that another hundred
+
+100
+00:04:11,280 --> 00:04:13,200
+employees could be in the building.
+
+101
+00:04:13,200 --> 00:04:15,580
+Well, we did it, those
+hundred employees are there,
+
+102
+00:04:15,580 --> 00:04:18,120
+they're on the network and
+they're working properly.
+
+103
+00:04:18,120 --> 00:04:20,380
+Great, project can be closed.
+
+104
+00:04:20,380 --> 00:04:23,130
+And we want to document
+any lessons learned again,
+
+105
+00:04:23,130 --> 00:04:26,040
+because we may use these
+in future projects,
+
+106
+00:04:26,040 --> 00:04:28,090
+so let's take the network example.
+
+107
+00:04:28,090 --> 00:04:30,680
+If I built a new network
+for an office building
+
+108
+00:04:30,680 --> 00:04:32,720
+that was going to support a hundred users,
+
+109
+00:04:32,720 --> 00:04:34,880
+do you think I may ever do that again?
+
+110
+00:04:34,880 --> 00:04:36,900
+Well, certainly, when we
+grow for another hundred,
+
+111
+00:04:36,900 --> 00:04:38,850
+we're going to have to do
+the same type of thing again,
+
+112
+00:04:38,850 --> 00:04:40,880
+so the lessons I learned from this project
+
+113
+00:04:40,880 --> 00:04:43,540
+will be useful to whoever's
+going to be running that project,
+
+114
+00:04:43,540 --> 00:04:45,940
+so we want to make sure
+they're properly captured.
+

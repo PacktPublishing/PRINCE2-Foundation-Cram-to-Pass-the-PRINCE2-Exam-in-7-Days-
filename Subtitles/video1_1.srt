@@ -1,0 +1,292 @@
+1
+00:00:00,550 --> 00:00:02,500
+- Welcome to the course.
+
+2
+00:00:02,500 --> 00:00:04,640
+What is this course all about?
+
+3
+00:00:04,640 --> 00:00:06,810
+Well, this course is all about
+
+4
+00:00:06,810 --> 00:00:10,230
+the PRINCE2 Foundation certification.
+
+5
+00:00:10,230 --> 00:00:12,150
+This course is not going to give you
+
+6
+00:00:12,150 --> 00:00:14,270
+an in-depth guide to PRINCE2,
+
+7
+00:00:14,270 --> 00:00:15,660
+but instead we're going to review
+
+8
+00:00:15,660 --> 00:00:17,280
+all of the main concepts
+
+9
+00:00:17,280 --> 00:00:20,660
+so you can take and pass
+the exam with confidence.
+
+10
+00:00:20,660 --> 00:00:23,814
+This course is going to cover
+the frequently asked concepts
+
+11
+00:00:23,814 --> 00:00:26,860
+and it's going to help you
+focus your study efforts
+
+12
+00:00:26,860 --> 00:00:28,620
+to the things you need to know
+
+13
+00:00:28,620 --> 00:00:31,860
+to be able to pass the
+Foundation level exam.
+
+14
+00:00:31,860 --> 00:00:33,480
+Now, who am I?
+
+15
+00:00:33,480 --> 00:00:37,480
+My name is Jason Dion, I'm a
+professor and an instructor.
+
+16
+00:00:37,480 --> 00:00:39,490
+I've been working in
+the cybersecurity field
+
+17
+00:00:39,490 --> 00:00:43,330
+for about two decades and I
+have led and been a part of
+
+18
+00:00:43,330 --> 00:00:45,930
+many many projects through that time.
+
+19
+00:00:45,930 --> 00:00:48,040
+I've dealt with projects in
+the Information Technology
+
+20
+00:00:48,040 --> 00:00:50,950
+space as well as in the
+Cybersecurity space.
+
+21
+00:00:50,950 --> 00:00:52,390
+I've dealt with small projects
+
+22
+00:00:52,390 --> 00:00:54,160
+of just a couple of thousand dollars,
+
+23
+00:00:54,160 --> 00:00:55,930
+all the way up to large projects
+
+24
+00:00:55,930 --> 00:00:58,280
+costing several million dollars.
+
+25
+00:00:58,280 --> 00:00:59,600
+As we go through this course,
+
+26
+00:00:59,600 --> 00:01:01,630
+I'm going to bring out lots of examples
+
+27
+00:01:01,630 --> 00:01:04,450
+to help you understand
+the PRINCE2 methodology
+
+28
+00:01:04,450 --> 00:01:07,662
+and how that fits inside
+a project management.
+
+29
+00:01:07,662 --> 00:01:10,640
+Before we get started, I
+have a couple of pieces
+
+30
+00:01:10,640 --> 00:01:13,100
+of important information
+I want to share with you.
+
+31
+00:01:13,100 --> 00:01:15,900
+First, this course is closed captioned,
+
+32
+00:01:15,900 --> 00:01:18,960
+so if you need to follow along
+with the English captions,
+
+33
+00:01:18,960 --> 00:01:21,920
+you can click on the CC
+button on your video player
+
+34
+00:01:21,920 --> 00:01:24,420
+and you'll be able to
+follow along that way.
+
+35
+00:01:24,420 --> 00:01:27,310
+Second, sometimes I get
+excited about this stuff
+
+36
+00:01:27,310 --> 00:01:29,300
+and I start speaking too fast,
+
+37
+00:01:29,300 --> 00:01:32,293
+or for some students, they
+think I speak too slow.
+
+38
+00:01:32,293 --> 00:01:34,850
+In either case, the player does allow you
+
+39
+00:01:34,850 --> 00:01:37,150
+to speed me up or slow me down
+
+40
+00:01:37,150 --> 00:01:39,520
+by clicking on the 1X button.
+
+41
+00:01:39,520 --> 00:01:40,940
+Go ahead and click on that button
+
+42
+00:01:40,940 --> 00:01:44,550
+and you can increase the
+speed by going to 1.5 or two,
+
+43
+00:01:44,550 --> 00:01:49,550
+or you can decrease the speed
+by going down to 0.5 or 0.75.
+
+44
+00:01:49,970 --> 00:01:52,700
+Also, every slide you see in this course
+
+45
+00:01:52,700 --> 00:01:55,220
+you can download as a PDF file.
+
+46
+00:01:55,220 --> 00:01:57,540
+Attached to this lecture
+you're going to find
+
+47
+00:01:57,540 --> 00:02:00,560
+a downloadable resource
+that has all of the slides
+
+48
+00:02:00,560 --> 00:02:02,470
+in one convenient download,
+
+49
+00:02:02,470 --> 00:02:05,050
+so you can print it off
+or put it on your Ipad
+
+50
+00:02:05,050 --> 00:02:08,660
+or your tablet and take it
+with you for offline studying.
+
+51
+00:02:08,660 --> 00:02:10,680
+And finally, if you have a question,
+
+52
+00:02:10,680 --> 00:02:13,470
+please feel free to post
+it in the Q & A section,
+
+53
+00:02:13,470 --> 00:02:15,500
+or you can join our Facebook group
+
+54
+00:02:15,500 --> 00:02:19,000
+at facebook.com/groups/diontraining
+
+55
+00:02:19,000 --> 00:02:21,500
+and interact with me
+and your fellow students
+
+56
+00:02:21,500 --> 00:02:24,790
+as you're studying for this
+or other certifications.
+
+57
+00:02:24,790 --> 00:02:27,380
+And one final disclaimer
+before we get started.
+
+58
+00:02:27,380 --> 00:02:30,019
+I want to remind you that PRINCE2, ITIL,
+
+59
+00:02:30,019 --> 00:02:32,540
+ITIL v3, ITIL Foundations,
+
+60
+00:02:32,540 --> 00:02:35,350
+and the Information Technology
+Infrastructure Library
+
+61
+00:02:35,350 --> 00:02:37,990
+are all registered trademarks of AXELOS
+
+62
+00:02:37,990 --> 00:02:40,910
+in the United Kingdom and other
+countries around the world.
+
+63
+00:02:40,910 --> 00:02:43,830
+I don't own those terms, I'm
+just teaching you the concepts
+
+64
+00:02:43,830 --> 00:02:46,690
+so that you can pass the
+PRINCE2 Foundation exam,
+
+65
+00:02:46,690 --> 00:02:48,183
+so let's get started.
+

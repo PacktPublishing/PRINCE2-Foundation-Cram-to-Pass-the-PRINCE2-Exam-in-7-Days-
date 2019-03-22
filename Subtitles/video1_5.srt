@@ -1,0 +1,790 @@
+﻿1
+00:00:00,719 --> 00:00:02,940
+- Project Management.
+
+2
+00:00:02,940 --> 00:00:05,500
+So, what is project management?
+
+3
+00:00:05,500 --> 00:00:07,030
+Well, I mentioned that PRINCE2
+
+4
+00:00:07,030 --> 00:00:09,220
+is a project-management methodology.
+
+5
+00:00:09,220 --> 00:00:11,070
+So, we probably should stop and define
+
+6
+00:00:11,070 --> 00:00:12,960
+what project management is.
+
+7
+00:00:12,960 --> 00:00:14,420
+Project management is the practice
+
+8
+00:00:14,420 --> 00:00:18,100
+of initiating, planning,
+executing, controlling,
+
+9
+00:00:18,100 --> 00:00:19,780
+and closing the work of a team
+
+10
+00:00:19,780 --> 00:00:21,410
+to achieve specific goals
+
+11
+00:00:21,410 --> 00:00:25,770
+and meet specific success
+criteria at a specific time.
+
+12
+00:00:25,770 --> 00:00:27,740
+Now, that sounds like a lot of words
+
+13
+00:00:27,740 --> 00:00:30,430
+to explain what is a lot of common sense.
+
+14
+00:00:30,430 --> 00:00:32,950
+But, having a good
+framework and methodology
+
+15
+00:00:32,950 --> 00:00:34,540
+for project management is going
+
+16
+00:00:34,540 --> 00:00:36,530
+to help us and our managers know
+
+17
+00:00:36,530 --> 00:00:39,810
+what we should be doing and
+when we should be doing it.
+
+18
+00:00:39,810 --> 00:00:42,310
+That's really the crux
+of project management.
+
+19
+00:00:42,310 --> 00:00:45,170
+We're trying to be efficient
+in doing our projects
+
+20
+00:00:45,170 --> 00:00:49,550
+so we can save time, save
+money, and minimize the risk.
+
+21
+00:00:49,550 --> 00:00:51,580
+Now, what is a project?
+
+22
+00:00:51,580 --> 00:00:54,810
+Well, a project is a
+temporary organization
+
+23
+00:00:54,810 --> 00:00:56,120
+that's created for the purpose
+
+24
+00:00:56,120 --> 00:00:58,660
+of delivering one or
+more business products
+
+25
+00:00:58,660 --> 00:01:01,100
+according to an agreed-upon business case.
+
+26
+00:01:01,100 --> 00:01:03,690
+We'll talk more about what
+a business case is later on.
+
+27
+00:01:03,690 --> 00:01:05,800
+But, essentially, the key
+thing here with a project,
+
+28
+00:01:05,800 --> 00:01:08,650
+that I want you to take
+away is the word temporary.
+
+29
+00:01:08,650 --> 00:01:11,200
+A project is not everlasting.
+
+30
+00:01:11,200 --> 00:01:14,690
+A project has a defined
+beginning and end state.
+
+31
+00:01:14,690 --> 00:01:16,160
+So, if I'm going to use the example
+
+32
+00:01:16,160 --> 00:01:17,900
+of an e-commerce website.
+
+33
+00:01:17,900 --> 00:01:21,080
+We may have a project
+to build the website.
+
+34
+00:01:21,080 --> 00:01:22,730
+We're going to have to come
+up with the creation of it.
+
+35
+00:01:22,730 --> 00:01:23,680
+We're going to have to code it.
+
+36
+00:01:23,680 --> 00:01:24,800
+We're going to have to test it,
+
+37
+00:01:24,800 --> 00:01:26,030
+and we're going to have to field it.
+
+38
+00:01:26,030 --> 00:01:28,500
+But, once we field it and
+we open it for business
+
+39
+00:01:28,500 --> 00:01:30,040
+for customers to use,
+
+40
+00:01:30,040 --> 00:01:31,880
+that need to stop being a project
+
+41
+00:01:31,880 --> 00:01:33,600
+and start being an operation.
+
+42
+00:01:33,600 --> 00:01:35,580
+So, we're going to
+transition this product,
+
+43
+00:01:35,580 --> 00:01:38,260
+this website, over to
+the people who are going
+
+44
+00:01:38,260 --> 00:01:40,220
+to run it on a daily basis.
+
+45
+00:01:40,220 --> 00:01:42,830
+Notice, it has a beginning;
+and it has an end.
+
+46
+00:01:42,830 --> 00:01:45,330
+And, that end is defined when we start
+
+47
+00:01:45,330 --> 00:01:47,950
+back with the agreed-upon business case;
+
+48
+00:01:47,950 --> 00:01:49,260
+which in this case of a website
+
+49
+00:01:49,260 --> 00:01:51,530
+may be to provide an e-commerce website
+
+50
+00:01:51,530 --> 00:01:53,820
+that sells video training courses.
+
+51
+00:01:53,820 --> 00:01:54,653
+Right?
+
+52
+00:01:54,653 --> 00:01:57,150
+Once we've done that, we
+push it over to operations.
+
+53
+00:01:57,150 --> 00:01:58,040
+So, keep that in mind.
+
+54
+00:01:58,040 --> 00:02:00,390
+A project is temporary.
+
+55
+00:02:00,390 --> 00:02:01,900
+So, I think you understand
+
+56
+00:02:01,900 --> 00:02:03,940
+why project management is important
+
+57
+00:02:03,940 --> 00:02:05,270
+and what a project is.
+
+58
+00:02:05,270 --> 00:02:08,020
+But, why should be even use PRINCE2?
+
+59
+00:02:08,020 --> 00:02:11,540
+Well, PRINCE2 is a
+project-management methodology.
+
+60
+00:02:11,540 --> 00:02:13,680
+It's going to provide
+us with best practices
+
+61
+00:02:13,680 --> 00:02:15,710
+that have been learned over 30 years,
+
+62
+00:02:15,710 --> 00:02:19,710
+and we can use to manage
+our project using processes.
+
+63
+00:02:19,710 --> 00:02:21,250
+It can also be combined with things
+
+64
+00:02:21,250 --> 00:02:23,400
+like the Project Management Professional,
+
+65
+00:02:23,400 --> 00:02:26,280
+The IT Infrastructure Library, Agile,
+
+66
+00:02:26,280 --> 00:02:29,570
+and many other methodologies
+and frameworks.
+
+67
+00:02:29,570 --> 00:02:32,290
+It is a mature and proven methodology,
+
+68
+00:02:32,290 --> 00:02:34,700
+and it's going to provide
+us with a common lexicon
+
+69
+00:02:34,700 --> 00:02:38,080
+or terminology that we can
+use to discuss our project
+
+70
+00:02:38,080 --> 00:02:41,150
+so everyone on the team knows
+what we're talking about,
+
+71
+00:02:41,150 --> 00:02:44,450
+making it easier for us
+to accomplish our goal.
+
+72
+00:02:44,450 --> 00:02:46,180
+Now, when we talk about PRINCE2,
+
+73
+00:02:46,180 --> 00:02:49,140
+a lot of times people
+ask me, "What about PMP?"
+
+74
+00:02:49,140 --> 00:02:51,880
+because they're both
+project-management certifications.
+
+75
+00:02:51,880 --> 00:02:55,160
+Well, PRINCE2 focuses on what to do.
+
+76
+00:02:55,160 --> 00:02:58,130
+PMP focuses on how to do it.
+
+77
+00:02:58,130 --> 00:03:01,260
+So, while PRINCE2 is a
+methodology that uses processes;
+
+78
+00:03:01,260 --> 00:03:04,490
+PMP is more of a standard
+and a knowledge base.
+
+79
+00:03:04,490 --> 00:03:06,770
+These certifications aren't
+actually in competition
+
+80
+00:03:06,770 --> 00:03:07,720
+with each other.
+
+81
+00:03:07,720 --> 00:03:10,140
+Instead, they can be used with each other
+
+82
+00:03:10,140 --> 00:03:12,220
+to give you even more benefit.
+
+83
+00:03:12,220 --> 00:03:13,400
+Now, if you're thinking,
+
+84
+00:03:13,400 --> 00:03:15,360
+should I get my PRINCE2 certification
+
+85
+00:03:15,360 --> 00:03:17,300
+or my PMP certification;
+
+86
+00:03:17,300 --> 00:03:19,770
+one of the things that draws
+a lot of people to PRINCE2
+
+87
+00:03:19,770 --> 00:03:22,090
+over PMP is that it doesn't have
+
+88
+00:03:22,090 --> 00:03:24,720
+the educational experience requirement.
+
+89
+00:03:24,720 --> 00:03:27,830
+So, with PMP, before you
+can even take the exam,
+
+90
+00:03:27,830 --> 00:03:30,430
+you have to prove that
+you have 4,000 hours
+
+91
+00:03:30,430 --> 00:03:32,150
+of working on projects.
+
+92
+00:03:32,150 --> 00:03:34,210
+With PRINCE2, that doesn't exist.
+
+93
+00:03:34,210 --> 00:03:37,460
+Instead, they have the
+foundation-level certification
+
+94
+00:03:37,460 --> 00:03:38,293
+where you're going to be able
+
+95
+00:03:38,293 --> 00:03:39,510
+to get some of that experience,
+
+96
+00:03:39,510 --> 00:03:41,600
+get on to a team, and start working.
+
+97
+00:03:41,600 --> 00:03:44,060
+And, then you can move up into a PMP.
+
+98
+00:03:44,060 --> 00:03:46,237
+So, if you're brand new
+to project management,
+
+99
+00:03:46,237 --> 00:03:48,203
+PRINCE2 is a great place to start.
+
+100
+00:03:49,380 --> 00:03:52,350
+Now, what are some other
+benefits of PRINCE2?
+
+101
+00:03:52,350 --> 00:03:54,210
+Well, like I already
+mentioned, it gives you
+
+102
+00:03:54,210 --> 00:03:56,290
+this common dictionary of terms
+
+103
+00:03:56,290 --> 00:03:58,430
+for those who are involved in the project.
+
+104
+00:03:58,430 --> 00:04:01,160
+It also is going to
+explicitly state the roles
+
+105
+00:04:01,160 --> 00:04:03,230
+assigned for each responsibility.
+
+106
+00:04:03,230 --> 00:04:04,220
+And, we'll talk about that
+
+107
+00:04:04,220 --> 00:04:07,220
+in the defining roles and
+responsibility section.
+
+108
+00:04:07,220 --> 00:04:09,860
+It's also very customer-focused by design.
+
+109
+00:04:09,860 --> 00:04:11,310
+PRINCE2 assumes that there
+
+110
+00:04:11,310 --> 00:04:14,100
+is a customer-supplier relationship.
+
+111
+00:04:14,100 --> 00:04:16,630
+Now, that doesn't mean
+that if the customer
+
+112
+00:04:16,630 --> 00:04:19,030
+is outside of your
+organization necessarily.
+
+113
+00:04:19,030 --> 00:04:21,500
+For example, I work in the IT field.
+
+114
+00:04:21,500 --> 00:04:24,840
+I am a supplier to everyone
+else in the organization.
+
+115
+00:04:24,840 --> 00:04:26,130
+I provide them servers.
+
+116
+00:04:26,130 --> 00:04:27,450
+I provide them databases.
+
+117
+00:04:27,450 --> 00:04:30,310
+I provide them all different services.
+
+118
+00:04:30,310 --> 00:04:32,480
+I am the supplier in that relationship.
+
+119
+00:04:32,480 --> 00:04:35,370
+And, my customer may be
+in sales, or marketing,
+
+120
+00:04:35,370 --> 00:04:36,390
+or accounting.
+
+121
+00:04:36,390 --> 00:04:38,570
+It doesn't really matter what
+department I'm servicing;
+
+122
+00:04:38,570 --> 00:04:41,330
+I'm still being the service
+provider or the supplier
+
+123
+00:04:41,330 --> 00:04:42,410
+in that case.
+
+124
+00:04:42,410 --> 00:04:45,880
+PRINCE2 also provides us with
+a lot of repeatable processes.
+
+125
+00:04:45,880 --> 00:04:47,810
+In fact, there are seven processes
+
+126
+00:04:47,810 --> 00:04:49,640
+that we're going to talk about in PRINCE2
+
+127
+00:04:49,640 --> 00:04:51,800
+that every project has to go through.
+
+128
+00:04:51,800 --> 00:04:53,480
+And, if we do it the same way every time,
+
+129
+00:04:53,480 --> 00:04:57,223
+it becomes very predictable,
+and it can reduce our risk.
+
+130
+00:04:58,079 --> 00:05:00,330
+PRINCE2 also delivers on business needs
+
+131
+00:05:00,330 --> 00:05:02,430
+because it's very product-based.
+
+132
+00:05:02,430 --> 00:05:05,020
+It's focused on what the result is.
+
+133
+00:05:05,020 --> 00:05:06,970
+So, we want to make
+sure that, if the result
+
+134
+00:05:06,970 --> 00:05:08,420
+is we're going to build a website,
+
+135
+00:05:08,420 --> 00:05:10,550
+then, at the end of this
+project, we have a website
+
+136
+00:05:10,550 --> 00:05:12,820
+that's ready to go and it's
+delivered to our customer.
+
+137
+00:05:12,820 --> 00:05:13,750
+Right?
+
+138
+00:05:13,750 --> 00:05:16,290
+And, the last thing, is it
+adaptable and tailorable
+
+139
+00:05:16,290 --> 00:05:19,190
+to both the business and
+the size of the project?
+
+140
+00:05:19,190 --> 00:05:22,580
+And, so PRINCE2 has a lot
+of benefits for us to use.
+
+141
+00:05:22,580 --> 00:05:25,471
+But, there's a couple of things
+that it won't provide you.
+
+142
+00:05:25,471 --> 00:05:28,380
+PRINCE2 does not talk
+about specialized aspects
+
+143
+00:05:28,380 --> 00:05:29,380
+of the business.
+
+144
+00:05:29,380 --> 00:05:30,213
+So, we're not going to talk
+
+145
+00:05:30,213 --> 00:05:32,090
+about acquisition and procurement.
+
+146
+00:05:32,090 --> 00:05:34,560
+We're not going to talk
+about legal, or financial,
+
+147
+00:05:34,560 --> 00:05:35,910
+or human resources.
+
+148
+00:05:35,910 --> 00:05:38,180
+Because, all of those
+things are specialized
+
+149
+00:05:38,180 --> 00:05:40,790
+to your organization;
+and they won't be covered
+
+150
+00:05:40,790 --> 00:05:43,000
+in the generic PRINCE2 framework.
+
+151
+00:05:43,000 --> 00:05:44,830
+Instead, PRINCE2 is going to leave that
+
+152
+00:05:44,830 --> 00:05:47,840
+up to your organization
+to decide what's best.
+
+153
+00:05:47,840 --> 00:05:50,650
+It also excludes the management of people.
+
+154
+00:05:50,650 --> 00:05:51,840
+Now, that may seem weird,
+
+155
+00:05:51,840 --> 00:05:53,980
+if you come from a
+project-management background.
+
+156
+00:05:53,980 --> 00:05:56,720
+Because PMP is very focused on management
+
+157
+00:05:56,720 --> 00:05:59,430
+of people, and timelines,
+and Gantt charts,
+
+158
+00:05:59,430 --> 00:06:01,150
+and all of that type of stuff.
+
+159
+00:06:01,150 --> 00:06:03,680
+But, PRINCE2 doesn't worry about that.
+
+160
+00:06:03,680 --> 00:06:07,310
+Instead, it focuses on the
+products and the processes
+
+161
+00:06:07,310 --> 00:06:09,130
+to make sure things get done.
+
+162
+00:06:09,130 --> 00:06:10,720
+They leave the management of people
+
+163
+00:06:10,720 --> 00:06:13,570
+up to your organization
+and the way you organize.
+
+164
+00:06:13,570 --> 00:06:15,680
+And, it also doesn't
+focus on the techniques
+
+165
+00:06:15,680 --> 00:06:17,870
+or dictate how to do something.
+
+166
+00:06:17,870 --> 00:06:21,780
+So, for example, PRINCE2 says
+you need a business case;
+
+167
+00:06:21,780 --> 00:06:24,630
+but it doesn't tell you
+how you have to write it.
+
+168
+00:06:24,630 --> 00:06:26,110
+That's left up to you.
+
+169
+00:06:26,110 --> 00:06:28,880
+Instead, it's more focused on
+the process and the products,
+
+170
+00:06:28,880 --> 00:06:30,730
+the fact that you have a business case;
+
+171
+00:06:30,730 --> 00:06:33,760
+and that business case is
+used throughout the process.
+
+172
+00:06:33,760 --> 00:06:35,840
+Another example is PRINCE2 says you have
+
+173
+00:06:35,840 --> 00:06:37,670
+to have a requirement document,
+
+174
+00:06:37,670 --> 00:06:39,640
+but it doesn't say how to create it,
+
+175
+00:06:39,640 --> 00:06:41,670
+who you need to talk to
+to get it coordinated.
+
+176
+00:06:41,670 --> 00:06:43,190
+Again, all of that is stuff
+
+177
+00:06:43,190 --> 00:06:45,750
+that your organization
+needs to decide for itself
+
+178
+00:06:45,750 --> 00:06:49,640
+as it matures its processes
+using the PRINCE2 framework.
+
+179
+00:06:49,640 --> 00:06:51,929
+(buzzing music)
+

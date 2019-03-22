@@ -1,0 +1,1549 @@
+1
+00:00:00,384 --> 00:00:02,270
+- Organization.
+
+2
+00:00:02,270 --> 00:00:03,850
+The second theme we're going to talk about
+
+3
+00:00:03,850 --> 00:00:05,940
+here is organization.
+
+4
+00:00:05,940 --> 00:00:08,380
+Now, when we talk about
+organization this is how we're
+
+5
+00:00:08,380 --> 00:00:12,080
+going to define and set up a
+project management team structure.
+
+6
+00:00:12,080 --> 00:00:13,960
+And we're going to
+dictate the accountability
+
+7
+00:00:13,960 --> 00:00:16,610
+and responsibility for this project.
+
+8
+00:00:16,610 --> 00:00:20,120
+This is going to implement our
+defined roles and responsibility
+
+9
+00:00:20,120 --> 00:00:23,550
+principle and really help
+us get organized as we move
+
+10
+00:00:23,550 --> 00:00:24,840
+forward with the project.
+
+11
+00:00:24,840 --> 00:00:27,770
+Because, as I said before,
+if you don't clearly identify
+
+12
+00:00:27,770 --> 00:00:30,650
+people's roles and
+responsibilities your project
+
+13
+00:00:30,650 --> 00:00:32,590
+is likely to fail.
+
+14
+00:00:32,590 --> 00:00:35,340
+Now when we talk about PRINCE2 we've mentioned over
+
+15
+00:00:35,340 --> 00:00:38,810
+and over this is a customer
+supplier environment.
+
+16
+00:00:38,810 --> 00:00:41,380
+The customer is the one
+who specifies the result
+
+17
+00:00:41,380 --> 00:00:44,560
+of the project, which is
+going to be your end product.
+
+18
+00:00:44,560 --> 00:00:47,250
+They're going to pay for the
+project and they're going to be
+
+19
+00:00:47,250 --> 00:00:49,800
+the ones realizing the
+benefits from the project.
+
+20
+00:00:49,800 --> 00:00:52,620
+Your suppliers are going
+to be the people, the team,
+
+21
+00:00:52,620 --> 00:00:55,430
+and the organization that
+is supplying the product
+
+22
+00:00:55,430 --> 00:00:57,520
+as requested by the customer.
+
+23
+00:00:57,520 --> 00:01:00,950
+Now, if the work is conducted
+within your own organization
+
+24
+00:01:00,950 --> 00:01:03,380
+your customer and supplier
+can both be inside your
+
+25
+00:01:03,380 --> 00:01:06,640
+organization but maybe
+from different departments.
+
+26
+00:01:06,640 --> 00:01:09,410
+For example, if you're building
+a website you may have the
+
+27
+00:01:09,410 --> 00:01:13,190
+web development team in IT
+building the website to support
+
+28
+00:01:13,190 --> 00:01:15,917
+the customer who is your
+sales and marketing team.
+
+29
+00:01:15,917 --> 00:01:18,240
+And you can see how this
+customer supplier relationship
+
+30
+00:01:18,240 --> 00:01:21,160
+works inside the company as
+well as if you went outside
+
+31
+00:01:21,160 --> 00:01:23,650
+the company for that web development.
+
+32
+00:01:23,650 --> 00:01:26,850
+Now when we look at the
+project board, we have the
+
+33
+00:01:26,850 --> 00:01:30,450
+project board that is made up
+of three key roles, and these
+
+34
+00:01:30,450 --> 00:01:32,180
+are your key decision makers.
+
+35
+00:01:32,180 --> 00:01:34,670
+This is your executive, your senior user,
+
+36
+00:01:34,670 --> 00:01:36,890
+and your senior supplier.
+
+37
+00:01:36,890 --> 00:01:39,379
+When we talk about the project
+board itself this board is
+
+38
+00:01:39,379 --> 00:01:42,640
+the one who has the authority
+to make the decisions to
+
+39
+00:01:42,640 --> 00:01:45,880
+approve your plans, approve
+your deviations from your plans,
+
+40
+00:01:45,880 --> 00:01:48,940
+and approve the resources
+needed for this project.
+
+41
+00:01:48,940 --> 00:01:50,990
+The project board should be no more than
+
+42
+00:01:50,990 --> 00:01:54,220
+five to seven people, because
+as they get larger and larger
+
+43
+00:01:54,220 --> 00:01:56,880
+it gets harder to make decisions.
+
+44
+00:01:56,880 --> 00:02:00,110
+The executive has the deciding
+vote on everything though,
+
+45
+00:02:00,110 --> 00:02:02,990
+because they're the ones
+who have the responsibility
+
+46
+00:02:02,990 --> 00:02:04,810
+to do this work.
+
+47
+00:02:04,810 --> 00:02:07,890
+The executive makes the
+decisions, but the senior user,
+
+48
+00:02:07,890 --> 00:02:10,750
+and senior supplier get
+to inform and recommend
+
+49
+00:02:10,750 --> 00:02:12,750
+and provide advice to them.
+
+50
+00:02:12,750 --> 00:02:16,300
+Remember, the project
+board is not a democracy.
+
+51
+00:02:16,300 --> 00:02:18,450
+It really is more of a
+dictatorship, but it's
+
+52
+00:02:18,450 --> 00:02:21,550
+a benevolent dictatorship,
+where the executive relies on
+
+53
+00:02:21,550 --> 00:02:24,220
+the advice and counsel of
+other people on the boards
+
+54
+00:02:24,220 --> 00:02:26,950
+to make sure the project is successful.
+
+55
+00:02:26,950 --> 00:02:30,180
+Now, when we look at the
+executive this is a role that is
+
+56
+00:02:30,180 --> 00:02:32,720
+performed by only one person.
+
+57
+00:02:32,720 --> 00:02:35,760
+You can't have multiple
+people being the executive.
+
+58
+00:02:35,760 --> 00:02:38,010
+The executive is going to
+represent the business.
+
+59
+00:02:38,010 --> 00:02:40,590
+They're going to represent
+the customer who is paying
+
+60
+00:02:40,590 --> 00:02:41,970
+for this project.
+
+61
+00:02:41,970 --> 00:02:45,340
+So, if we go back to my web
+design example, the executive
+
+62
+00:02:45,340 --> 00:02:48,460
+probably should be somebody
+coming from sales and marketing.
+
+63
+00:02:48,460 --> 00:02:51,370
+Because they are going to be
+the end user of that product,
+
+64
+00:02:51,370 --> 00:02:53,970
+and they're going to be the
+ones who are paying for it.
+
+65
+00:02:53,970 --> 00:02:57,550
+They are responsible ultimately
+for the project's success
+
+66
+00:02:57,550 --> 00:03:00,840
+or failure, and that's why
+they get to make the decisions,
+
+67
+00:03:00,840 --> 00:03:03,100
+based on the advice of the senior user,
+
+68
+00:03:03,100 --> 00:03:04,930
+and the senior supplier.
+
+69
+00:03:04,930 --> 00:03:08,090
+Now the senior user is
+a role that specifies
+
+70
+00:03:08,090 --> 00:03:10,020
+and realizes the benefits.
+
+71
+00:03:10,020 --> 00:03:12,670
+What do we want out of this project?
+
+72
+00:03:12,670 --> 00:03:15,070
+So, again going back to our
+web design example, this is
+
+73
+00:03:15,070 --> 00:03:17,710
+probably somebody from sales
+and marketing, since they are
+
+74
+00:03:17,710 --> 00:03:20,250
+the ones who are going to be
+using and providing service
+
+75
+00:03:20,250 --> 00:03:22,170
+to that website at the end.
+
+76
+00:03:22,170 --> 00:03:25,110
+They're responsible for ensuring
+the project actually meets
+
+77
+00:03:25,110 --> 00:03:28,540
+the requirements and get
+products out that are usable
+
+78
+00:03:28,540 --> 00:03:30,960
+and we can realize benefit from.
+
+79
+00:03:30,960 --> 00:03:33,040
+Now, when we look at our
+senior supplier, they're
+
+80
+00:03:33,040 --> 00:03:35,660
+accountable for bringing
+all the required skills
+
+81
+00:03:35,660 --> 00:03:37,460
+and resources to this project.
+
+82
+00:03:37,460 --> 00:03:40,570
+And so, they're responsible
+for the project's quality.
+
+83
+00:03:40,570 --> 00:03:43,330
+Going back to my web design
+example, the senior supplier
+
+84
+00:03:43,330 --> 00:03:46,200
+would be somebody from the
+web development or IT team,
+
+85
+00:03:46,200 --> 00:03:48,942
+because they're the ones who
+are providing the service
+
+86
+00:03:48,942 --> 00:03:52,180
+to our customer sales and marketing.
+
+87
+00:03:52,180 --> 00:03:54,380
+Kind of see all this
+starts working together.
+
+88
+00:03:54,380 --> 00:03:57,330
+That's the idea here, but
+having clear lines of roles
+
+89
+00:03:57,330 --> 00:04:00,020
+and responsibility makes
+it easy to know who is
+
+90
+00:04:00,020 --> 00:04:01,660
+in charge of what thing,
+
+91
+00:04:01,660 --> 00:04:04,910
+and when something goes wrong
+who are we going to blame?
+
+92
+00:04:04,910 --> 00:04:08,290
+So, there is this other role
+out there called project
+
+93
+00:04:08,290 --> 00:04:11,530
+assurance, now the project
+board is going to be telling
+
+94
+00:04:11,530 --> 00:04:13,610
+the project manager what to do,
+
+95
+00:04:13,610 --> 00:04:15,560
+based on approving their
+plans the project manager's
+
+96
+00:04:15,560 --> 00:04:17,510
+going to go out and do that work.
+
+97
+00:04:17,510 --> 00:04:20,040
+Well project assurance is
+there to make sure the project
+
+98
+00:04:20,040 --> 00:04:22,300
+manager does their job properly.
+
+99
+00:04:22,300 --> 00:04:25,450
+This role is used to assure
+the project board, which is
+
+100
+00:04:25,450 --> 00:04:28,450
+the executive, the senior
+user, and the senior supplier,
+
+101
+00:04:28,450 --> 00:04:31,570
+that the project is
+being conducted properly.
+
+102
+00:04:31,570 --> 00:04:34,358
+This role cannot be held by
+the project manager themselves
+
+103
+00:04:34,358 --> 00:04:37,280
+because that would be like
+checking your own homework,
+
+104
+00:04:37,280 --> 00:04:39,490
+right, you need somebody else to check it.
+
+105
+00:04:39,490 --> 00:04:43,010
+And so, it can be held by a
+project management board member,
+
+106
+00:04:43,010 --> 00:04:46,230
+like the senior user, the senior
+supplier or the executive,
+
+107
+00:04:46,230 --> 00:04:49,210
+or it can be delegated down
+to a third party person
+
+108
+00:04:49,210 --> 00:04:50,980
+within the organization.
+
+109
+00:04:50,980 --> 00:04:53,320
+This person is going to give
+advice to the project manager
+
+110
+00:04:53,320 --> 00:04:55,700
+when needed and they're
+going to review the documents
+
+111
+00:04:55,700 --> 00:04:58,130
+before they make their way
+up to the project board.
+
+112
+00:04:58,130 --> 00:05:02,220
+They are that quality assurance
+check inside of our project.
+
+113
+00:05:02,220 --> 00:05:06,370
+Now, the project manager, this
+is the person doing the work.
+
+114
+00:05:06,370 --> 00:05:09,090
+This is the person responsible
+for the day to day project
+
+115
+00:05:09,090 --> 00:05:12,060
+management activities, and
+reporting progress back to
+
+116
+00:05:12,060 --> 00:05:13,410
+the project board.
+
+117
+00:05:13,410 --> 00:05:15,630
+So, they're going to create
+the highlight report,
+
+118
+00:05:15,630 --> 00:05:18,820
+which we've talked about
+before, and the exception report
+
+119
+00:05:18,820 --> 00:05:20,950
+when we go outside of tolerances.
+
+120
+00:05:20,950 --> 00:05:23,300
+Using these two reports, they're
+going to feed information
+
+121
+00:05:23,300 --> 00:05:25,990
+up to the project board, so
+they can decide whether or not
+
+122
+00:05:25,990 --> 00:05:29,510
+the project should continue
+forward, or should be canceled,
+
+123
+00:05:29,510 --> 00:05:32,030
+but again, before those reports
+go up, they're going to go
+
+124
+00:05:32,030 --> 00:05:34,810
+through project assurance to
+make sure the project manager
+
+125
+00:05:34,810 --> 00:05:36,500
+isn't hiding anything.
+
+126
+00:05:36,500 --> 00:05:38,390
+That's the whole idea here, is
+making sure we have a system
+
+127
+00:05:38,390 --> 00:05:41,372
+of checks and balances so the
+project goes successfully,
+
+128
+00:05:41,372 --> 00:05:44,090
+and no single person becomes that single
+
+129
+00:05:44,090 --> 00:05:45,610
+point of failure.
+
+130
+00:05:45,610 --> 00:05:48,770
+The team manager works for
+the project manager, and there
+
+131
+00:05:48,770 --> 00:05:50,760
+may be multiple team managers.
+
+132
+00:05:50,760 --> 00:05:53,600
+These are the people who
+manage teams of specialists,
+
+133
+00:05:53,600 --> 00:05:55,810
+with the required skills
+to enable the design,
+
+134
+00:05:55,810 --> 00:05:59,340
+and production of a product
+specified by the customer.
+
+135
+00:05:59,340 --> 00:06:02,020
+So, if we go back to my web
+design example, there may be
+
+136
+00:06:02,020 --> 00:06:04,920
+a team who's working on
+graphics, and another team who's
+
+137
+00:06:04,920 --> 00:06:06,070
+working on the code.
+
+138
+00:06:06,070 --> 00:06:07,440
+And another team that's working on the
+
+139
+00:06:07,440 --> 00:06:09,090
+servers and the infrastructure.
+
+140
+00:06:09,090 --> 00:06:11,410
+And all three of those will report up to
+
+141
+00:06:11,410 --> 00:06:13,030
+the project manager.
+
+142
+00:06:13,030 --> 00:06:15,920
+Now, these teams are responsible
+for delivering products
+
+143
+00:06:15,920 --> 00:06:19,940
+on time and within tolerances,
+based on the team plans
+
+144
+00:06:19,940 --> 00:06:22,170
+that they've been given
+from the project manager.
+
+145
+00:06:22,170 --> 00:06:25,110
+They're going to be reporting
+periodically back up to the
+
+146
+00:06:25,110 --> 00:06:27,690
+project manager who then
+takes that information and
+
+147
+00:06:27,690 --> 00:06:30,220
+consolidates it in their reports.
+
+148
+00:06:30,220 --> 00:06:32,870
+Whether that's the highlight
+report or the exception report
+
+149
+00:06:32,870 --> 00:06:35,410
+back up to the project board.
+
+150
+00:06:35,410 --> 00:06:37,570
+The next role we have is something called
+
+151
+00:06:37,570 --> 00:06:39,330
+the change authority.
+
+152
+00:06:39,330 --> 00:06:41,730
+Now the change authority
+is responsible for making
+
+153
+00:06:41,730 --> 00:06:45,060
+decisions about requests
+for change, rfc's and
+
+154
+00:06:45,060 --> 00:06:47,160
+off specification requests.
+
+155
+00:06:47,160 --> 00:06:50,610
+We're going to cover this more
+in the change theme so for now
+
+156
+00:06:50,610 --> 00:06:53,300
+just think about the change
+authority as the person who
+
+157
+00:06:53,300 --> 00:06:56,280
+can approve changes because
+that's what they do.
+
+158
+00:06:56,280 --> 00:06:58,730
+Because any time you have a
+change, that's usually going to
+
+159
+00:06:58,730 --> 00:07:01,870
+cost more money or it's
+going to save some money.
+
+160
+00:07:01,870 --> 00:07:05,350
+And it's going to change the
+requirements for the end product.
+
+161
+00:07:05,350 --> 00:07:08,080
+For example, if you were
+building a house and you had
+
+162
+00:07:08,080 --> 00:07:11,510
+designed it as a three bedroom
+two bath house, and now
+
+163
+00:07:11,510 --> 00:07:13,740
+the person who's house it is
+comes and says, you know what
+
+164
+00:07:13,740 --> 00:07:16,870
+I changed my mind, now
+I want three bedrooms
+
+165
+00:07:16,870 --> 00:07:18,540
+and three bathrooms.
+
+166
+00:07:18,540 --> 00:07:20,680
+Well, now that they want that
+change you're going to have to
+
+167
+00:07:20,680 --> 00:07:23,910
+go through and make a bunch of
+other changes to the project
+
+168
+00:07:23,910 --> 00:07:25,870
+to add that third bathroom.
+
+169
+00:07:25,870 --> 00:07:28,440
+Because that third bathroom
+didn't exist before.
+
+170
+00:07:28,440 --> 00:07:30,220
+And if you put it in
+you're going to lose space
+
+171
+00:07:30,220 --> 00:07:31,270
+from something else.
+
+172
+00:07:31,270 --> 00:07:33,340
+Maybe you're not going
+to have a closet anymore.
+
+173
+00:07:33,340 --> 00:07:35,670
+But now you're going to need
+additional plumbing, and that can
+
+174
+00:07:35,670 --> 00:07:38,092
+cost more or less money
+depending on the change.
+
+175
+00:07:38,092 --> 00:07:40,840
+Somebody has to be the
+approval authority for that
+
+176
+00:07:40,840 --> 00:07:42,650
+change in the project, and that's what the
+
+177
+00:07:42,650 --> 00:07:44,562
+change authority does.
+
+178
+00:07:44,562 --> 00:07:47,460
+Now, there's another role
+that works underneath the
+
+179
+00:07:47,460 --> 00:07:49,550
+project manager that's an optional role,
+
+180
+00:07:49,550 --> 00:07:51,660
+and it's called project support.
+
+181
+00:07:51,660 --> 00:07:53,850
+This is someone who's going
+to assist the project manager
+
+182
+00:07:53,850 --> 00:07:56,930
+and the team managers with
+the daily administration,
+
+183
+00:07:56,930 --> 00:07:59,100
+report generation, progress monitoring,
+
+184
+00:07:59,100 --> 00:08:01,040
+and other necessary tasks.
+
+185
+00:08:01,040 --> 00:08:04,460
+If it's a small project you
+may not have project support.
+
+186
+00:08:04,460 --> 00:08:06,520
+You as the project manager may be
+
+187
+00:08:06,520 --> 00:08:08,560
+the project support yourself.
+
+188
+00:08:08,560 --> 00:08:10,960
+If you're in a large project
+though, you're probably going to
+
+189
+00:08:10,960 --> 00:08:13,700
+have somebody to help you,
+because if you're in a large
+
+190
+00:08:13,700 --> 00:08:16,247
+project a single project
+manager can't handle everything
+
+191
+00:08:16,247 --> 00:08:18,900
+by themselves, especially if
+they're getting bogged down
+
+192
+00:08:18,900 --> 00:08:21,640
+in all those change requests,
+all those exceptions, all
+
+193
+00:08:21,640 --> 00:08:24,310
+those highlight reports and
+everything else they need to do.
+
+194
+00:08:24,310 --> 00:08:26,540
+And that's why they'll have
+this team of project support
+
+195
+00:08:26,540 --> 00:08:28,140
+to help them out.
+
+196
+00:08:28,140 --> 00:08:30,400
+Now, I know we've covered
+a lot of different
+
+197
+00:08:30,400 --> 00:08:31,390
+roles out there.
+
+198
+00:08:31,390 --> 00:08:33,930
+We talked about the executive,
+and the senior user,
+
+199
+00:08:33,930 --> 00:08:36,440
+and the senior supplier,
+and the project manager,
+
+200
+00:08:36,440 --> 00:08:38,990
+and the team manager,
+and the project support,
+
+201
+00:08:38,990 --> 00:08:40,670
+and the change authority.
+
+202
+00:08:40,670 --> 00:08:43,366
+All of these roles can have
+more than one person assigned
+
+203
+00:08:43,366 --> 00:08:46,100
+to them except the executive.
+
+204
+00:08:46,100 --> 00:08:49,508
+As you remember, the executive
+is the sole person who's
+
+205
+00:08:49,508 --> 00:08:50,780
+overall responsible for the project.
+
+206
+00:08:50,780 --> 00:08:53,370
+But even the project manager
+if you have a really large
+
+207
+00:08:53,370 --> 00:08:56,990
+project you may have a project
+management team of three
+
+208
+00:08:56,990 --> 00:09:01,020
+or four or five people acting
+as the project manager.
+
+209
+00:09:01,020 --> 00:09:03,730
+Some of these roles can
+actually be combined as well.
+
+210
+00:09:03,730 --> 00:09:06,040
+So, if you're in a small
+project you can have
+
+211
+00:09:06,040 --> 00:09:08,950
+one person who's doing multiple roles.
+
+212
+00:09:08,950 --> 00:09:11,940
+As I mentioned, your
+project manager may also be
+
+213
+00:09:11,940 --> 00:09:14,746
+your project support, two
+different roles being met
+
+214
+00:09:14,746 --> 00:09:17,160
+by one person.
+
+215
+00:09:17,160 --> 00:09:20,470
+Now, just like we had the
+executive was a role that only
+
+216
+00:09:20,470 --> 00:09:23,620
+one person can hold, project
+assurance is a role that
+
+217
+00:09:23,620 --> 00:09:26,140
+cannot be combined with other things.
+
+218
+00:09:26,140 --> 00:09:28,740
+Your project assurance
+cannot be combined with your
+
+219
+00:09:28,740 --> 00:09:30,920
+project manager, your team manager,
+
+220
+00:09:30,920 --> 00:09:32,890
+or your project support roles.
+
+221
+00:09:32,890 --> 00:09:36,650
+Because again, the project
+assurance is overseeing those
+
+222
+00:09:36,650 --> 00:09:39,880
+three roles to make sure they're
+doing their jobs properly.
+
+223
+00:09:39,880 --> 00:09:42,690
+If you want to combine project
+assurance with something else,
+
+224
+00:09:42,690 --> 00:09:45,300
+it has to be combined
+with either the executive,
+
+225
+00:09:45,300 --> 00:09:49,110
+the senior user, or the senior
+supply role, somebody from
+
+226
+00:09:49,110 --> 00:09:50,910
+that project board because they
+
+227
+00:09:50,910 --> 00:09:53,193
+oversee those positions anyway.
+
+228
+00:09:54,060 --> 00:09:56,900
+Now, when we start talking
+about all of this, there are all
+
+229
+00:09:56,900 --> 00:09:58,830
+of these different roles
+and they all have an
+
+230
+00:09:58,830 --> 00:10:00,320
+interest in this project.
+
+231
+00:10:00,320 --> 00:10:02,230
+Anyone with an interest
+in the project is known
+
+232
+00:10:02,230 --> 00:10:03,810
+as a stakeholder.
+
+233
+00:10:03,810 --> 00:10:06,960
+These are people who care
+about the project's outcome.
+
+234
+00:10:06,960 --> 00:10:10,780
+They care about this thing
+coming to life, this product.
+
+235
+00:10:10,780 --> 00:10:13,860
+And all these roles are going to
+be considered as stakeholders.
+
+236
+00:10:13,860 --> 00:10:16,940
+But they're not the only ones,
+in fact you have people who
+
+237
+00:10:16,940 --> 00:10:18,770
+are the end users of your product.
+
+238
+00:10:18,770 --> 00:10:20,950
+They are stakeholders as well.
+
+239
+00:10:20,950 --> 00:10:23,410
+You also have other departments
+within your organization,
+
+240
+00:10:23,410 --> 00:10:25,340
+they are going to be stakeholders.
+
+241
+00:10:25,340 --> 00:10:28,440
+There is really no limit to
+who could be a stakeholder
+
+242
+00:10:28,440 --> 00:10:30,150
+when it comes down to
+anyone with an interest
+
+243
+00:10:30,150 --> 00:10:31,230
+in the project.
+
+244
+00:10:31,230 --> 00:10:34,360
+The determination of the
+project board will be determining
+
+245
+00:10:34,360 --> 00:10:37,150
+who is a valid stakeholder
+that they actually
+
+246
+00:10:37,150 --> 00:10:38,430
+want to hear from.
+
+247
+00:10:38,430 --> 00:10:41,610
+So, if I'm building a website,
+one of my stakeholders
+
+248
+00:10:41,610 --> 00:10:44,940
+may be my end customer, but
+I may not take the time to
+
+249
+00:10:44,940 --> 00:10:47,910
+talk to my customer and do
+that research and communication
+
+250
+00:10:47,910 --> 00:10:49,770
+about everything that I'm building.
+
+251
+00:10:49,770 --> 00:10:52,590
+I may only be keeping that
+internal within my organization.
+
+252
+00:10:52,590 --> 00:10:55,920
+So, some stakeholders will be
+consulted and others will not.
+
+253
+00:10:55,920 --> 00:10:58,080
+It's really up to your
+project board who they
+
+254
+00:10:58,080 --> 00:10:59,470
+want to handle that.
+
+255
+00:10:59,470 --> 00:11:02,150
+Now, just like we talked about
+in business case there were
+
+256
+00:11:02,150 --> 00:11:03,880
+some documents that had to be created.
+
+257
+00:11:03,880 --> 00:11:05,970
+There are some documents
+that need to be created here
+
+258
+00:11:05,970 --> 00:11:07,900
+in the organizational theme.
+
+259
+00:11:07,900 --> 00:11:09,150
+One of those is called the
+
+260
+00:11:09,150 --> 00:11:11,490
+communication management approach.
+
+261
+00:11:11,490 --> 00:11:13,609
+This answers the question of
+how you're going to communicate
+
+262
+00:11:13,609 --> 00:11:16,520
+with those stakeholders, the ones that you
+
+263
+00:11:16,520 --> 00:11:18,060
+wish to communicate with.
+
+264
+00:11:18,060 --> 00:11:20,420
+You're going to have to identify
+their information needs.
+
+265
+00:11:20,420 --> 00:11:22,660
+The method that's going to
+be used for communication
+
+266
+00:11:22,660 --> 00:11:25,720
+is it a meeting, is it a
+report, is it an email.
+
+267
+00:11:25,720 --> 00:11:27,080
+You also have to identify the
+
+268
+00:11:27,080 --> 00:11:28,850
+frequency of that communication.
+
+269
+00:11:28,850 --> 00:11:31,640
+Is it going to be daily
+or weekly or monthly?
+
+270
+00:11:31,640 --> 00:11:34,160
+These are all things you have
+to determine, and once you do
+
+271
+00:11:34,160 --> 00:11:36,310
+you write them down
+inside your communication
+
+272
+00:11:36,310 --> 00:11:37,720
+management approach.
+
+273
+00:11:37,720 --> 00:11:41,010
+For example, your project
+board might require a monthly
+
+274
+00:11:41,010 --> 00:11:44,180
+highlight report from the
+project manger, or they may
+
+275
+00:11:44,180 --> 00:11:45,880
+require a weekly one.
+
+276
+00:11:45,880 --> 00:11:49,050
+It really depends on how
+they want to approach this.
+
+277
+00:11:49,050 --> 00:11:51,650
+And this communication management
+approach will be drafted
+
+278
+00:11:51,650 --> 00:11:53,920
+up by your project manager and submitted
+
+279
+00:11:53,920 --> 00:11:55,779
+to the board for approval.
+
+280
+00:11:55,779 --> 00:11:58,640
+When you look at this
+organizational theme we talked about
+
+281
+00:11:58,640 --> 00:12:02,210
+a lot of roles and responsibilities,
+and I want you to see
+
+282
+00:12:02,210 --> 00:12:04,180
+all on a nice clear chart, which is what
+
+283
+00:12:04,180 --> 00:12:05,700
+I have here on the screen.
+
+284
+00:12:05,700 --> 00:12:09,025
+Remember, the project is going
+to be approved ultimately by
+
+285
+00:12:09,025 --> 00:12:12,860
+corporate or program management
+at the top of the pyramid.
+
+286
+00:12:12,860 --> 00:12:14,871
+They are going to establish an executive
+
+287
+00:12:14,871 --> 00:12:17,260
+inside the project board.
+
+288
+00:12:17,260 --> 00:12:19,610
+That project board will
+have a senior user,
+
+289
+00:12:19,610 --> 00:12:20,800
+or more than one.
+
+290
+00:12:20,800 --> 00:12:23,910
+It'll have an executive only
+one, and it'll have a senior
+
+291
+00:12:23,910 --> 00:12:26,230
+supplier or more than one.
+
+292
+00:12:26,230 --> 00:12:29,220
+Underneath the project board
+the change authority and the
+
+293
+00:12:29,220 --> 00:12:32,370
+project manager work directly
+for the project board.
+
+294
+00:12:32,370 --> 00:12:34,871
+Underneath the project manager
+you have the team managers.
+
+295
+00:12:34,871 --> 00:12:37,970
+And underneath them you
+have the team members.
+
+296
+00:12:37,970 --> 00:12:40,790
+The project manager may have
+project support, which is why
+
+297
+00:12:40,790 --> 00:12:44,140
+there's a dash line there,
+and you have project assurance
+
+298
+00:12:44,140 --> 00:12:47,155
+it is also a dash line that
+would either be overseeing
+
+299
+00:12:47,155 --> 00:12:50,140
+the project management or
+that role would be delegated
+
+300
+00:12:50,140 --> 00:12:53,020
+upward to a senior supplier or senior user
+
+301
+00:12:53,020 --> 00:12:55,480
+to take on that responsibility.
+
+302
+00:12:55,480 --> 00:12:57,810
+So, hopefully this helps bring
+all of this together in one
+
+303
+00:12:57,810 --> 00:12:59,900
+nice clean chart for you to see how all
+
+304
+00:12:59,900 --> 00:13:02,240
+of this coordinates together.
+
+305
+00:13:02,240 --> 00:13:04,448
+Now, just like we did with
+the business case theme,
+
+306
+00:13:04,448 --> 00:13:07,580
+here in the organizational
+theme there are a couple of
+
+307
+00:13:07,580 --> 00:13:10,760
+key things you have to
+do to be able to meet the
+
+308
+00:13:10,760 --> 00:13:12,150
+requirements for it.
+
+309
+00:13:12,150 --> 00:13:14,190
+The minimum requirements are to define
+
+310
+00:13:14,190 --> 00:13:15,910
+the organizational structure.
+
+311
+00:13:15,910 --> 00:13:17,350
+Creating a chart that looks something
+
+312
+00:13:17,350 --> 00:13:19,160
+like the one I just showed you.
+
+313
+00:13:19,160 --> 00:13:21,760
+You're going to create it for
+your organization and assign
+
+314
+00:13:21,760 --> 00:13:23,670
+those people into those roles.
+
+315
+00:13:23,670 --> 00:13:25,920
+You're going to define those
+roles and responsibilities,
+
+316
+00:13:25,920 --> 00:13:28,220
+including role descriptions.
+
+317
+00:13:28,220 --> 00:13:30,240
+Now, what is a role description?
+
+318
+00:13:30,240 --> 00:13:33,760
+A role description is a short
+document, usually no more
+
+319
+00:13:33,760 --> 00:13:36,848
+than a page or two that says
+what that role or that position
+
+320
+00:13:36,848 --> 00:13:39,090
+is responsible for doing.
+
+321
+00:13:39,090 --> 00:13:41,510
+In that way when you assign
+somebody as the senior user
+
+322
+00:13:41,510 --> 00:13:44,490
+you give them this document
+and say here's what's
+
+323
+00:13:44,490 --> 00:13:45,800
+expected of you.
+
+324
+00:13:45,800 --> 00:13:48,590
+And that way they know what
+they're going to be expected to do,
+
+325
+00:13:48,590 --> 00:13:50,780
+and they can say yes
+or no to that position.
+
+326
+00:13:50,780 --> 00:13:54,320
+And the third thing you need
+to do is produce two documents,
+
+327
+00:13:54,320 --> 00:13:57,380
+the first is a project initiation
+document, and the second
+
+328
+00:13:57,380 --> 00:13:59,730
+is a communication management approach.
+
+329
+00:13:59,730 --> 00:14:02,560
+We'll talk more about the
+project initiation document
+
+330
+00:14:02,560 --> 00:14:04,570
+when we get into processes,
+and we talk about
+
+331
+00:14:04,570 --> 00:14:07,540
+initiating a project, because
+it's a much more in depth
+
+332
+00:14:07,540 --> 00:14:09,590
+document and it's required before you can
+
+333
+00:14:09,590 --> 00:14:11,163
+start your project up.
+

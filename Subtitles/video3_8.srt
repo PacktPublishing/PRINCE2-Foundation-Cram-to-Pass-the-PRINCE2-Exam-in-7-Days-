@@ -1,0 +1,848 @@
+1
+00:00:00,515 --> 00:00:03,789
+- Progress, our last theme
+is the progress theme.
+
+2
+00:00:03,789 --> 00:00:05,837
+And when we deal with the progress theme,
+
+3
+00:00:05,837 --> 00:00:08,067
+we're worried about
+establishing the mechanisms
+
+4
+00:00:08,067 --> 00:00:10,893
+to monitor and compare
+the actual achievements
+
+5
+00:00:10,893 --> 00:00:12,600
+against those that we plan for.
+
+6
+00:00:12,600 --> 00:00:15,331
+We want to provide a forecast
+for the project's objectives
+
+7
+00:00:15,331 --> 00:00:17,944
+and the projects continued viability
+
+8
+00:00:17,944 --> 00:00:21,753
+as well as controlling any
+unacceptable deviations.
+
+9
+00:00:21,753 --> 00:00:24,376
+Now, that's a big, big ask.
+
+10
+00:00:24,376 --> 00:00:26,456
+Now what does all that really mean?
+
+11
+00:00:26,456 --> 00:00:30,323
+Well, it means we want to put
+into place controls to monitor
+
+12
+00:00:30,323 --> 00:00:33,526
+and compare what's actually
+happened on the project
+
+13
+00:00:33,526 --> 00:00:36,227
+versus what we thought
+should happen on the project
+
+14
+00:00:36,227 --> 00:00:38,808
+and we also want to look out
+into the future to decide
+
+15
+00:00:38,808 --> 00:00:41,005
+is the rest of the project still on track
+
+16
+00:00:41,005 --> 00:00:43,503
+and are we going to be successful?
+
+17
+00:00:43,503 --> 00:00:45,031
+So how do we do all of that?
+
+18
+00:00:45,031 --> 00:00:48,594
+Well, we're going to use some
+effective progress controls.
+
+19
+00:00:48,594 --> 00:00:50,727
+The first is to delegate authority
+
+20
+00:00:50,727 --> 00:00:53,511
+from one level of management
+downward to the next
+
+21
+00:00:53,511 --> 00:00:55,218
+and let people deal with the issues
+
+22
+00:00:55,218 --> 00:00:57,106
+at the lowest level possible.
+
+23
+00:00:57,106 --> 00:00:59,986
+We're also going to divide
+the project up into stages
+
+24
+00:00:59,986 --> 00:01:02,450
+and authorize them one at a time,
+
+25
+00:01:02,450 --> 00:01:05,127
+giving us that go-no-go decision point
+
+26
+00:01:05,127 --> 00:01:07,452
+as we move through the project.
+
+27
+00:01:07,452 --> 00:01:09,202
+We're also going to have time-driven
+
+28
+00:01:09,202 --> 00:01:12,257
+or event-driven progress
+reports and reviews.
+
+29
+00:01:12,257 --> 00:01:14,428
+Again, feeding back to those stages
+
+30
+00:01:14,428 --> 00:01:16,380
+and feeding back to those
+products that we expect
+
+31
+00:01:16,380 --> 00:01:18,876
+to get those go-no-go decisions
+
+32
+00:01:18,876 --> 00:01:21,127
+and we're also going to raise exceptions
+
+33
+00:01:21,127 --> 00:01:23,207
+when things aren't going properly
+
+34
+00:01:23,207 --> 00:01:25,394
+because if you're not
+raising the exceptions,
+
+35
+00:01:25,394 --> 00:01:27,378
+then it's hard for people above you
+
+36
+00:01:27,378 --> 00:01:29,223
+to delegate authority down to you,
+
+37
+00:01:29,223 --> 00:01:31,260
+going back to that first point.
+
+38
+00:01:31,260 --> 00:01:33,319
+Now, all of these project controls
+
+39
+00:01:33,319 --> 00:01:37,138
+should be documented inside
+your Project Initiation Document
+
+40
+00:01:37,138 --> 00:01:39,452
+because this PID is going to tell you
+
+41
+00:01:39,452 --> 00:01:42,524
+what is going to occur
+throughout the whole project
+
+42
+00:01:42,524 --> 00:01:45,415
+and the way you're going
+to conduct your business.
+
+43
+00:01:45,415 --> 00:01:48,834
+Now, tolerances are
+another important control.
+
+44
+00:01:48,834 --> 00:01:50,540
+In fact, they are probably one of
+
+45
+00:01:50,540 --> 00:01:52,898
+the most important controls that's used
+
+46
+00:01:52,898 --> 00:01:55,127
+inside an effective
+PRINCE2 project.
+
+47
+00:01:55,127 --> 00:01:58,167
+This is your permissible
+deviation from a plan
+
+48
+00:01:58,167 --> 00:02:01,602
+before you have to bring it up
+to the next higher authority
+
+49
+00:02:01,602 --> 00:02:04,023
+and so those exceptions are cruded
+
+50
+00:02:04,023 --> 00:02:06,210
+based on exceeding tolerances.
+
+51
+00:02:06,210 --> 00:02:07,586
+So let's start at the bottom.
+
+52
+00:02:07,586 --> 00:02:09,068
+Let's say you're a team manager
+
+53
+00:02:09,068 --> 00:02:12,252
+and you're working on a
+work package or a team plan,
+
+54
+00:02:12,252 --> 00:02:15,239
+you are given tolerances
+from the project manager.
+
+55
+00:02:15,239 --> 00:02:18,007
+Now, if they gave you a 2% tolerance
+
+56
+00:02:18,007 --> 00:02:21,547
+and you exceed that, you
+will give a project issue
+
+57
+00:02:21,547 --> 00:02:25,751
+to the project manager to say
+"I exceeded the tolerance."
+
+58
+00:02:25,751 --> 00:02:28,578
+Now, let's say that that went up to them
+
+59
+00:02:28,578 --> 00:02:32,055
+and they looked at it and
+their tolerance was 3%,
+
+60
+00:02:32,055 --> 00:02:33,580
+they would give them by the project board
+
+61
+00:02:33,580 --> 00:02:36,780
+because stage tolerances are
+set by the project board.
+
+62
+00:02:36,780 --> 00:02:39,148
+If we have now exceeded
+that stage tolerance,
+
+63
+00:02:39,148 --> 00:02:42,530
+the project manager has to
+create an exception report
+
+64
+00:02:42,530 --> 00:02:45,762
+and push that up to the
+project board to deal with.
+
+65
+00:02:45,762 --> 00:02:48,492
+Now the project board has
+their own set of tolerances
+
+66
+00:02:48,492 --> 00:02:50,807
+and if we exceed those
+project level tolerances,
+
+67
+00:02:50,807 --> 00:02:53,175
+then they have to put an exception report
+
+68
+00:02:53,175 --> 00:02:55,767
+up to the corporate or program management
+
+69
+00:02:55,767 --> 00:02:59,372
+because they're the ones who
+set the project tolerances.
+
+70
+00:02:59,372 --> 00:03:02,231
+And so again, the
+lowest, tightest controls
+
+71
+00:03:02,231 --> 00:03:03,447
+should be down at the work package.
+
+72
+00:03:03,447 --> 00:03:05,740
+Those mid-grade controls or tolerances
+
+73
+00:03:05,740 --> 00:03:07,916
+should be at the stage tolerances
+
+74
+00:03:07,916 --> 00:03:10,412
+and then the widest controls or tolerances
+
+75
+00:03:10,412 --> 00:03:12,695
+should be at the project level
+
+76
+00:03:12,695 --> 00:03:14,998
+because as you go up the chain,
+
+77
+00:03:14,998 --> 00:03:17,815
+you have more responsibility
+and more authority
+
+78
+00:03:17,815 --> 00:03:19,639
+and that's the way that
+we can control things
+
+79
+00:03:19,639 --> 00:03:21,452
+using our tolerances.
+
+80
+00:03:21,452 --> 00:03:24,258
+Now, there are two types
+of progress controls
+
+81
+00:03:24,258 --> 00:03:25,091
+that I mentioned.
+
+82
+00:03:25,091 --> 00:03:27,671
+There are time-driven and
+event-driven controls.
+
+83
+00:03:27,671 --> 00:03:31,372
+Time-driven controls are useful
+for monitoring and reporting
+
+84
+00:03:31,372 --> 00:03:33,644
+on time-driven issues.
+
+85
+00:03:33,644 --> 00:03:35,671
+They're going to occur
+at a regular frequency,
+
+86
+00:03:35,671 --> 00:03:37,730
+whatever that is that you've agreed to.
+
+87
+00:03:37,730 --> 00:03:40,738
+So for example, maybe your
+higher reports are submitted
+
+88
+00:03:40,738 --> 00:03:42,839
+every two weeks up to the project board.
+
+89
+00:03:42,839 --> 00:03:44,268
+If that's what you've agreed to,
+
+90
+00:03:44,268 --> 00:03:46,370
+that is a time-driven control.
+
+91
+00:03:46,370 --> 00:03:48,300
+Now, if you look at event-driven controls,
+
+92
+00:03:48,300 --> 00:03:52,322
+these are where you control a
+project using a certain event.
+
+93
+00:03:52,322 --> 00:03:55,586
+This occurs when there's a
+specific thing that happens.
+
+94
+00:03:55,586 --> 00:03:58,882
+So, maybe we're going to lay
+the foundation of a house
+
+95
+00:03:58,882 --> 00:04:00,652
+and then we're going to report that.
+
+96
+00:04:00,652 --> 00:04:02,498
+Maybe it's when we get the drywall up,
+
+97
+00:04:02,498 --> 00:04:03,820
+we'll then report that.
+
+98
+00:04:03,820 --> 00:04:06,146
+Maybe it's when an exception has happened,
+
+99
+00:04:06,146 --> 00:04:07,703
+then we're going to have to report that
+
+100
+00:04:07,703 --> 00:04:09,111
+and create an exception report.
+
+101
+00:04:09,111 --> 00:04:12,034
+These are all examples
+of event-driven controls.
+
+102
+00:04:12,034 --> 00:04:14,231
+So, time is based off the calendar,
+
+103
+00:04:14,231 --> 00:04:17,015
+event-driven are based
+off something that happens
+
+104
+00:04:17,015 --> 00:04:18,583
+driving us to report it.
+
+105
+00:04:18,583 --> 00:04:21,751
+Now, inside of the progress theme
+
+106
+00:04:21,751 --> 00:04:24,748
+there are lots of different
+documents we're going to use.
+
+107
+00:04:24,748 --> 00:04:27,831
+The first is the work
+package, or the team plan.
+
+108
+00:04:27,831 --> 00:04:30,124
+This is authorized by a project manager
+
+109
+00:04:30,124 --> 00:04:32,524
+before work can actually start.
+
+110
+00:04:32,524 --> 00:04:34,658
+Next, we have a lessons log
+
+111
+00:04:34,658 --> 00:04:36,418
+and this is where the lessons learned
+
+112
+00:04:36,418 --> 00:04:38,274
+are going to be captured
+as they're learned
+
+113
+00:04:38,274 --> 00:04:40,332
+any time we do a review.
+
+114
+00:04:40,332 --> 00:04:43,010
+That review may come up as
+part of an in-stage report
+
+115
+00:04:43,010 --> 00:04:46,295
+or an in-progress report
+or some other forum.
+
+116
+00:04:46,295 --> 00:04:48,066
+Next, we have a lessons report
+
+117
+00:04:48,066 --> 00:04:50,764
+and the lessons report is
+going to be a collection
+
+118
+00:04:50,764 --> 00:04:52,332
+of these lessons from the log
+
+119
+00:04:52,332 --> 00:04:55,458
+and they're going to aid in
+our future forecast inaccuracy.
+
+120
+00:04:55,458 --> 00:04:57,570
+So, if we see that we
+are constantly behind
+
+121
+00:04:57,570 --> 00:04:59,500
+every time we use x-vendor,
+
+122
+00:04:59,500 --> 00:05:02,749
+maybe we don't want to
+use x-vendor anymore.
+
+123
+00:05:02,749 --> 00:05:05,495
+Next, we have the end stage report
+
+124
+00:05:05,495 --> 00:05:07,991
+and this is a report that is
+written at the end of the stage
+
+125
+00:05:07,991 --> 00:05:10,711
+to allow that go-no-go decision
+
+126
+00:05:10,711 --> 00:05:13,228
+to be made by the project board.
+
+127
+00:05:13,228 --> 00:05:15,031
+This is conducted at
+the end of every stage
+
+128
+00:05:15,031 --> 00:05:17,570
+and it will give us
+whether or not the project
+
+129
+00:05:17,570 --> 00:05:19,692
+is assessed as being viable
+
+130
+00:05:19,692 --> 00:05:23,415
+to continue if it still
+has a valid business case.
+
+131
+00:05:23,415 --> 00:05:26,530
+And then finally, we have
+the end project report.
+
+132
+00:05:26,530 --> 00:05:27,916
+After you're done with the entire project
+
+133
+00:05:27,916 --> 00:05:30,946
+and all the stages, you have
+to close out this project
+
+134
+00:05:30,946 --> 00:05:33,602
+and to do that we're going
+to use an end project report.
+
+135
+00:05:33,602 --> 00:05:37,079
+It's conducted at the end to
+evaluate the project as a whole
+
+136
+00:05:37,079 --> 00:05:39,490
+and evaluate whether or not
+we can close the project
+
+137
+00:05:39,490 --> 00:05:41,762
+and if there's any outstanding items.
+
+138
+00:05:41,762 --> 00:05:43,959
+We'll talk more about
+the end project report
+
+139
+00:05:43,959 --> 00:05:46,124
+when we talk about closing a project
+
+140
+00:05:46,124 --> 00:05:48,525
+when we get to the processes.
+
+141
+00:05:48,525 --> 00:05:50,263
+Next, let's talk about our controls
+
+142
+00:05:50,263 --> 00:05:52,517
+that are used by our project manager.
+
+143
+00:05:52,517 --> 00:05:55,095
+They're going to use
+controls to create baselines.
+
+144
+00:05:55,095 --> 00:05:57,260
+These controls are things
+like the project plan,
+
+145
+00:05:57,260 --> 00:06:00,786
+the stage plan, the exception
+plan and the work package
+
+146
+00:06:00,786 --> 00:06:03,255
+Because by creating that first product,
+
+147
+00:06:03,255 --> 00:06:05,410
+they create that first baseline.
+
+148
+00:06:05,410 --> 00:06:08,482
+Next, we want to talk about how
+they can review the progress.
+
+149
+00:06:08,482 --> 00:06:10,700
+Well, they can review
+how the project is going
+
+150
+00:06:10,700 --> 00:06:13,666
+by looking at the issue
+register, the risk register,
+
+151
+00:06:13,666 --> 00:06:16,642
+the quality register, the
+product status account
+
+152
+00:06:16,642 --> 00:06:18,103
+or the daily log.
+
+153
+00:06:18,103 --> 00:06:20,759
+All of these help them know
+what the current status
+
+154
+00:06:20,759 --> 00:06:23,394
+and progress of this project is.
+
+155
+00:06:23,394 --> 00:06:25,900
+Next, they have to
+capture and report lessons
+
+156
+00:06:25,900 --> 00:06:27,874
+and they do that using the lessons log
+
+157
+00:06:27,874 --> 00:06:29,790
+and the lessons report.
+
+158
+00:06:29,790 --> 00:06:31,852
+And finally, they have to report progress
+
+159
+00:06:31,852 --> 00:06:34,493
+and this is done using checkpoint reports,
+
+160
+00:06:34,493 --> 00:06:36,631
+the highlight report, the end stage report
+
+161
+00:06:36,631 --> 00:06:39,246
+and the end of project report.
+
+162
+00:06:39,246 --> 00:06:41,079
+All of these are different controls
+
+163
+00:06:41,079 --> 00:06:43,532
+that the project manager
+uses to keep their thumb
+
+164
+00:06:43,532 --> 00:06:46,839
+on the pulse of this project
+as they move forward.
+
+165
+00:06:46,839 --> 00:06:48,290
+Now, when we look
+
+166
+00:06:48,290 --> 00:06:50,092
+at the minimum requirements
+for this theme,
+
+167
+00:06:50,092 --> 00:06:51,831
+there are just a couple of them.
+
+168
+00:06:51,831 --> 00:06:55,628
+We have to define the projects
+approach to control progress.
+
+169
+00:06:55,628 --> 00:06:58,754
+How are we going to make sure
+we progress through the stages?
+
+170
+00:06:58,754 --> 00:07:03,148
+We also need to create our
+Project Initiation Document
+
+171
+00:07:03,148 --> 00:07:04,311
+because that is a key document
+
+172
+00:07:04,311 --> 00:07:06,796
+for us to be able to measure
+our progress against.
+
+173
+00:07:06,796 --> 00:07:08,802
+Next, we need to manage by stages
+
+174
+00:07:08,802 --> 00:07:11,586
+and manage by exception using tolerances.
+
+175
+00:07:11,586 --> 00:07:14,892
+Both of these were key
+principles that we had
+
+176
+00:07:14,892 --> 00:07:18,001
+that are being implemented
+through this theme.
+
+177
+00:07:18,001 --> 00:07:20,204
+Then, we have to review the business case
+
+178
+00:07:20,204 --> 00:07:22,223
+whenever an exception is raised.
+
+179
+00:07:22,223 --> 00:07:23,980
+This is important because
+we want to make sure
+
+180
+00:07:23,980 --> 00:07:26,487
+that the project remains viable.
+
+181
+00:07:26,487 --> 00:07:28,642
+It's still going to meet the used case
+
+182
+00:07:28,642 --> 00:07:30,444
+and it's still going to get
+the benefits for the customer
+
+183
+00:07:30,444 --> 00:07:32,151
+at the price, time and quality
+
+184
+00:07:32,151 --> 00:07:35,436
+and all those factors that
+we promised and agreed upon.
+
+185
+00:07:35,436 --> 00:07:37,943
+And finally, again, we want to learn
+
+186
+00:07:37,943 --> 00:07:39,831
+from previous lessons in the project
+
+187
+00:07:39,831 --> 00:07:42,274
+and this is really important
+inside the progress area
+
+188
+00:07:42,274 --> 00:07:44,034
+because in the progress theme,
+
+189
+00:07:44,034 --> 00:07:45,783
+we're capturing a lot of those lessons
+
+190
+00:07:45,783 --> 00:07:49,283
+in the lessons report and the lessons log.
+

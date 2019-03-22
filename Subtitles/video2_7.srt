@@ -1,0 +1,449 @@
+1
+00:00:00,550 --> 00:00:02,750
+- Focus on Products
+
+2
+00:00:02,750 --> 00:00:06,620
+The Next principle of
+PRINCE2 is Focus On Products,
+
+3
+00:00:06,620 --> 00:00:07,970
+and this asks the question
+
+4
+00:00:07,970 --> 00:00:10,360
+Are we delivering the required quality
+
+5
+00:00:10,360 --> 00:00:12,280
+that we've been tasked with?
+
+6
+00:00:12,280 --> 00:00:13,560
+Well, when we look at this,
+
+7
+00:00:13,560 --> 00:00:16,090
+we want to make sure that we
+are successfully delivering
+
+8
+00:00:16,090 --> 00:00:18,300
+the products that lead to the benefits
+
+9
+00:00:18,300 --> 00:00:20,170
+of the products being realized.
+
+10
+00:00:20,170 --> 00:00:23,960
+So, if I want to deliver an
+app, the app needs to work
+
+11
+00:00:23,960 --> 00:00:26,470
+to the approved quality of the end user.
+
+12
+00:00:26,470 --> 00:00:28,340
+Or if I'm going to build a house,
+
+13
+00:00:28,340 --> 00:00:30,900
+I want to make sure the homeowner
+is happy with that house.
+
+14
+00:00:30,900 --> 00:00:33,650
+If I'm building a car, the
+car has to do the things
+
+15
+00:00:33,650 --> 00:00:36,680
+that we outlined and the
+benefits we said it was going to.
+
+16
+00:00:36,680 --> 00:00:39,120
+This is the idea of Focus On Products,
+
+17
+00:00:39,120 --> 00:00:42,500
+so PRINCE2 is all about
+focusing on the end product
+
+18
+00:00:42,500 --> 00:00:44,890
+and the processes to get you there.
+
+19
+00:00:44,890 --> 00:00:46,390
+Now, when we look at that,
+
+20
+00:00:46,390 --> 00:00:48,910
+this is all about successful delivery.
+
+21
+00:00:48,910 --> 00:00:50,900
+The successful delivery of products
+
+22
+00:00:50,900 --> 00:00:53,950
+means that the stakeholder's
+expectations are met.
+
+23
+00:00:53,950 --> 00:00:55,490
+Now, who are those stakeholders?
+
+24
+00:00:55,490 --> 00:00:58,220
+That was the end user, the supplier,
+
+25
+00:00:58,220 --> 00:00:59,700
+and the executive, right?
+
+26
+00:00:59,700 --> 00:01:02,610
+If those stakeholders are
+having their expectations met,
+
+27
+00:01:02,610 --> 00:01:04,020
+you hit the bullseye.
+
+28
+00:01:04,020 --> 00:01:07,190
+We also want to meet
+the agreed upon quality,
+
+29
+00:01:07,190 --> 00:01:11,040
+so if we said we were going to
+build a network with 99% uptime,
+
+30
+00:01:11,040 --> 00:01:12,950
+and you finish building it after a year
+
+31
+00:01:12,950 --> 00:01:15,570
+and it's only getting 95% uptime,
+
+32
+00:01:15,570 --> 00:01:17,510
+did you get what we agreed upon?
+
+33
+00:01:17,510 --> 00:01:19,200
+Well, no, so you failed.
+
+34
+00:01:19,200 --> 00:01:21,300
+You didn't successfully
+deliver the product.
+
+35
+00:01:21,300 --> 00:01:24,450
+But if you got it to
+99.2, did you meet it?
+
+36
+00:01:24,450 --> 00:01:27,590
+Yes, you exceeded my
+99% and that was great.
+
+37
+00:01:28,430 --> 00:01:29,780
+Also, we want to look at
+
+38
+00:01:29,780 --> 00:01:32,400
+Is this product fit for purpose?
+
+39
+00:01:32,400 --> 00:01:35,030
+Does it do what you
+said it was going to do?
+
+40
+00:01:35,030 --> 00:01:37,270
+If you told me you were going
+to build an electric car
+
+41
+00:01:37,270 --> 00:01:40,800
+that got 100 miles to a
+charge and you built this car
+
+42
+00:01:40,800 --> 00:01:44,870
+and you could only get 75
+miles, did it meet the purpose?
+
+43
+00:01:44,870 --> 00:01:46,510
+Was it fit for purpose?
+
+44
+00:01:46,510 --> 00:01:47,920
+Well, no, because I needed something
+
+45
+00:01:47,920 --> 00:01:49,640
+that did 100 miles, right?
+
+46
+00:01:49,640 --> 00:01:52,890
+So you have to make sure
+you focus on the end result.
+
+47
+00:01:52,890 --> 00:01:54,360
+Even if you made me that electric car
+
+48
+00:01:54,360 --> 00:01:57,230
+and it was half the cost that
+you told me it would cost,
+
+49
+00:01:57,230 --> 00:01:58,820
+I'm still not happy 'cause it didn't do
+
+50
+00:01:58,820 --> 00:02:00,770
+what I wanted it to do.
+
+51
+00:02:00,770 --> 00:02:04,240
+When we look at this, it's all
+about Product-based Planning.
+
+52
+00:02:04,240 --> 00:02:06,370
+Other management methods like PMP
+
+53
+00:02:06,370 --> 00:02:10,450
+focus on an activity-based
+planning, or how to to do things.
+
+54
+00:02:10,450 --> 00:02:13,710
+In PRINCE2, we're focusing on what to do.
+
+55
+00:02:13,710 --> 00:02:16,250
+We want to identify what
+products need to be created,
+
+56
+00:02:16,250 --> 00:02:18,250
+and this becomes our checklist.
+
+57
+00:02:18,250 --> 00:02:19,160
+This is going to reduce
+
+58
+00:02:19,160 --> 00:02:21,310
+any kind of scope crypt from happening,
+
+59
+00:02:21,310 --> 00:02:24,180
+it's going to reduce the
+likelihood that the user acceptance
+
+60
+00:02:24,180 --> 00:02:25,810
+doesn't happen and is disputed,
+
+61
+00:02:25,810 --> 00:02:27,810
+and it's also going to
+reduce the likelihood
+
+62
+00:02:27,810 --> 00:02:31,150
+of users being dissatisfied,
+because if the user says,
+
+63
+00:02:31,150 --> 00:02:34,600
+I want something that
+does X and you deliver X,
+
+64
+00:02:34,600 --> 00:02:36,130
+they're happy, right?
+
+65
+00:02:36,130 --> 00:02:36,990
+That's the idea here.
+
+66
+00:02:36,990 --> 00:02:39,080
+It's all about Product-based Planning
+
+67
+00:02:39,080 --> 00:02:40,830
+and getting what you need done.
+
+68
+00:02:40,830 --> 00:02:43,490
+Now, how do you know
+what the customer wants?
+
+69
+00:02:43,490 --> 00:02:44,940
+How do you agree to that?
+
+70
+00:02:44,940 --> 00:02:47,220
+Well, you use product descriptions.
+
+71
+00:02:47,220 --> 00:02:48,350
+This is going to delineate
+
+72
+00:02:48,350 --> 00:02:50,740
+exactly what the project will deliver.
+
+73
+00:02:50,740 --> 00:02:52,570
+Think about it like a blueprint.
+
+74
+00:02:52,570 --> 00:02:55,730
+It's going to contain the
+purpose, the composition,
+
+75
+00:02:55,730 --> 00:02:58,640
+the specifications, the quality criteria,
+
+76
+00:02:58,640 --> 00:03:01,820
+the tolerance levels and
+the acceptance criteria,
+
+77
+00:03:01,820 --> 00:03:04,340
+and this is all the things
+we're going to agree on
+
+78
+00:03:04,340 --> 00:03:06,470
+before the project starts.
+
+79
+00:03:06,470 --> 00:03:08,490
+It's going to help the
+project team to estimate
+
+80
+00:03:08,490 --> 00:03:12,330
+the amount of resources they
+need, the time, the cost,
+
+81
+00:03:12,330 --> 00:03:14,320
+and what activities need to be done
+
+82
+00:03:14,320 --> 00:03:17,350
+in order to get the product
+to its final delivery
+
+83
+00:03:17,350 --> 00:03:20,280
+and being accepted by the end customer.
+
+84
+00:03:20,280 --> 00:03:22,420
+So if I'm looking at a house example,
+
+85
+00:03:22,420 --> 00:03:24,530
+you'll look with the architect
+about your blueprints,
+
+86
+00:03:24,530 --> 00:03:26,760
+and you'll say I want
+the light switches here,
+
+87
+00:03:26,760 --> 00:03:28,620
+I want this type of air conditioning,
+
+88
+00:03:28,620 --> 00:03:30,110
+I want this type of tile.
+
+89
+00:03:30,110 --> 00:03:32,810
+You put all that detail into the plan
+
+90
+00:03:32,810 --> 00:03:34,330
+as a product description.
+
+91
+00:03:34,330 --> 00:03:35,620
+When you both sign off on it
+
+92
+00:03:35,620 --> 00:03:38,300
+and he delivers the house
+and it has green carpet
+
+93
+00:03:38,300 --> 00:03:40,530
+and you signed off that
+you wanted green carpet,
+
+94
+00:03:40,530 --> 00:03:41,440
+you can't complain
+
+95
+00:03:41,440 --> 00:03:43,240
+because you got what you asked for, right?
+
+96
+00:03:43,240 --> 00:03:44,940
+But if you put red carpet in
+
+97
+00:03:44,940 --> 00:03:46,800
+and the description said green carpet,
+
+98
+00:03:46,800 --> 00:03:48,270
+you can complain, right?
+
+99
+00:03:48,270 --> 00:03:50,560
+So that's the idea here
+with product descriptions.
+
+100
+00:03:50,560 --> 00:03:52,656
+It's making sure that
+everyone's on the same page
+
+101
+00:03:52,656 --> 00:03:55,220
+before we go and dig into this project
+
+102
+00:03:55,220 --> 00:03:58,220
+and start spending lots of time
+and lots of resources on it.
+
